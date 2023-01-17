@@ -10,7 +10,7 @@ interface Props {
   isCombineEnabled?: boolean;
 }
 
-export const AuthorList: React.FC<Props> = ({ listId, listType, player }) => {
+export const Roster: React.FC<Props> = ({ listId, listType, player }) => {
   return (
     <Droppable
       droppableId={listId}

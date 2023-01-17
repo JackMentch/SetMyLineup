@@ -1,5 +1,5 @@
 import { DraggableLocation } from "react-beautiful-dnd";
-import { Player, RosterMap } from "./types";
+import { Player } from "./types";
 
 // a little function to help us with reordering the result
 export const reorder = (

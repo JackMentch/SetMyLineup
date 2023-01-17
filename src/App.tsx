@@ -1,12 +1,12 @@
 import * as React from "react";
 import { DragDropContext } from "react-beautiful-dnd";
 import { reorderRoster } from "./reorder";
-import { AuthorList } from "./AuthorList";
+import { Roster } from "./Roster";
 import { generate } from "shortid";
 import images from "./images.json"
 
-const aId = generate(); 
-const unrankedId = generate(); 
+const aId = generate();
+const unrankedId = generate();
 
 const App = () => {
   const [roster, setRoster] = React.useState([
@@ -19,6 +19,21 @@ const App = () => {
 
   ]);
 
+  // If web app was previously visited, then restore the last defaults
+  React.useEffect(() => {
+    const data = localStorage.getItem('my-roster');
+
+    if (data) {
+      setRoster(JSON.parse(data));
+    }
+
+  }, [])
+
+  // Store the current state so that it can be accessed again
+  React.useEffect(() => {
+    localStorage.setItem("my-roster", JSON.stringify(roster));
+  })
+
   return (
     <DragDropContext
       onDragEnd={({ destination, source }) => {
@@ -26,7 +41,6 @@ const App = () => {
         if (!destination) {
           return;
         }
-
         setRoster(reorderRoster(roster, source, destination));
       }}
     >
@@ -45,7 +59,7 @@ const App = () => {
         }}>add row</button>
 
         {roster.map(player => (
-          <AuthorList
+          <Roster
             internalScroll
             key={player.id}
             listId={player.id}
