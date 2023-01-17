@@ -1,47 +1,56 @@
 import { DraggableLocation } from "react-beautiful-dnd";
-import { ColorMap } from "./types";
+import { Player, RosterMap } from "./types";
 
 // a little function to help us with reordering the result
 export const reorder = (
-  list: any[],
-  startIndex: number,
-  endIndex: number
+    list: any[],
+    startIndex: number,
+    endIndex: number
 ): any[] => {
-  const result = Array.from(list);
-  const [removed] = result.splice(startIndex, 1);
-  result.splice(endIndex, 0, removed);
+    const result = Array.from(list);
+    const [removed] = result.splice(startIndex, 1);
+    result.splice(endIndex, 0, removed);
 
-  return result;
+    return result;
 };
 
-export const reorderColors = (
-  colors: ColorMap,
-  source: DraggableLocation,
-  destination: DraggableLocation
+export const reorderRoster = (
+    roster: Player[],
+    source: DraggableLocation,
+    destination: DraggableLocation
 ) => {
-  const current = [...colors[source.droppableId]];
-  const next = [...colors[destination.droppableId]];
-  const target = current[source.index];
 
-  // moving to same list
-  if (source.droppableId === destination.droppableId) {
-    const reordered = reorder(current, source.index, destination.index);
-    return {
-      ...colors,
-      [source.droppableId]: reordered
+    const current = roster.find(x => x.id === source.droppableId)!;
+    const next = roster.find(x => x.id === destination.droppableId)!;
+    const target = current.urls[source.index];
+
+    // moving to same list
+    if (source.droppableId === destination.droppableId) {
+        const reordered = reorder(current.urls, source.index, destination.index);
+
+        return roster.map(x => x.id === current.id ? { ...x, urls: reordered } : x)
     };
-  }
 
-  // moving to different list
+    // moving to different list
 
-  // remove from original
-  current.splice(source.index, 1);
-  // insert into next
-  next.splice(destination.index, 0, target);
+    // remove from original
+    current.urls.splice(source.index, 1);
+    // insert into next
+    next.urls.splice(destination.index, 0, target);
 
-  return {
-    ...colors,
-    [source.droppableId]: current,
-    [destination.droppableId]: next
-  };
-};
+    return roster.map(x => {
+        if (current.id === x.id) {
+            return {
+                ...x,
+                urls: current.urls
+            };
+        }
+        else if (next.id === x.id) {
+            return {
+                ...x,
+                urls: next.urls
+            };
+        }
+        return x;
+    });
+}

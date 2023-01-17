@@ -1,15 +1,23 @@
 import * as React from "react";
 import { DragDropContext } from "react-beautiful-dnd";
-import { reorderColors } from "./reorder";
-import { ColorMap } from "./types";
+import { reorderRoster } from "./reorder";
 import { AuthorList } from "./AuthorList";
+import { generate } from "shortid";
+import images from "./images.json"
+
+const aId = generate(); 
+const unrankedId = generate(); 
 
 const App = () => {
-  const [colorMap, setColors] = React.useState<ColorMap>({
-    a: ["blue", "red", "yellow"],
-    b: ["pink"],
-    c: ["green", "tan"]
-  });
+  const [roster, setRoster] = React.useState([
+    { id: aId, label: "a", urls: [] },
+    {
+      id: unrankedId,
+      label: "unranked",
+      urls: images
+    }
+
+  ]);
 
   return (
     <DragDropContext
@@ -19,17 +27,30 @@ const App = () => {
           return;
         }
 
-        setColors(reorderColors(colorMap, source, destination));
+        setRoster(reorderRoster(roster, source, destination));
       }}
     >
       <div>
-        {Object.entries(colorMap).map(([k, v]) => (
+
+        <button onClick={() => {
+
+          setRoster([
+            {
+              id: generate(),
+              label: "",
+              urls: [],
+            },
+            ...roster,
+          ])
+        }}>add row</button>
+
+        {roster.map(player => (
           <AuthorList
             internalScroll
-            key={k}
-            listId={k}
+            key={player.id}
+            listId={player.id}
             listType="CARD"
-            colors={v}
+            player={player}
           />
         ))}
       </div>
