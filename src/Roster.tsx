@@ -1,16 +1,16 @@
 import React from "react";
 import { Droppable, Draggable } from "react-beautiful-dnd";
-import { Player } from "./types";
+import { Row } from "./types";
 
 interface Props {
-  player: Player;
+  row: Row;
   listId: string;
   listType?: string;
   internalScroll?: boolean;
   isCombineEnabled?: boolean;
 }
 
-export const Roster: React.FC<Props> = ({ listId, listType, player }) => {
+export const Roster: React.FC<Props> = ({ listId, listType, row }) => {
   return (
     <Droppable
       droppableId={listId}
@@ -21,7 +21,7 @@ export const Roster: React.FC<Props> = ({ listId, listType, player }) => {
       {dropProvided => (
         <div {...dropProvided.droppableProps}>
           <div style={{ display: "flex", backgroundColor: 'pink', minHeight: 60}} ref={dropProvided.innerRef}>
-            {player.urls.map((url, index) => (
+            {row.urls.map((url, index) => (
               <Draggable key={url} draggableId={url} index={index}>
                 {dragProvided => (
                   <div
@@ -29,7 +29,7 @@ export const Roster: React.FC<Props> = ({ listId, listType, player }) => {
                     {...dragProvided.draggableProps}
                     ref={dragProvided.innerRef}
                   >
-                    <img style={{width: 50}} src={url} /> 
+                    <p style={{ margin: 5 }}>{url}</p>
                   </div>
                 )}
               </Draggable>

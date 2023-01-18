@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "default": 1,
+        "name": "Bryce Harper",
+        "team": "Phillies",
+        "ba": ".289"
+    },
+    {
+        "id": "2",
+        "default": 2,
+        "name": "Kyle Schwarber",
+        "team": "Phillies",
+        "ba": ".240"
+    },
+    {
+        "id": "3",
+        "default": 3,
+        "name": "Alec Bohm",
+        "team": "Phillies",
+        "ba": ".240"
+    },
+    {
+        "id": "4",
+        "default": "bench",
+        "name": "Trea Turner",
+        "team": "Phillies",
+        "ba": ".301"
+    }
+]
