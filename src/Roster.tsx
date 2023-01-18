@@ -20,7 +20,7 @@ export const Roster: React.FC<Props> = ({ listId, listType, player }) => {
     >
       {dropProvided => (
         <div {...dropProvided.droppableProps}>
-          <div style={{ display: "flex", backgroundColor: 'pink', margin:20, minHeight: 60}} ref={dropProvided.innerRef}>
+          <div style={{ display: "flex", backgroundColor: 'pink', minHeight: 60}} ref={dropProvided.innerRef}>
             {player.urls.map((url, index) => (
               <Draggable key={url} draggableId={url} index={index}>
                 {dragProvided => (

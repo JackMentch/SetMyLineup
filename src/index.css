@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.roster-container {
+  width: 45%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  }

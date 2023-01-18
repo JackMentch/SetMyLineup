@@ -4,6 +4,7 @@ import { reorderRoster } from "./reorder";
 import { Roster } from "./Roster";
 import { generate } from "shortid";
 import images from "./images.json"
+import "./index.css"
 
 const aId = generate();
 const unrankedId = generate();
@@ -35,6 +36,7 @@ const App = () => {
   })
 
   return (
+    
     <DragDropContext
       onDragEnd={({ destination, source }) => {
         // // dropped outside the list
@@ -47,7 +49,6 @@ const App = () => {
       <div>
 
         <button onClick={() => {
-
           setRoster([
             {
               id: generate(),
@@ -58,6 +59,7 @@ const App = () => {
           ])
         }}>add row</button>
 
+        <div className="roster-container">
         {roster.map(player => (
           <Roster
             internalScroll
@@ -67,8 +69,13 @@ const App = () => {
             player={player}
           />
         ))}
+        </div>
       </div>
     </DragDropContext>
+
+
+    
+    
   );
 };
 
