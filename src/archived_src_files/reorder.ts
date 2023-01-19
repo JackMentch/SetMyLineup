@@ -1,5 +1,5 @@
 import { DraggableLocation } from "react-beautiful-dnd";
-import { Row } from "./types";
+import { Row } from "../types";
 
 // a little function to help us with reordering the result
 export const reorder = (
@@ -22,33 +22,28 @@ export const reorderRoster = (
 
     const current = row.find(x => x.id === source.droppableId)!;
     const next = row.find(x => x.id === destination.droppableId)!;
-    const target = current.urls[source.index];
+    const target = current.players[source.index];
     
-    // moving to same list
-    if (source.droppableId === destination.droppableId) {
-        const reordered = reorder(current.urls, source.index, destination.index);
-
-        return row.map(x => x.id === current.id ? { ...x, urls: reordered } : x)
-    };
-
     // moving to different list
 
     // remove from original
-    current.urls.splice(source.index, 1);
+    current.players.splice(source.index, 1);
     // insert into next
-    next.urls.splice(destination.index, 0, target);
+    next.players.splice(destination.index, 0, target);
+
+
 
     return row.map(x => {
         if (current.id === x.id) {
             return {
                 ...x,
-                urls: current.urls
+                players: current.players
             };
         }
         else if (next.id === x.id) {
             return {
                 ...x,
-                urls: next.urls
+                players: next.players
             };
         }
         return x;

@@ -1,5 +1,5 @@
-import { Player } from "./types";
-import players from "./players.json"
+import { Player } from "../types";
+import players from "../players.json"
 
 export const readPlayers = (): [Player[], Player[]] => {
     let bench: Player[] = [];

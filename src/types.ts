@@ -1,7 +1,7 @@
 export interface Row {
     id: string;
     label: string;
-    urls: string[];
+    players: Player[];
 }
 
 export interface Player {

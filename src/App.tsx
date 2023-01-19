@@ -1,99 +1,80 @@
-import * as React from "react";
-import { DragDropContext } from "react-beautiful-dnd";
-import { reorderRoster } from "./reorder";
-import { Roster } from "./Roster";
-import { generate } from "shortid";
-import images from "./images.json"
-import "./index.css"
-import players from "./players.json"
-import { Player } from "./types";
-import { readPlayers } from "./readPlayersJSON";
+import React, { useState } from "react"
+import { DragDropContext, Draggable, Droppable, DropResult } from "react-beautiful-dnd"
+import "./App.css"
+import { ListItem } from "./rosterSpot"
 
+const listItems = [
+	{
+		id: "1",
+		name: "Study Spanish"
+	},
+	{
+		id: "2",
+		name: "Workout"
+	},
+	{
+		id: "3",
+		name: "Film Youtube"
+	},
+	{
+		id: "4",
+		name: "Grocery Shop"
+	}
+]
 
-const App = () => {
-
-  let [benchList, starterList] = readPlayers();
-
-  const [roster, setRoster] = React.useState([
-    { id: generate(), label: "1", urls: [] },
-    { id: generate(), label: "2", urls: [] },
-    { id: generate(), label: "3", urls: [] },
-    { id: generate(), label: "4", urls: [] },
-    { id: generate(), label: "5", urls: [] },
-    { id: generate(), label: "6", urls: [] },
-    { id: generate(), label: "7", urls: [] },
-    { id: generate(), label: "8", urls: [] },
-    { id: generate(), label: "9", urls: [] },
-    {
-      id: generate(),
-      label: "bench",
-      urls: images
-    }
-
-  ]);
+function App() {
+	const [ todo, setTodo ] = useState(listItems)
+	const [ showStats, setShowStats ] = useState(false)
 
 
 
-  // If web app was previously visited, then restore the last defaults
-  // React.useEffect(() => {
-  //   const data = localStorage.getItem('my-roster');
+	const onDragEnd = (result: DropResult) => {
+		const { source, destination } = result
+		if (!destination) return
 
-  //   if (data) {
-  //     setRoster(JSON.parse(data));
-  //   }
+		const items = Array.from(todo)
+		const [ newOrder ] = items.splice(source.index, 1)
+		items.splice(destination.index, 0, newOrder)
 
-  // }, [])
+		setTodo(items)
+	}
+	return (
+		<div className="App">
+			<h1>Drag and Drop</h1>
+      <button onClick={() => setShowStats((true ? !showStats: showStats))}>Stats</button>
+      
+			<DragDropContext onDragEnd={onDragEnd}>
+				<Droppable droppableId="todo">
+					{(provided) => (
+						<div className="todo" {...provided.droppableProps} ref={provided.innerRef}>
+							{todo.map(({ id, name }, index) => {
+								return (
+									<Draggable key={id} draggableId={id} index={index}>
+										{(provided, snapshot) => (
+											<div className="roster-container"
+												ref={provided.innerRef}
+												{...provided.draggableProps}
+												{...provided.dragHandleProps}
+												style={{background: snapshot.isDragging ? "#4a2975" : "white", ...provided.draggableProps.style}}
+											>
+                      
+												{/* <p className="circle">{index + 1}</p>
+                        <p className="player-name">{name}</p>
+                        <p className="player-position">{name[0]}</p> */}
+                        <ListItem name={name} index={index} showStats={showStats}/>
 
-  // // Store the current state so that it can be accessed again
-  // React.useEffect(() => {
-  //   localStorage.setItem("my-roster", JSON.stringify(roster));
-  // })
+                      </div>
+										)}
+									</Draggable>
+								)
+							})}
+						</div>
+					)}
+				</Droppable>
+			</DragDropContext>
+		</div>
+	)
+}
 
-  return (
+export default App
 
-    <DragDropContext
-      onDragEnd={({ destination, source }) => {
-        // // dropped outside the list
-        if (!destination) {
-          return;
-        }
-        setRoster(reorderRoster(roster, source, destination));
-      }}
-    >
-      <div>
-
-        <button onClick={() => {
-          setRoster([
-            {
-              id: generate(),
-              label: "",
-              urls: [],
-            },
-            ...roster,
-          ])
-        }}>add row</button>
-
-        <p>{benchList[0].name}</p>
-        <p>{starterList[0].name}</p>
-        
-        <div className="roster-container">
-          {roster.map(row => (
-            <Roster
-              internalScroll
-              key={row.id}
-              listId={row.id}
-              listType="CARD"
-              row={row}
-            />
-          ))}
-        </div>
-      </div>
-    </DragDropContext>
-
-
-
-
-  );
-};
-
-export default App;

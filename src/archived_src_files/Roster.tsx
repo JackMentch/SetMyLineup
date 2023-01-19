@@ -1,6 +1,7 @@
 import React from "react";
 import { Droppable, Draggable } from "react-beautiful-dnd";
-import { Row } from "./types";
+import { Row } from "../types";
+import "./index.css"
 
 interface Props {
   row: Row;
@@ -20,16 +21,19 @@ export const Roster: React.FC<Props> = ({ listId, listType, row }) => {
     >
       {dropProvided => (
         <div {...dropProvided.droppableProps}>
-          <div style={{ display: "flex", backgroundColor: 'pink', minHeight: 60}} ref={dropProvided.innerRef}>
-            {row.urls.map((url, index) => (
-              <Draggable key={url} draggableId={url} index={index}>
+          <div style={{ display: "block", backgroundColor: 'pink', minHeight: 60 }} ref={dropProvided.innerRef}>
+            {row.players.map((player, index) => (
+              <Draggable key={player.name} draggableId={player.name} index={index}>
                 {dragProvided => (
                   <div
                     {...dragProvided.dragHandleProps}
                     {...dragProvided.draggableProps}
                     ref={dragProvided.innerRef}
                   >
-                    <p style={{ margin: 5 }}>{url}</p>
+                    <div className="roster-player">
+                      <p style={{ margin: 5 }}>{player.name}</p>
+                      <p style={{ margin: 5 }}>{player.team}</p>
+                    </div>
                   </div>
                 )}
               </Draggable>
