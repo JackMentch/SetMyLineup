@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Phillies"
+    },
+    {
+        "id": "2",
+        "name": "Mets"
+    },
+    {
+        "id": "3",
+        "name": "Braves"
+    },
+    {
+        "id": "4",
+        "name": "Marlins"
+    },
+    {
+        "id": "5",
+        "name": "Nationals"
+    },
+    {
+        "id": "6",
+        "name": "Dodgers"
+    },
+    {
+        "id": "7",
+        "name": "Padres"
+    },
+    {
+        "id": "8",
+        "name": "Giants"
+    },
+    {
+        "id": "9",
+        "name": "Diamondbacks"
+    },
+    {
+        "id": "10",
+        "name": "Rockies"
+    },
+    {
+        "id": "11",
+        "name": "Pirates"
+    },
+    {
+        "id": "12",
+        "name": "Reds"
+    },
+    {
+        "id": "13",
+        "name": "Cardinals"
+    },
+    {
+        "id": "14",
+        "name": "Brewers"
+    },
+    {
+        "id": "15",
+        "name": "Cubs"
+    },
+    {
+        "id": "16",
+        "name": "Yankees"
+    },
+    {
+        "id": "17",
+        "name": "Red Sox"
+    },
+    {
+        "id": "18",
+        "name": "Blue Jays"
+    },
+    {
+        "id": "19",
+        "name": "Rays"
+    },
+    {
+        "id": "20",
+        "name": "Orioles"
+    }
+]

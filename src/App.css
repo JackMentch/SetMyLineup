@@ -5,9 +5,42 @@
 .App {}
 
 
-.roster-container{
-  margin: 10px 70px 10px 70px;
+.roster-container {
+  margin: 10px 40px 10px 40px;
   border-style: outset;
   border-width: 2px;
   border-radius: 10px;
+}
+
+br {
+  line-height: 20px;
+}
+
+.btn {
+  @apply font-bold py-1 px-2 rounded;
+}
+
+.view-stats {
+  right: 41px;
+  position: absolute;
+}
+
+.change-team {
+  left: 41px;
+  position: absolute;
+}
+
+.btn-blue {
+  @apply bg-blue-500 text-white;
+}
+
+.btn-blue:hover {
+  @apply bg-blue-700;
+}
+
+.dropdown-item{
+  position: absolute;
+  left: 74px;
+  z-index: 1;
+  margin-top: 40px;
 }
