@@ -1,25 +1,24 @@
 import React, { useState } from "react";
-import { textSpanIsEmpty } from "typescript";
-import teams from "./teams.json"
+
 
 export interface Team {
     id: string;
     name: string;
 }
 
+interface Props {
+    teams:  string[];
+    getTeam(teamName: string): void;
+}
 
-export const DropdownComponent: React.FC = () => {
+export const DropdownComponent: React.FC<Props> = ({teams, getTeam}) => {
     const [isOpen, setOpen] = useState(false);
-
-    const handleDropDown = () => {
-        setOpen(!isOpen);
-    };
 
     return (
         <div className="dropdown">
             <button
                 className="btn btn-blue change-team rounded inline-flex items-center"
-                onClick={handleDropDown}
+                onClick={() => setOpen((!isOpen))}
             >
                 pick team
                 <svg
@@ -46,13 +45,16 @@ export const DropdownComponent: React.FC = () => {
                 <ul className="h-80 overflow-y-auto w-44 dropdown-item bg-white rounded divide-gray-100 shadow ">
 
                     {teams.map(team => {
-                        return(
-                        <li >
-                        <a href="#" className="block py-2 px-4 hover:bg-gray-100" onClick={handleDropDown}>
-                            {team.name}
-                        </a>
-                        </li>
-                        )})
+                        return (
+                            <li 
+                            key={team}
+                            onClick={() => getTeam(team)}>
+                                <a href="#" className="block py-2 px-4 hover:bg-gray-100" onClick={() => setOpen((!isOpen))}>
+                                    {team}
+                                </a>
+                            </li>
+                        )
+                    })
                     }
 
                 </ul>

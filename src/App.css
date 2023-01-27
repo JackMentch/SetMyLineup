@@ -6,6 +6,7 @@
 
 
 .roster-container {
+  @apply text-gray-300;
   margin: 10px 40px 10px 40px;
   border-style: outset;
   border-width: 2px;
@@ -13,11 +14,43 @@
 }
 
 br {
-  line-height: 20px;
+  line-height: 30px;
 }
 
+.draggable-zone {
+  padding-top: 8px;
+}
+
+h1 {
+  padding-top: 10px;
+  padding-bottom: 1px;
+  text-align: center;
+  @apply font-extrabold mb-2 tracking-tight text-2xl text-gray-200;
+}
+
+h4 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+  @apply font-extrabold tracking-tight text-3xl text-gray-200;
+}
+h5 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+  @apply font-extrabold tracking-tight text-sm text-gray-500;
+}
+h6 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+  @apply tracking-tight text-sm text-gray-600;
+}
+
+
 .btn {
-  @apply font-bold py-1 px-2 rounded;
+  @apply font-bold py-1 px-2 rounded mb-2;
+
 }
 
 .view-stats {
@@ -43,4 +76,20 @@ br {
   left: 74px;
   z-index: 1;
   margin-top: 40px;
+}
+
+.circle-button{
+  @apply rounded-full font-bold py-2 px-2.5 m-5 bg-blue-500 text-white;
+  
+}
+
+
+.bottom {
+  text-align: center;
+}
+
+.team-stats {
+  padding-top: 6px;
+  text-align: center;
+  justify-content: center;
 }

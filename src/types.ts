@@ -6,8 +6,7 @@ export interface Row {
 
 export interface Player {
     id: string;
-    default: string | number;
+    default: string;
     name: string;
-    team: string;
     ba: string;
 }

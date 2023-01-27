@@ -1,0 +1,181 @@
+{
+    "Phillies": {
+        "starters": [
+            {
+                "id": "1",
+                "default": "starter",
+                "name": "Bryce Harper",
+                "ba": ".289"
+            },
+            {
+                "id": "2",
+                "default": "starter",
+                "name": "Kyle Schwarber",
+                "ba": ".240"
+            },
+            {
+                "id": "3",
+                "default": "starter",
+                "name": "Alec Bohm",
+                "ba": ".240"
+            },
+            {
+                "id": "4",
+                "default": "bench",
+                "name": "Trea Turner",
+                "ba": ".301"
+            },
+            {
+                "id": "5",
+                "default": "bench",
+                "name": "Rhys Hoskins",
+                "ba": ".245"
+            },
+            {
+                "id": "6",
+                "default": "bench",
+                "name": "Nick Castellanos",
+                "ba": ".265"
+            },
+            {
+                "id": "7",
+                "default": "bench",
+                "name": "Matt Vierling",
+                "ba": ".215"
+            },
+            {
+                "id": "8",
+                "default": "bench",
+                "name": "Nick Maton",
+                "ba": ".265"
+            },
+            {
+                "id": "9",
+                "default": "bench",
+                "name": "Jake Cave",
+                "ba": ".215"
+            }
+        ],
+        "bench": [
+            {
+                "id": "10",
+                "default": "bench",
+                "name": "Edmundo Sosa",
+                "ba": ".215"
+            }
+
+        ]
+
+        
+    },
+    "Dodgers": {
+        "starters": [
+            {
+                "id": "1",
+                "default": "starter",
+                "name": "Mookie Betts",
+                "ba": ".289"
+            },
+            {
+                "id": "2",
+                "default": "starter",
+                "name": "Freddie Freeman",
+                "ba": ".240"
+            },
+            {
+                "id": "3",
+                "default": "starter",
+                "name": "Gavin Lux",
+                "ba": ".240"
+            },
+            {
+                "id": "4",
+                "default": "bench",
+                "name": "Max Muncy",
+                "ba": ".270"
+            },
+            {
+                "id": "5",
+                "default": "bench",
+                "name": "Will Smith",
+                "ba": ".265"
+            },
+            {
+                "id": "6",
+                "default": "bench",
+                "name": "JD Martinez",
+                "ba": ".265"
+            },
+            {
+                "id": "7",
+                "default": "bench",
+                "name": "Chris Taylor",
+                "ba": ".215"
+            }
+        ],
+        "bench": [
+            {
+                "id": "11",
+                "default": "bench",
+                "name": "Jack Cust",
+                "ba": ".215"
+            }
+
+        ]
+    },
+    "Brewers": {
+        "starters": [
+            {
+                "id": "1",
+                "default": "starter",
+                "name": "William Contreras",
+                "ba": ".289"
+            },
+            {
+                "id": "2",
+                "default": "starter",
+                "name": "Luis Urias",
+                "ba": ".240"
+            },
+            {
+                "id": "3",
+                "default": "starter",
+                "name": "Willy Adames",
+                "ba": ".240"
+            },
+            {
+                "id": "4",
+                "default": "bench",
+                "name": "Christian Yelich",
+                "ba": ".301"
+            },
+            {
+                "id": "5",
+                "default": "bench",
+                "name": "Jesse Winker",
+                "ba": ".245"
+            },
+            {
+                "id": "6",
+                "default": "bench",
+                "name": "Garrett Mitchell",
+                "ba": ".265"
+            },
+            {
+                "id": "7",
+                "default": "bench",
+                "name": "Tyrone Taylor",
+                "ba": ".215"
+            }
+        ],
+        "bench": [
+            {
+                "id": "11",
+                "default": "bench",
+                "name": "Jackson Reilly",
+                "ba": ".215"
+            }
+
+        ]
+    }
+}
