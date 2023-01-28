@@ -62,11 +62,20 @@
                 "default": "bench",
                 "name": "Edmundo Sosa",
                 "ba": ".215"
+            },
+            {
+                "id": "11",
+                "default": "bench",
+                "name": "Darick Hall",
+                "ba": ".212"
+            },
+            {
+                "id": "12",
+                "default": "bench",
+                "name": "FirstName McLongLastName",
+                "ba": ".212"
             }
-
         ]
-
-        
     },
     "Dodgers": {
         "starters": [
@@ -120,7 +129,6 @@
                 "name": "Jack Cust",
                 "ba": ".215"
             }
-
         ]
     },
     "Brewers": {
@@ -175,7 +183,6 @@
                 "name": "Jackson Reilly",
                 "ba": ".215"
             }
-
         ]
     }
 }

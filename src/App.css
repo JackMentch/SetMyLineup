@@ -93,3 +93,24 @@ h6 {
   text-align: center;
   justify-content: center;
 }
+
+.switch-players {
+  padding-top: 6px;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.dropdown-up-item{
+  position: absolute;
+  justify-content: center;
+  z-index: 1;
+  margin-left: 18px;
+  margin-top: -390px;
+}
+
+.overflow{
+  white-space: nowrap;
+  text-align: left;
+  overflow: scroll;
+}

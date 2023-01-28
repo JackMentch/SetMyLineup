@@ -6,6 +6,7 @@ import { ListItem } from "./rosterSpot"
 import data from "./database.json"
 import { ordinal_suffix_of } from "./ordinalSuffix"
 import { changePlayer } from "./changePlayer"
+import { DropdownComponentBench } from "./pickBench"
 
 const teams_list = Object.keys(data);
 
@@ -14,6 +15,8 @@ function App() {
   const [team, setTeam] = useState("Phillies")
   const [players, setPlayers] = useState(data.Phillies.starters)
   const [benchPlayers, setBenchPlayers] = useState(data.Phillies.bench)
+  const [benchPlayer, setBenchPlayer] = useState(benchPlayers[0])
+  const [switchPlayer, setSwitchPlayer] = useState(false)
 
   useEffect(() => {
     const current_players = data[team as keyof typeof data]
@@ -52,9 +55,9 @@ function App() {
 
               <div className="todo" {...provided.droppableProps} ref={provided.innerRef}>
 
-                {players.map(({ id, name }, index) => {
+                {players.map((player, index) => {
                   return (
-                    <Draggable key={id} draggableId={id} index={index}>
+                    <Draggable key={player.id} draggableId={player.id} index={index}>
 
                       {(provided, snapshot) => (
                         <div className="roster-container"
@@ -64,8 +67,15 @@ function App() {
 
                           style={{ background: snapshot.isDragging ? "#596475 " : "#374151", ...provided.draggableProps.style }}
                         >
-                          <div onClick={() => { return name; }}>
-                            <ListItem name={name} index={index + 1} showStats={showStats} />
+                          <div onClick={() => {
+                            if (switchPlayer) {
+                              const newRosters = changePlayer(player, benchPlayer, players, benchPlayers);
+                              setPlayers(newRosters[0]);
+                              setBenchPlayers(newRosters[1]);
+                              setSwitchPlayer(false);
+                            };
+                          }}>
+                            <ListItem name={player.name} index={index + 1} showStats={showStats} />
                           </div>
                         </div>
 
@@ -94,23 +104,24 @@ function App() {
       <div>
 
 
-        <div className="bottom">
+        <div className="switch-players">
 
-          <button className="circle-button" onClick={() => {
-            const rosters = changePlayer(players[0], benchPlayers[0], players, benchPlayers);
-            setPlayers(rosters[0]);
-            setBenchPlayers(rosters[1]);
-  
-          }}>
-            + bench player
-          </button>
-          <button className="circle-button" onClick={() => {}}>
+          <DropdownComponentBench benchPlayers={benchPlayers} getPlayer={(player) => {
+            setSwitchPlayer(true);
+            setBenchPlayer(player)
+          }} />
+
+          <button className="circle-button" onClick={() => { }}>
             + other player
           </button>
         </div>
       </div>
-    </div>
 
+
+
+
+
+    </div>
   )
 }
 

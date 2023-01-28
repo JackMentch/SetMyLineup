@@ -5,18 +5,17 @@ export const changePlayer = (starterPlayer: Player, benchPlayer: Player, starter
     let playerIndex: number = 0;
     
     starters.forEach((player, index) => {
-        if (player.name === starterPlayer.name) {
+        if (player === starterPlayer) {
             playerIndex = index;
         }
     });
     bench.forEach((player, index) => {
-        if (player.name === benchPlayer.name) {
+        if (player === benchPlayer) {
             benchIndex = index;
         }
     });
-    starters.splice(0,1);
-    
-    bench.splice(0,1);
+    starters.splice(playerIndex,1);
+    bench.splice(benchIndex,1);
 
 
     let newStarters =  [
@@ -28,6 +27,9 @@ export const changePlayer = (starterPlayer: Player, benchPlayer: Player, starter
         ...bench,
         starterPlayer
     ]
+
+    console.log(newBench);
+    console.log(newStarters);
     
     
     return [newStarters, newBench] as const
