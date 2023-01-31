@@ -1,7 +1,6 @@
 import { Player } from "./types";
 
-export const changePlayer = (starterPlayer: Player, benchPlayer: Player, starters: Player[], bench: Player[]) => {
-    let benchIndex: number = 0;
+export const changeOtherPlayer = (starterPlayer: Player, otherPlayer: Player, starters: Player[], bench: Player[]) => {
     let playerIndex: number = 0;
 
     starters.forEach((player, index) => {
@@ -9,20 +8,15 @@ export const changePlayer = (starterPlayer: Player, benchPlayer: Player, starter
             playerIndex = index;
         }
     });
-    bench.forEach((player, index) => {
-        if (player === benchPlayer) {
-            benchIndex = index;
-        }
-    });
+
     const firstHalf = starters.slice(0, playerIndex);
     const secondHalf = starters.slice(playerIndex + 1);
 
-    bench.splice(benchIndex, 1);
 
 
     let newStarters = [
         ...firstHalf,
-        benchPlayer,
+        otherPlayer,
         ...secondHalf
     ]
 

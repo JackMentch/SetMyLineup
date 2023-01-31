@@ -4,10 +4,11 @@ import { Player } from "./types";
 
 interface Props {
     benchPlayers: Player[];
+    btnName: string;
     getPlayer(teamName: Player): void;
 }
 
-export const DropdownComponentBench: React.FC<Props> = ({benchPlayers, getPlayer}) => {
+export const DropdownComponentBench: React.FC<Props> = ({benchPlayers, btnName, getPlayer}) => {
     const [isOpen, setOpen] = useState(false);
 
     return (
@@ -17,7 +18,7 @@ export const DropdownComponentBench: React.FC<Props> = ({benchPlayers, getPlayer
                 className="circle-button inline-flex items-center"
                 onClick={() => setOpen((!isOpen))}
             >
-                + bench player
+                + {btnName}
                 <svg
                     className="ml-1 w-4 h-4"
                     aria-hidden="true"
@@ -46,7 +47,7 @@ export const DropdownComponentBench: React.FC<Props> = ({benchPlayers, getPlayer
                         return (
                             <li 
                             className="overflow"
-                            key={player.id}
+                            key={player.name}
                             onClick={() => getPlayer(player)}>
                                 <a href="#" className="block px-1 py-1 hover:bg-gray-100" onClick={() => setOpen((!isOpen))}>
                                     {player.name}

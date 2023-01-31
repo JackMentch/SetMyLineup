@@ -7,6 +7,10 @@ import data from "./database.json"
 import { ordinal_suffix_of } from "./ordinalSuffix"
 import { changePlayer } from "./changePlayer"
 import { DropdownComponentBench } from "./pickBench"
+import { calcStats } from "./calcStats"
+import { statRankings } from "./teamStats"
+import allPlayers from "./playerDatabase.json"
+import { changeOtherPlayer } from "./changeOtherPlayer"
 
 const teams_list = Object.keys(data);
 
@@ -16,7 +20,13 @@ function App() {
   const [players, setPlayers] = useState(data.Phillies.starters)
   const [benchPlayers, setBenchPlayers] = useState(data.Phillies.bench)
   const [benchPlayer, setBenchPlayer] = useState(benchPlayers[0])
-  const [switchPlayer, setSwitchPlayer] = useState(false)
+  const [otherPlayer, setOtherPlayer] = useState(benchPlayers[0])
+  const [switchPlayerBench, setSwitchPlayerBench] = useState(false)
+  const [switchPlayerOther, setSwitchPlayerOther] = useState(false)
+
+  const stats = calcStats(players)
+  const rankings = statRankings(+stats[0], +stats[1], +stats[2])
+  console.log(+stats[0], +stats[1], +stats[2])
 
   useEffect(() => {
     const current_players = data[team as keyof typeof data]
@@ -57,7 +67,7 @@ function App() {
 
                 {players.map((player, index) => {
                   return (
-                    <Draggable key={player.id} draggableId={player.id} index={index}>
+                    <Draggable key={player.name} draggableId={player.name} index={index}>
 
                       {(provided, snapshot) => (
                         <div className="roster-container"
@@ -68,14 +78,20 @@ function App() {
                           style={{ background: snapshot.isDragging ? "#596475 " : "#374151", ...provided.draggableProps.style }}
                         >
                           <div onClick={() => {
-                            if (switchPlayer) {
+                            if (switchPlayerBench) {
                               const newRosters = changePlayer(player, benchPlayer, players, benchPlayers);
                               setPlayers(newRosters[0]);
                               setBenchPlayers(newRosters[1]);
-                              setSwitchPlayer(false);
+                              setSwitchPlayerBench(false);
+                            };
+                            if (switchPlayerOther) {
+                              const newRosters = changeOtherPlayer(player, otherPlayer, players, benchPlayers);
+                              setPlayers(newRosters[0]);
+                              setBenchPlayers(newRosters[1]);
+                              setSwitchPlayerOther(false);
                             };
                           }}>
-                            <ListItem name={player.name} index={index + 1} showStats={showStats} />
+                            <ListItem player={player} index={index + 1} showStats={showStats} />
                           </div>
                         </div>
 
@@ -93,30 +109,32 @@ function App() {
 
       <div className="mx-10">
         <div className="grid grid-cols-3 divide-y-1 divide-green-500 bottom">
-          <div><h4 className="text-slate-100">.249</h4><h5>Avg BA </h5><h6>({ordinal_suffix_of(5)})</h6></div>
-          <div><h4 className="text-slate-100">.249</h4><h5>Avg OBP</h5><h6>({ordinal_suffix_of(21)})</h6></div>
-          <div><h4 className="text-slate-100">.249</h4><h5>Avg OPS</h5><h6>({ordinal_suffix_of(8)})</h6></div>
+          <div><h4 className="text-slate-100">{stats[0]}</h4><h5>Avg BA </h5><h6>({ordinal_suffix_of(rankings[0])})</h6></div>
+          <div><h4 className="text-slate-100">{stats[1]}</h4><h5>Avg OBP</h5><h6>({ordinal_suffix_of(rankings[1])})</h6></div>
+          <div><h4 className="text-slate-100">{stats[2]}</h4><h5>Avg OPS</h5><h6>({ordinal_suffix_of(rankings[2])})</h6></div>
         </div>
       </div>
 
 
 
-      <div>
 
 
-        <div className="switch-players">
+      <div className="switch-players">
 
-          <DropdownComponentBench benchPlayers={benchPlayers} getPlayer={(player) => {
-            setSwitchPlayer(true);
-            setBenchPlayer(player)
-          }} />
+        <DropdownComponentBench benchPlayers={benchPlayers} btnName="bench" getPlayer={(player) => {
+          setSwitchPlayerBench(true);
+          setSwitchPlayerOther(false);
+          setBenchPlayer(player)
+        }} />
 
-          <button className="circle-button" onClick={() => { }}>
-            + other player
-          </button>
-        </div>
+        <DropdownComponentBench benchPlayers={allPlayers.players} btnName="other" getPlayer={(player) => {
+          setSwitchPlayerOther(true);
+          setSwitchPlayerBench(false);
+          setOtherPlayer(player)
+        }} />
+
       </div>
-
+        <p>Developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
 
 
 

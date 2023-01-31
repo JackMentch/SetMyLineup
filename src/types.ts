@@ -5,8 +5,9 @@ export interface Row {
 }
 
 export interface Player {
-    id: string;
-    default: string;
     name: string;
+    pos: string;
     ba: string;
+    obp: string;
+    ops: string;
 }
