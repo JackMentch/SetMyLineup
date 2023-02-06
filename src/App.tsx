@@ -50,7 +50,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>LineupBuildr.com</h1>
+      <h1></h1>
 
       <button className="btn btn-blue view-stats" onClick={() => setShowStats((!showStats))}>
         view stats
