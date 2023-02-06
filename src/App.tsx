@@ -50,7 +50,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1></h1>
+      <h1>Set My Lineup</h1>
+      {/* <p className="title">Set My Lineup</p> */}
 
       <button className="btn btn-blue view-stats" onClick={() => setShowStats((!showStats))}>
         view stats
@@ -134,7 +135,7 @@ function App() {
         }} />
 
       </div>
-        <p>Developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
+        <p className="muse">Developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
 
 
 

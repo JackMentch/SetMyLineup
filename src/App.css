@@ -22,24 +22,32 @@ br {
 }
 
 h1 {
-  padding-top: 15px;
-  padding-bottom: 1px;
+  padding-top: 5px;
+  padding-bottom: 0px;
   text-align: center;
   @apply font-extrabold mb-2 tracking-tight text-2xl text-gray-200;
 }
 
 p {
+  text-align: center;
+}
+
+.muse {
   padding-top: 15px;
   padding-bottom: 15px;
-  text-align: center;
   @apply tracking-tight text-xs text-gray-700;
+}
+.title {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  @apply tracking-tight font-extrabold text-gray-100;
 }
 
 h4 {
   padding-top: 0px;
   padding-bottom: 0px;
   text-align: center;
-  @apply font-extrabold tracking-tight text-3xl text-gray-200;
+  @apply font-extrabold tracking-tight text-2xl text-gray-200;
 }
 h5 {
   padding-top: 0px;
@@ -86,7 +94,7 @@ h6 {
 }
 
 .circle-button{
-  @apply rounded-full font-bold py-2 px-2.5 m-5 bg-blue-500 text-white;
+  @apply rounded-full font-bold py-1.5 px-2.5 mx-5 my-4 bg-blue-500 text-white;
   
 }
 
@@ -102,7 +110,6 @@ h6 {
 }
 
 .switch-players {
-  padding-top: 6px;
   text-align: center;
   justify-content: center;
   display: flex;
