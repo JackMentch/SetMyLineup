@@ -135,7 +135,7 @@ function App() {
         }} />
 
       </div>
-        <p className="muse">Developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
+        {/* <p className="muse">Developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p> */}
 
 
 
