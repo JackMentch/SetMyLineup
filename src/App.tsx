@@ -11,6 +11,8 @@ import { calcStats } from "./calcStats"
 import { statRankings } from "./teamStats"
 import allPlayers from "./playerDatabase.json"
 import { changeOtherPlayer } from "./changeOtherPlayer"
+import { Analytics } from '@vercel/analytics/react'
+
 
 const teams_list = Object.keys(data);
 
@@ -135,11 +137,9 @@ function App() {
         }} />
 
       </div>
-        {/* <p className="muse">Developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p> */}
+      {/* <p className="muse">Developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p> */}
 
-
-
-
+      <Analytics />
     </div>
   )
 }
