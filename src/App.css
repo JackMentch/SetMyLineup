@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.App {}
+.App {
+}
 
 
 .roster-container {
@@ -47,19 +48,19 @@ h4 {
   padding-top: 0px;
   padding-bottom: 0px;
   text-align: center;
-  @apply font-extrabold tracking-tight text-2xl text-gray-200;
+  @apply font-extrabold tracking-tight text-2xl text-gray-100;
 }
 h5 {
   padding-top: 0px;
   padding-bottom: 0px;
   text-align: center;
-  @apply font-extrabold tracking-tight text-sm text-gray-500;
+  @apply font-extrabold tracking-tight text-sm text-gray-200;
 }
 h6 {
   padding-top: 0px;
   padding-bottom: 0px;
   text-align: center;
-  @apply tracking-tight text-sm text-gray-600;
+  @apply tracking-tight text-sm text-gray-200;
 }
 
 
@@ -79,11 +80,11 @@ h6 {
 }
 
 .btn-blue {
-  @apply bg-blue-500 text-white;
+  @apply bg-gray-700 text-white border border-slate-300;
 }
 
 .btn-blue:hover {
-  @apply bg-blue-700;
+  @apply bg-gray-600;
 }
 
 .dropdown-item{
@@ -94,8 +95,12 @@ h6 {
 }
 
 .circle-button{
-  @apply rounded-full font-bold py-1.5 px-2.5 mx-5 my-4 bg-blue-500 text-white;
+  @apply border border-slate-300 rounded-full font-bold py-1.5 px-2.5 mx-5 my-4 bg-gray-700 text-white;
   
+}
+
+.circle-button:hover {
+  @apply bg-gray-600;
 }
 
 

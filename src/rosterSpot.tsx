@@ -5,9 +5,10 @@ interface Props {
   player: Player;
   index: number;
   showStats: boolean;
+  color: string;
 }
 
-export const ListItem: React.FC<Props> = ({ player, index, showStats }) => {
+export const ListItem: React.FC<Props> = ({ player, index, showStats, color }) => {
   return (
     <article className="flex items-start space-x-2 p-1 ">
       <div>
@@ -21,7 +22,7 @@ export const ListItem: React.FC<Props> = ({ player, index, showStats }) => {
 
           <div className="absolute top-0 right-2 flex items-center space-x-1">
             
-            <input type="text" placeholder={player.pos} id="default-input" className="placeholder-white focus:placeholder-opacity-25 w-8 bg-gray-50 border text-center border-gray-300 text-gray-900 rounded-lg focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"></input>
+            <input type="text" placeholder={player.pos} id="default-input" style={{backgroundColor: color}} className="placeholder-white focus:placeholder-opacity-25 w-8 border text-center rounded-lg focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-600 dark:border-gray-100 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"></input>
 
           </div>
 

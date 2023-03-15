@@ -12,6 +12,7 @@ import { statRankings } from "./teamStats"
 import allPlayers from "./playerDatabase.json"
 import { changeOtherPlayer } from "./changeOtherPlayer"
 import { Analytics } from '@vercel/analytics/react'
+import { colorSchemes } from "./colorSchemes"
 
 
 const teams_list = Object.keys(data);
@@ -25,6 +26,8 @@ function App() {
   const [otherPlayer, setOtherPlayer] = useState(benchPlayers[0])
   const [switchPlayerBench, setSwitchPlayerBench] = useState(false)
   const [switchPlayerOther, setSwitchPlayerOther] = useState(false)
+  const [colorScheme, setColorScheme] = useState(colorSchemes.Phillies)
+
 
   const stats = calcStats(players)
   const rankings = statRankings(+stats[0], +stats[1], +stats[2])
@@ -34,6 +37,9 @@ function App() {
     const current_players = data[team as keyof typeof data]
     setPlayers(current_players.starters)
     setBenchPlayers(current_players.bench)
+
+    const current_color = colorSchemes[team.replace(/\s/g, "") as keyof typeof colorSchemes]
+    setColorScheme(current_color)
   }, [team])
 
 
@@ -51,98 +57,116 @@ function App() {
 
 
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundColor: colorScheme[0], height: '100%' }}>
       <h1>Set My Lineup</h1>
       {/* <p className="title">Set My Lineup</p> */}
 
       <button className="btn btn-blue view-stats" onClick={() => setShowStats((!showStats))}>
         view stats
       </button>
+
+
       <DropdownComponent teams={teams_list} getTeam={(teamName) => { setTeam(teamName) }} />
       <br></br>
-      <div className="draggable-zone">
-        <DragDropContext onDragEnd={onDragEnd}>
-          <Droppable droppableId="todo">
-            {(provided) => (
+      <div> {team === "Mets" ? (
+   
+        <p style={{ color: colorScheme[1], marginTop: "100px" }}><b>poverty franchises not supported</b></p>
+      ) : (
+
+        <>
+          <div className="draggable-zone">
+            <DragDropContext onDragEnd={onDragEnd}>
+              <Droppable droppableId="todo">
+                {(provided) => (
 
 
-              <div className="todo" {...provided.droppableProps} ref={provided.innerRef}>
+                  <div {...provided.droppableProps} ref={provided.innerRef}>
 
-                {players.map((player, index) => {
-                  return (
-                    <Draggable key={player.name} draggableId={player.name} index={index}>
+                    {players.map((player, index) => {
+                      return (
+                        <Draggable key={player.name} draggableId={player.name} index={index}>
 
-                      {(provided, snapshot) => (
-                        <div className="roster-container"
-                          ref={provided.innerRef}
-                          {...provided.draggableProps}
-                          {...provided.dragHandleProps}
+                          {(provided, snapshot) => (
+                            <div className="roster-container"
+                              ref={provided.innerRef}
+                              {...provided.draggableProps}
+                              {...provided.dragHandleProps}
 
-                          style={{ background: snapshot.isDragging ? "#596475 " : "#374151", ...provided.draggableProps.style }}
-                        >
-                          <div onClick={() => {
-                            if (switchPlayerBench) {
-                              const newRosters = changePlayer(player, benchPlayer, players, benchPlayers);
-                              setPlayers(newRosters[0]);
-                              setBenchPlayers(newRosters[1]);
-                              setSwitchPlayerBench(false);
-                            };
-                            if (switchPlayerOther) {
-                              const newRosters = changeOtherPlayer(player, otherPlayer, players, benchPlayers);
-                              setPlayers(newRosters[0]);
-                              setBenchPlayers(newRosters[1]);
-                              setSwitchPlayerOther(false);
-                            };
-                          }}>
-                            <ListItem player={player} index={index + 1} showStats={showStats} />
-                          </div>
-                        </div>
+                              style={{ background: snapshot.isDragging ? "#596475" : colorScheme[1], 
+                                      ...provided.draggableProps.style }}
+                            >
+                              <div onClick={() => {
+                                if (switchPlayerBench) {
+                                  const newRosters = changePlayer(player, benchPlayer, players, benchPlayers)
+                                  setPlayers(newRosters[0])
+                                  setBenchPlayers(newRosters[1])
+                                  setSwitchPlayerBench(false)
+                                };
+                                if (switchPlayerOther) {
+                                  const newRosters = changeOtherPlayer(player, otherPlayer, players, benchPlayers)
+                                  setPlayers(newRosters[0])
+                                  setBenchPlayers(newRosters[1])
+                                  setSwitchPlayerOther(false)
+                                };
+                              }}>
+                                <ListItem player={player} index={index + 1} showStats={showStats} color={colorScheme[1]} />
+                              </div>
+                            </div>
 
-                      )}
+                          )}
 
-                    </Draggable>
-                  )
-                })}
-                {provided.placeholder}
+                        </Draggable>
+                      )
+                    })}
+                    {provided.placeholder}
+                  </div>
+                )}
+              </Droppable>
+            </DragDropContext>
+          </div><div className="mx-10">
+            <div className="grid grid-cols-3 divide-y-1 divide-green-500 bottom">
+              <div>
+                <h4 className="text-slate-100">{stats[0]}</h4>
+                <h5>Avg BA </h5>
+                <h6>({ordinal_suffix_of(rankings[0])})</h6>
               </div>
-            )}
-          </Droppable>
-        </DragDropContext>
+              <div>
+                <h4 className="text-slate-100">{stats[1]}</h4>
+                <h5>Avg OBP</h5>
+                <h6>({ordinal_suffix_of(rankings[1])})</h6>
+              </div>
+              <div>
+                <h4 className="text-slate-100">{stats[2]}</h4>
+                <h5>Avg OPS</h5>
+                <h6>({ordinal_suffix_of(rankings[2])})</h6>
+              </div>
+            </div>
+          </div><div className="switch-players">
+
+            <DropdownComponentBench benchPlayers={benchPlayers} btnName="bench" getPlayer={(player) => {
+              setSwitchPlayerBench(true)
+              setSwitchPlayerOther(false)
+              setBenchPlayer(player)
+            }} />
+
+            <DropdownComponentBench benchPlayers={allPlayers.players} btnName="other" getPlayer={(player) => {
+              setSwitchPlayerOther(true)
+              setSwitchPlayerBench(false)
+              setOtherPlayer(player)
+            }} />
+
+          </div>
+        </>
+      )}
       </div>
 
-      <div className="mx-10">
-        <div className="grid grid-cols-3 divide-y-1 divide-green-500 bottom">
-          <div><h4 className="text-slate-100">{stats[0]}</h4><h5>Avg BA </h5><h6>({ordinal_suffix_of(rankings[0])})</h6></div>
-          <div><h4 className="text-slate-100">{stats[1]}</h4><h5>Avg OBP</h5><h6>({ordinal_suffix_of(rankings[1])})</h6></div>
-          <div><h4 className="text-slate-100">{stats[2]}</h4><h5>Avg OPS</h5><h6>({ordinal_suffix_of(rankings[2])})</h6></div>
-        </div>
-      </div>
-
-
-
-
-
-      <div className="switch-players">
-
-        <DropdownComponentBench benchPlayers={benchPlayers} btnName="bench" getPlayer={(player) => {
-          setSwitchPlayerBench(true);
-          setSwitchPlayerOther(false);
-          setBenchPlayer(player)
-        }} />
-
-        <DropdownComponentBench benchPlayers={allPlayers.players} btnName="other" getPlayer={(player) => {
-          setSwitchPlayerOther(true);
-          setSwitchPlayerBench(false);
-          setOtherPlayer(player)
-        }} />
-
-      </div>
       {/* <p className="muse">Developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p> */}
 
 
 
       <Analytics />
-    </div>
+
+    </div >
   )
 }
 

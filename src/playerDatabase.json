@@ -3,2319 +3,1766 @@
     {
       "name": "A.J. Pollock",
       "pos": "DH",
-      "ba": "0.254",
-      "obp": "0.304",
-      "ops": "0.731"
+      "ba": "0.246",
+      "obp": "0.297",
+      "ops": "0.713"
     },
     {
       "name": "Aaron Hicks",
       "pos": "OF",
       "ba": "0.219",
-      "obp": "0.327",
+      "obp": "0.324",
       "ops": "0.681"
     },
     {
       "name": "Aaron Judge",
       "pos": "OF",
-      "ba": "0.287",
-      "obp": "0.392",
-      "ops": "0.977"
-    },
-    {
-      "name": "Aaron Whitefield",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.281",
+      "obp": "0.385",
+      "ops": "0.953"
     },
     {
       "name": "Abraham Almonte",
       "pos": "LF",
-      "ba": "0.222",
-      "obp": "0.309",
-      "ops": "0.684"
+      "ba": "0.167",
+      "obp": "0.286",
+      "ops": "0.453"
     },
     {
       "name": "Abraham Toro",
       "pos": "3B",
-      "ba": "0.230",
-      "obp": "0.296",
-      "ops": "0.679"
+      "ba": "0.238",
+      "obp": "0.306",
+      "ops": "0.698"
     },
     {
       "name": "Adalberto Mondesi",
       "pos": "2B",
-      "ba": "0.222",
-      "obp": "0.266",
-      "ops": "0.632"
+      "ba": "0.230",
+      "obp": "0.272",
+      "ops": "0.658"
     },
     {
       "name": "Adam Duvall",
       "pos": "OF",
-      "ba": "0.218",
-      "obp": "0.277",
-      "ops": "0.715"
+      "ba": "0.222",
+      "obp": "0.282",
+      "ops": "0.721"
     },
     {
       "name": "Adam Engel",
       "pos": "OF",
       "ba": "0.229",
-      "obp": "0.286",
-      "ops": "0.638"
+      "obp": "0.289",
+      "ops": "0.641"
     },
     {
       "name": "Adam Frazier",
       "pos": "2B",
-      "ba": "0.259",
-      "obp": "0.321",
-      "ops": "0.667"
+      "ba": "0.264",
+      "obp": "0.324",
+      "ops": "0.679"
     },
     {
       "name": "Adam Haseley",
       "pos": "LF",
-      "ba": "0.238",
-      "obp": "0.304",
-      "ops": "0.590"
+      "ba": "0.208",
+      "obp": "0.269",
+      "ops": "0.519"
     },
     {
       "name": "Adley Rutschman",
       "pos": "C",
-      "ba": "0.251",
+      "ba": "0.257",
       "obp": "0.352",
-      "ops": "0.779"
+      "ops": "0.787"
     },
     {
       "name": "Adolis Garcia",
       "pos": "OF",
-      "ba": "0.237",
-      "obp": "0.287",
-      "ops": "0.721"
-    },
-    {
-      "name": "Adrian Sanchez",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.236",
+      "obp": "0.284",
+      "ops": "0.718"
     },
     {
       "name": "Akil Baddoo",
       "pos": "OF",
-      "ba": "0.228",
-      "obp": "0.315",
-      "ops": "0.676"
+      "ba": "0.231",
+      "obp": "0.319",
+      "ops": "0.689"
     },
     {
       "name": "Alan Trejo",
       "pos": "2B",
-      "ba": "0.250",
-      "obp": "0.291",
-      "ops": "0.690"
-    },
-    {
-      "name": "Albert Almora",
-      "pos": "CF",
-      "ba": "0.219",
-      "obp": "0.276",
-      "ops": "0.626"
-    },
-    {
-      "name": "Albert Pujols",
-      "pos": "DH",
-      "ba": "0.257",
-      "obp": "0.319",
-      "ops": "0.816"
+      "ba": "0.246",
+      "obp": "0.286",
+      "ops": "0.694"
     },
     {
       "name": "Alcides Escobar",
       "pos": "SS",
-      "ba": "0.245",
-      "obp": "0.290",
-      "ops": "0.634"
+      "ba": "0.247",
+      "obp": "0.299",
+      "ops": "0.657"
     },
     {
       "name": "Alec Bohm",
       "pos": "3B",
-      "ba": "0.273",
-      "obp": "0.318",
-      "ops": "0.726"
+      "ba": "0.276",
+      "obp": "0.323",
+      "ops": "0.735"
     },
     {
       "name": "Alec Burleson",
-      "pos": "RF",
-      "ba": "0.243",
-      "obp": "0.303",
-      "ops": "0.674"
+      "pos": "OF",
+      "ba": "0.266",
+      "obp": "0.318",
+      "ops": "0.736"
     },
     {
       "name": "Aledmys Diaz",
       "pos": "DH",
-      "ba": "0.250",
-      "obp": "0.304",
-      "ops": "0.714"
+      "ba": "0.245",
+      "obp": "0.300",
+      "ops": "0.695"
     },
     {
       "name": "Alejandro Kirk",
       "pos": "C",
-      "ba": "0.279",
+      "ba": "0.280",
       "obp": "0.362",
-      "ops": "0.808"
+      "ops": "0.811"
     },
     {
       "name": "Alejo Lopez",
       "pos": "DH",
-      "ba": "0.270",
-      "obp": "0.325",
-      "ops": "0.682"
+      "ba": "0.257",
+      "obp": "0.297",
+      "ops": "0.611"
     },
     {
       "name": "Alek Thomas",
-      "pos": "CF",
-      "ba": "0.253",
-      "obp": "0.303",
-      "ops": "0.688"
-    },
-    {
-      "name": "Alex Blandino",
-      "pos": "1B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "pos": "OF",
+      "ba": "0.258",
+      "obp": "0.309",
+      "ops": "0.700"
     },
     {
       "name": "Alex Bregman",
       "pos": "3B",
-      "ba": "0.261",
-      "obp": "0.362",
-      "ops": "0.817"
+      "ba": "0.265",
+      "obp": "0.367",
+      "ops": "0.829"
     },
     {
       "name": "Alex Call",
       "pos": "OF",
-      "ba": "0.233",
-      "obp": "0.322",
-      "ops": "0.716"
-    },
-    {
-      "name": "Alex De Goti",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.231",
+      "obp": "0.315",
+      "ops": "0.689"
     },
     {
       "name": "Alex Dickerson",
       "pos": "DH",
-      "ba": "0.244",
-      "obp": "0.309",
-      "ops": "0.762"
-    },
-    {
-      "name": "Alex Jackson",
-      "pos": "C",
-      "ba": "0.157",
-      "obp": "0.246",
-      "ops": "0.501"
+      "ba": "0.227",
+      "obp": "0.292",
+      "ops": "0.701"
     },
     {
       "name": "Alex Kirilloff",
       "pos": "1B",
-      "ba": "0.255",
-      "obp": "0.311",
-      "ops": "0.724"
+      "ba": "0.258",
+      "obp": "0.315",
+      "ops": "0.733"
     },
     {
       "name": "Alex Verdugo",
       "pos": "OF",
-      "ba": "0.282",
-      "obp": "0.336",
-      "ops": "0.757"
+      "ba": "0.286",
+      "obp": "0.341",
+      "ops": "0.766"
     },
     {
       "name": "Amed Rosario",
       "pos": "SS",
-      "ba": "0.278",
+      "ba": "0.279",
       "obp": "0.313",
-      "ops": "0.714"
+      "ops": "0.715"
     },
     {
       "name": "Andres Gimenez",
       "pos": "2B",
-      "ba": "0.269",
-      "obp": "0.339",
-      "ops": "0.768"
+      "ba": "0.264",
+      "obp": "0.334",
+      "ops": "0.750"
     },
     {
       "name": "Andrew Benintendi",
       "pos": "OF",
-      "ba": "0.268",
-      "obp": "0.338",
-      "ops": "0.741"
-    },
-    {
-      "name": "Andrew Burns",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.270",
+      "obp": "0.341",
+      "ops": "0.759"
     },
     {
       "name": "Andrew Knapp",
       "pos": "C",
-      "ba": "0.185",
-      "obp": "0.270",
-      "ops": "0.532"
+      "ba": "0.200",
+      "obp": "0.280",
+      "ops": "0.591"
     },
     {
       "name": "Andrew Knizner",
       "pos": "C",
-      "ba": "0.220",
-      "obp": "0.303",
-      "ops": "0.631"
+      "ba": "0.226",
+      "obp": "0.301",
+      "ops": "0.628"
     },
     {
       "name": "Andrew McCutchen",
       "pos": "OF",
-      "ba": "0.238",
-      "obp": "0.324",
-      "ops": "0.727"
-    },
-    {
-      "name": "Andrew Romine",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Andrew Stevenson",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.242",
+      "obp": "0.327",
+      "ops": "0.732"
     },
     {
       "name": "Andrew Vaughn",
       "pos": "1B",
-      "ba": "0.262",
-      "obp": "0.324",
-      "ops": "0.758"
+      "ba": "0.267",
+      "obp": "0.331",
+      "ops": "0.783"
     },
     {
       "name": "Andrew Velazquez",
       "pos": "SS",
-      "ba": "0.213",
-      "obp": "0.268",
-      "ops": "0.616"
+      "ba": "0.233",
+      "obp": "0.288",
+      "ops": "0.671"
     },
     {
       "name": "Andy Ibanez",
       "pos": "3B",
-      "ba": "0.252",
-      "obp": "0.302",
-      "ops": "0.683"
-    },
-    {
-      "name": "Andy Young",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Anthony Alford",
-      "pos": "LF",
-      "ba": "0.234",
-      "obp": "0.294",
-      "ops": "0.698"
+      "ba": "0.255",
+      "obp": "0.309",
+      "ops": "0.721"
     },
     {
       "name": "Anthony Bemboom",
       "pos": "C",
-      "ba": "0.192",
-      "obp": "0.250",
-      "ops": "0.596"
+      "ba": "0.176",
+      "obp": "0.222",
+      "ops": "0.457"
     },
     {
       "name": "Anthony Kemp",
       "pos": "2B",
-      "ba": "0.239",
-      "obp": "0.319",
-      "ops": "0.653"
+      "ba": "0.247",
+      "obp": "0.326",
+      "ops": "0.680"
     },
     {
       "name": "Anthony Rendon",
       "pos": "3B",
-      "ba": "0.259",
-      "obp": "0.353",
-      "ops": "0.794"
+      "ba": "0.258",
+      "obp": "0.350",
+      "ops": "0.785"
     },
     {
       "name": "Anthony Rizzo",
       "pos": "1B",
-      "ba": "0.238",
-      "obp": "0.342",
-      "ops": "0.788"
+      "ba": "0.240",
+      "obp": "0.340",
+      "ops": "0.781"
     },
     {
       "name": "Anthony Santander",
       "pos": "OF",
-      "ba": "0.244",
-      "obp": "0.310",
-      "ops": "0.763"
-    },
-    {
-      "name": "Aramis Garcia",
-      "pos": "C",
-      "ba": "0.208",
-      "obp": "0.245",
-      "ops": "0.532"
+      "ba": "0.248",
+      "obp": "0.312",
+      "ops": "0.768"
     },
     {
       "name": "Aristides Aquino",
       "pos": "RF",
       "ba": "0.196",
       "obp": "0.262",
-      "ops": "0.645"
+      "ops": "0.601"
     },
     {
       "name": "Austin Allen",
       "pos": "C",
-      "ba": "0.250",
-      "obp": "0.308",
-      "ops": "0.641"
+      "ba": "0.214",
+      "obp": "0.267",
+      "ops": "0.553"
     },
     {
       "name": "Austin Barnes",
       "pos": "C",
-      "ba": "0.227",
-      "obp": "0.316",
-      "ops": "0.692"
-    },
-    {
-      "name": "Austin Dean",
-      "pos": "LF",
-      "ba": "0.200",
-      "obp": "0.294",
-      "ops": "0.561"
+      "ba": "0.232",
+      "obp": "0.322",
+      "ops": "0.706"
     },
     {
       "name": "Austin Hays",
       "pos": "OF",
-      "ba": "0.249",
+      "ba": "0.250",
       "obp": "0.303",
-      "ops": "0.715"
+      "ops": "0.718"
     },
     {
       "name": "Austin Hedges",
       "pos": "C",
-      "ba": "0.190",
-      "obp": "0.255",
+      "ba": "0.193",
+      "obp": "0.258",
       "ops": "0.567"
     },
     {
       "name": "Austin Meadows",
       "pos": "OF",
-      "ba": "0.241",
-      "obp": "0.322",
-      "ops": "0.741"
+      "ba": "0.253",
+      "obp": "0.331",
+      "ops": "0.773"
     },
     {
       "name": "Austin Nola",
       "pos": "C",
-      "ba": "0.259",
-      "obp": "0.329",
-      "ops": "0.708"
+      "ba": "0.255",
+      "obp": "0.324",
+      "ops": "0.696"
     },
     {
       "name": "Austin Riley",
       "pos": "3B",
-      "ba": "0.275",
-      "obp": "0.345",
-      "ops": "0.858"
+      "ba": "0.273",
+      "obp": "0.343",
+      "ops": "0.850"
     },
     {
       "name": "Austin Romine",
       "pos": "C",
-      "ba": "0.205",
-      "obp": "0.237",
-      "ops": "0.566"
+      "ba": "0.216",
+      "obp": "0.256",
+      "ops": "0.580"
     },
     {
       "name": "Austin Slater",
       "pos": "CF",
-      "ba": "0.246",
+      "ba": "0.249",
       "obp": "0.341",
-      "ops": "0.729"
+      "ops": "0.736"
     },
     {
       "name": "Austin Wynns",
       "pos": "C",
-      "ba": "0.239",
-      "obp": "0.297",
-      "ops": "0.645"
+      "ba": "0.254",
+      "obp": "0.319",
+      "ops": "0.668"
     },
     {
       "name": "Avisail Garcia",
       "pos": "OF",
-      "ba": "0.247",
-      "obp": "0.305",
-      "ops": "0.702"
+      "ba": "0.246",
+      "obp": "0.303",
+      "ops": "0.694"
     },
     {
       "name": "Ben DeLuzio",
       "pos": "CF",
-      "ba": "0.150",
-      "obp": "0.292",
-      "ops": "0.492"
-    },
-    {
-      "name": "Ben Gamel",
-      "pos": "1B",
-      "ba": "0.243",
-      "obp": "0.331",
-      "ops": "0.718"
+      "ba": "0.211",
+      "obp": "0.286",
+      "ops": "0.549"
     },
     {
       "name": "Ben Rortvedt",
       "pos": "C",
-      "ba": "0.200",
-      "obp": "0.273",
-      "ops": "0.598"
+      "ba": "0.211",
+      "obp": "0.268",
+      "ops": "0.610"
     },
     {
       "name": "Billy Hamilton",
       "pos": "LF",
-      "ba": "0.250",
-      "obp": "0.300",
-      "ops": "0.764"
-    },
-    {
-      "name": "Billy McKinney",
-      "pos": "LF",
-      "ba": "0.179",
-      "obp": "0.250",
-      "ops": "0.583"
+      "ba": "0.158",
+      "obp": "0.200",
+      "ops": "0.411"
     },
     {
       "name": "Bo Bichette",
       "pos": "SS",
-      "ba": "0.285",
-      "obp": "0.332",
-      "ops": "0.806"
+      "ba": "0.283",
+      "obp": "0.330",
+      "ops": "0.802"
     },
     {
       "name": "Bo Naylor",
-      "pos": "DH",
-      "ba": "0.170",
-      "obp": "0.244",
-      "ops": "0.540"
-    },
-    {
-      "name": "Bobby Bradley",
-      "pos": "1B",
-      "ba": "0.194",
-      "obp": "0.269",
-      "ops": "0.667"
+      "pos": "C",
+      "ba": "0.218",
+      "obp": "0.308",
+      "ops": "0.682"
     },
     {
       "name": "Bobby Dalbec",
       "pos": "3B",
-      "ba": "0.225",
-      "obp": "0.295",
-      "ops": "0.722"
+      "ba": "0.221",
+      "obp": "0.289",
+      "ops": "0.712"
     },
     {
       "name": "Bobby Witt Jr.",
       "pos": "SS",
-      "ba": "0.261",
-      "obp": "0.307",
-      "ops": "0.758"
+      "ba": "0.262",
+      "obp": "0.309",
+      "ops": "0.762"
     },
     {
       "name": "Brad Miller",
       "pos": "DH",
-      "ba": "0.221",
+      "ba": "0.222",
       "obp": "0.299",
-      "ops": "0.688"
-    },
-    {
-      "name": "Braden Bishop",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ops": "0.691"
     },
     {
       "name": "Bradley Zimmer",
       "pos": "CF",
-      "ba": "0.200",
-      "obp": "0.288",
-      "ops": "0.611"
+      "ba": "0.240",
+      "obp": "0.345",
+      "ops": "0.745"
     },
     {
       "name": "Brandon Belt",
       "pos": "DH",
-      "ba": "0.229",
-      "obp": "0.334",
-      "ops": "0.764"
+      "ba": "0.232",
+      "obp": "0.331",
+      "ops": "0.769"
     },
     {
       "name": "Brandon Crawford",
       "pos": "SS",
-      "ba": "0.248",
-      "obp": "0.321",
-      "ops": "0.721"
+      "ba": "0.245",
+      "obp": "0.318",
+      "ops": "0.709"
     },
     {
       "name": "Brandon Dixon",
       "pos": "3B",
-      "ba": "0.224",
-      "obp": "0.278",
-      "ops": "0.657"
+      "ba": "0.241",
+      "obp": "0.297",
+      "ops": "0.731"
     },
     {
       "name": "Brandon Drury",
       "pos": "2B",
-      "ba": "0.246",
-      "obp": "0.301",
-      "ops": "0.734"
+      "ba": "0.243",
+      "obp": "0.299",
+      "ops": "0.724"
     },
     {
       "name": "Brandon Lowe",
       "pos": "2B",
-      "ba": "0.237",
-      "obp": "0.325",
-      "ops": "0.773"
+      "ba": "0.244",
+      "obp": "0.326",
+      "ops": "0.789"
     },
     {
       "name": "Brandon Marsh",
       "pos": "OF",
-      "ba": "0.238",
-      "obp": "0.299",
-      "ops": "0.670"
+      "ba": "0.235",
+      "obp": "0.297",
+      "ops": "0.662"
     },
     {
       "name": "Brandon Nimmo",
       "pos": "OF",
-      "ba": "0.268",
-      "obp": "0.368",
-      "ops": "0.788"
+      "ba": "0.270",
+      "obp": "0.369",
+      "ops": "0.789"
     },
     {
       "name": "Brendan Donovan",
       "pos": "2B",
-      "ba": "0.269",
-      "obp": "0.369",
-      "ops": "0.744"
+      "ba": "0.264",
+      "obp": "0.360",
+      "ops": "0.733"
     },
     {
       "name": "Brendan Rodgers",
       "pos": "2B",
-      "ba": "0.274",
-      "obp": "0.329",
-      "ops": "0.761"
-    },
-    {
-      "name": "Brendon Davis",
-      "pos": "RF",
-      "ba": "0.200",
-      "obp": "0.273",
-      "ops": "0.473"
+      "ba": "0.287",
+      "obp": "0.340",
+      "ops": "0.799"
     },
     {
       "name": "Brent Rooker",
       "pos": "DH",
-      "ba": "0.214",
-      "obp": "0.327",
-      "ops": "0.756"
+      "ba": "0.190",
+      "obp": "0.292",
+      "ops": "0.673"
     },
     {
       "name": "Brett Baty",
       "pos": "3B",
-      "ba": "0.236",
-      "obp": "0.313",
-      "ops": "0.717"
+      "ba": "0.248",
+      "obp": "0.327",
+      "ops": "0.723"
     },
     {
       "name": "Brett Phillips",
       "pos": "RF",
-      "ba": "0.185",
-      "obp": "0.271",
-      "ops": "0.622"
-    },
-    {
-      "name": "Brewer Hicklen",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.192",
+      "obp": "0.279",
+      "ops": "0.646"
     },
     {
       "name": "Brian Anderson",
-      "pos": "RF",
-      "ba": "0.235",
+      "pos": "OF",
+      "ba": "0.234",
       "obp": "0.320",
-      "ops": "0.703"
-    },
-    {
-      "name": "Brian Goodwin",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Brian Miller",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Brian O'Grady",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Brian O'Keefe",
-      "pos": "DH",
-      "ba": "0.333",
-      "obp": "0.500",
-      "ops": "0.833"
+      "ops": "0.708"
     },
     {
       "name": "Brian Serven",
       "pos": "C",
-      "ba": "0.225",
-      "obp": "0.284",
-      "ops": "0.664"
+      "ba": "0.229",
+      "obp": "0.287",
+      "ops": "0.658"
+    },
+    {
+      "name": "Brice Turang",
+      "pos": "2B",
+      "ba": "0.239",
+      "obp": "0.317",
+      "ops": "0.661"
     },
     {
       "name": "Bryan De La Cruz",
       "pos": "OF",
-      "ba": "0.259",
-      "obp": "0.306",
-      "ops": "0.726"
+      "ba": "0.261",
+      "obp": "0.309",
+      "ops": "0.733"
     },
     {
       "name": "Bryan Lavastida",
       "pos": "C",
-      "ba": "0.250",
-      "obp": "0.357",
-      "ops": "0.690"
+      "ba": "0.217",
+      "obp": "0.280",
+      "ops": "0.541"
     },
     {
       "name": "Bryan Reynolds",
       "pos": "OF",
       "ba": "0.272",
       "obp": "0.354",
-      "ops": "0.820"
+      "ops": "0.814"
     },
     {
       "name": "Bryce Harper",
       "pos": "DH",
-      "ba": "0.279",
-      "obp": "0.380",
-      "ops": "0.901"
-    },
-    {
-      "name": "Bryce Johnson",
-      "pos": "CF",
-      "ba": "0.111",
-      "obp": "0.158",
-      "ops": "0.269"
+      "ba": "0.275",
+      "obp": "0.376",
+      "ops": "0.894"
     },
     {
       "name": "Bryson Stott",
       "pos": "2B",
-      "ba": "0.244",
-      "obp": "0.309",
-      "ops": "0.692"
+      "ba": "0.247",
+      "obp": "0.311",
+      "ops": "0.699"
     },
     {
       "name": "Bubba Thompson",
-      "pos": "RF",
-      "ba": "0.241",
-      "obp": "0.282",
-      "ops": "0.623"
+      "pos": "OF",
+      "ba": "0.235",
+      "obp": "0.278",
+      "ops": "0.625"
     },
     {
       "name": "Buddy Kennedy",
       "pos": "3B",
-      "ba": "0.278",
-      "obp": "0.325",
-      "ops": "0.714"
+      "ba": "0.250",
+      "obp": "0.290",
+      "ops": "0.683"
     },
     {
       "name": "Byron Buxton",
       "pos": "OF",
-      "ba": "0.246",
-      "obp": "0.316",
-      "ops": "0.833"
+      "ba": "0.247",
+      "obp": "0.315",
+      "ops": "0.824"
     },
     {
       "name": "C.J. Cron",
       "pos": "1B",
-      "ba": "0.255",
-      "obp": "0.325",
-      "ops": "0.792"
+      "ba": "0.257",
+      "obp": "0.326",
+      "ops": "0.788"
     },
     {
       "name": "CJ Abrams",
       "pos": "SS",
-      "ba": "0.254",
-      "obp": "0.298",
-      "ops": "0.663"
+      "ba": "0.257",
+      "obp": "0.303",
+      "ops": "0.678"
     },
     {
       "name": "Cal Raleigh",
       "pos": "C",
-      "ba": "0.216",
-      "obp": "0.281",
-      "ops": "0.727"
+      "ba": "0.221",
+      "obp": "0.283",
+      "ops": "0.726"
     },
     {
       "name": "Cal Stevenson",
       "pos": "CF",
-      "ba": "0.224",
-      "obp": "0.316",
-      "ops": "0.643"
-    },
-    {
-      "name": "Caleb Hamilton",
-      "pos": "1B",
-      "ba": "0.056",
-      "obp": "0.227",
-      "ops": "0.449"
+      "ba": "0.250",
+      "obp": "0.357",
+      "ops": "0.690"
     },
     {
       "name": "Calvin Mitchell",
       "pos": "OF",
-      "ba": "0.251",
-      "obp": "0.311",
-      "ops": "0.702"
+      "ba": "0.256",
+      "obp": "0.315",
+      "ops": "0.710"
     },
     {
       "name": "Cameron Gallagher",
       "pos": "C",
-      "ba": "0.219",
-      "obp": "0.275",
-      "ops": "0.588"
-    },
-    {
-      "name": "Cameron Maybin",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.206",
+      "obp": "0.265",
+      "ops": "0.567"
     },
     {
       "name": "Carlos Correa",
       "pos": "SS",
-      "ba": "0.272",
-      "obp": "0.349",
-      "ops": "0.802"
+      "ba": "0.275",
+      "obp": "0.352",
+      "ops": "0.815"
     },
     {
       "name": "Carlos Santana",
       "pos": "DH",
-      "ba": "0.221",
-      "obp": "0.329",
-      "ops": "0.712"
+      "ba": "0.232",
+      "obp": "0.341",
+      "ops": "0.733"
     },
     {
       "name": "Carson Kelly",
       "pos": "C",
-      "ba": "0.225",
-      "obp": "0.304",
-      "ops": "0.673"
+      "ba": "0.235",
+      "obp": "0.315",
+      "ops": "0.708"
     },
     {
       "name": "Carter Kieboom",
       "pos": "3B",
-      "ba": "0.236",
-      "obp": "0.329",
-      "ops": "0.707"
+      "ba": "0.235",
+      "obp": "0.327",
+      "ops": "0.696"
     },
     {
       "name": "Cavan Biggio",
       "pos": "1B",
-      "ba": "0.217",
-      "obp": "0.325",
-      "ops": "0.688"
+      "ba": "0.222",
+      "obp": "0.332",
+      "ops": "0.706"
     },
     {
       "name": "Cedric Mullins",
       "pos": "OF",
-      "ba": "0.256",
-      "obp": "0.319",
-      "ops": "0.740"
+      "ba": "0.255",
+      "obp": "0.318",
+      "ops": "0.733"
     },
     {
       "name": "Cesar Hernandez",
       "pos": "3B",
-      "ba": "0.246",
-      "obp": "0.311",
+      "ba": "0.247",
+      "obp": "0.313",
       "ops": "0.659"
     },
     {
       "name": "Chad Pinder",
       "pos": "3B",
-      "ba": "0.237",
-      "obp": "0.279",
-      "ops": "0.672"
+      "ba": "0.235",
+      "obp": "0.278",
+      "ops": "0.677"
     },
     {
       "name": "Chad Wallach",
       "pos": "C",
-      "ba": "0.222",
+      "ba": "0.273",
       "obp": "0.333",
-      "ops": "0.611"
+      "ops": "0.697"
     },
     {
       "name": "Chadwick Tromp",
       "pos": "C",
       "ba": "0.217",
-      "obp": "0.269",
-      "ops": "0.660"
-    },
-    {
-      "name": "Chance Sisco",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "obp": "0.296",
+      "ops": "0.687"
     },
     {
       "name": "Charles Leblanc",
       "pos": "2B",
-      "ba": "0.257",
-      "obp": "0.316",
-      "ops": "0.730"
+      "ba": "0.206",
+      "obp": "0.250",
+      "ops": "0.574"
     },
     {
       "name": "Charlie Blackmon",
-      "pos": "DH",
-      "ba": "0.265",
-      "obp": "0.324",
-      "ops": "0.738"
+      "pos": "OF",
+      "ba": "0.273",
+      "obp": "0.331",
+      "ops": "0.757"
     },
     {
       "name": "Charlie Culberson",
       "pos": "LF",
-      "ba": "0.232",
-      "obp": "0.278",
-      "ops": "0.622"
+      "ba": "0.250",
+      "obp": "0.291",
+      "ops": "0.656"
     },
     {
       "name": "Chas McCormick",
       "pos": "OF",
-      "ba": "0.240",
-      "obp": "0.319",
-      "ops": "0.722"
-    },
-    {
-      "name": "Chris Okey",
-      "pos": "C",
-      "ba": "0.167",
-      "obp": "0.231",
-      "ops": "0.398"
+      "ba": "0.232",
+      "obp": "0.311",
+      "ops": "0.694"
     },
     {
       "name": "Chris Owings",
       "pos": "SS",
-      "ba": "0.200",
-      "obp": "0.273",
-      "ops": "0.613"
+      "ba": "0.212",
+      "obp": "0.278",
+      "ops": "0.642"
     },
     {
       "name": "Chris Taylor",
-      "pos": "2B",
-      "ba": "0.234",
-      "obp": "0.316",
-      "ops": "0.714"
+      "pos": "OF",
+      "ba": "0.232",
+      "obp": "0.312",
+      "ops": "0.707"
     },
     {
       "name": "Christian Arroyo",
       "pos": "2B",
       "ba": "0.267",
       "obp": "0.316",
-      "ops": "0.732"
+      "ops": "0.735"
     },
     {
       "name": "Christian Bethancourt",
       "pos": "C",
       "ba": "0.244",
-      "obp": "0.282",
-      "ops": "0.684"
-    },
-    {
-      "name": "Christian Lopes",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.100",
-      "ops": "0.100"
+      "obp": "0.284",
+      "ops": "0.691"
     },
     {
       "name": "Christian Vazquez",
       "pos": "C",
-      "ba": "0.257",
-      "obp": "0.304",
-      "ops": "0.679"
+      "ba": "0.254",
+      "obp": "0.302",
+      "ops": "0.669"
     },
     {
       "name": "Christian Walker",
       "pos": "1B",
-      "ba": "0.249",
-      "obp": "0.326",
-      "ops": "0.778"
+      "ba": "0.254",
+      "obp": "0.331",
+      "ops": "0.783"
     },
     {
       "name": "Christian Yelich",
       "pos": "OF",
-      "ba": "0.249",
+      "ba": "0.250",
       "obp": "0.354",
-      "ops": "0.756"
+      "ops": "0.757"
     },
     {
       "name": "Christopher Morel",
-      "pos": "3B",
-      "ba": "0.233",
-      "obp": "0.302",
-      "ops": "0.719"
-    },
-    {
-      "name": "Chuckie Robinson",
-      "pos": "C",
-      "ba": "0.136",
-      "obp": "0.136",
-      "ops": "0.407"
+      "pos": "OF",
+      "ba": "0.232",
+      "obp": "0.297",
+      "ops": "0.706"
     },
     {
       "name": "Clint Frazier",
       "pos": "DH",
-      "ba": "0.214",
-      "obp": "0.308",
-      "ops": "0.687"
+      "ba": "0.206",
+      "obp": "0.287",
+      "ops": "0.635"
     },
     {
       "name": "Cody Bellinger",
       "pos": "OF",
-      "ba": "0.220",
-      "obp": "0.289",
-      "ops": "0.687"
+      "ba": "0.230",
+      "obp": "0.300",
+      "ops": "0.706"
     },
     {
       "name": "Cole Tucker",
       "pos": "2B",
-      "ba": "0.231",
-      "obp": "0.286",
-      "ops": "0.645"
+      "ba": "0.258",
+      "obp": "0.324",
+      "ops": "0.743"
     },
     {
       "name": "Colin Moran",
       "pos": "1B",
-      "ba": "0.248",
-      "obp": "0.319",
-      "ops": "0.730"
+      "ba": "0.221",
+      "obp": "0.284",
+      "ops": "0.610"
     },
     {
       "name": "Colton Welker",
       "pos": "1B",
-      "ba": "0.333",
-      "obp": "0.400",
-      "ops": "0.844"
+      "ba": "0.267",
+      "obp": "0.313",
+      "ops": "0.646"
     },
     {
       "name": "Conner Capel",
       "pos": "OF",
-      "ba": "0.255",
-      "obp": "0.316",
-      "ops": "0.737"
+      "ba": "0.235",
+      "obp": "0.301",
+      "ops": "0.671"
     },
     {
       "name": "Connor Joe",
       "pos": "DH",
-      "ba": "0.236",
-      "obp": "0.334",
-      "ops": "0.697"
+      "ba": "0.238",
+      "obp": "0.338",
+      "ops": "0.700"
     },
     {
       "name": "Connor Wong",
       "pos": "C",
-      "ba": "0.229",
-      "obp": "0.292",
-      "ops": "0.681"
+      "ba": "0.245",
+      "obp": "0.291",
+      "ops": "0.694"
     },
     {
       "name": "Cooper Hummel",
       "pos": "C",
-      "ba": "0.213",
-      "obp": "0.306",
-      "ops": "0.686"
+      "ba": "0.211",
+      "obp": "0.302",
+      "ops": "0.631"
     },
     {
       "name": "Corbin Carroll",
       "pos": "OF",
-      "ba": "0.249",
-      "obp": "0.333",
-      "ops": "0.771"
+      "ba": "0.248",
+      "obp": "0.335",
+      "ops": "0.752"
     },
     {
       "name": "Corey Dickerson",
       "pos": "OF",
-      "ba": "0.262",
-      "obp": "0.306",
-      "ops": "0.710"
+      "ba": "0.256",
+      "obp": "0.299",
+      "ops": "0.691"
     },
     {
       "name": "Corey Seager",
       "pos": "SS",
-      "ba": "0.272",
-      "obp": "0.345",
-      "ops": "0.830"
+      "ba": "0.278",
+      "obp": "0.350",
+      "ops": "0.840"
     },
     {
       "name": "Cristian Pache",
       "pos": "CF",
-      "ba": "0.206",
-      "obp": "0.255",
-      "ops": "0.574"
+      "ba": "0.215",
+      "obp": "0.265",
+      "ops": "0.590"
     },
     {
       "name": "Curtis Casali",
       "pos": "C",
-      "ba": "0.210",
-      "obp": "0.309",
-      "ops": "0.664"
-    },
-    {
-      "name": "Curtis Terry",
-      "pos": "DH",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.217",
+      "obp": "0.314",
+      "ops": "0.675"
     },
     {
       "name": "D.J. Stewart",
       "pos": "DH",
-      "ba": "0.196",
-      "obp": "0.321",
-      "ops": "0.680"
+      "ba": "0.200",
+      "obp": "0.304",
+      "ops": "0.704"
     },
     {
       "name": "DJ LeMahieu",
       "pos": "2B",
       "ba": "0.273",
-      "obp": "0.352",
-      "ops": "0.738"
-    },
-    {
-      "name": "DJ Peters",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Dairon Blanco",
-      "pos": "CF",
-      "ba": "0.286",
-      "obp": "0.286",
-      "ops": "0.572"
+      "obp": "0.349",
+      "ops": "0.736"
     },
     {
       "name": "Dalton Guthrie",
       "pos": "3B",
-      "ba": "0.250",
-      "obp": "0.350",
-      "ops": "0.705"
+      "ba": "0.241",
+      "obp": "0.305",
+      "ops": "0.677"
     },
     {
       "name": "Dan Vogelbach",
       "pos": "DH",
       "ba": "0.223",
-      "obp": "0.343",
-      "ops": "0.748"
-    },
-    {
-      "name": "Daniel Johnson",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "obp": "0.344",
+      "ops": "0.743"
     },
     {
       "name": "Daniel Mendick",
       "pos": "SS",
-      "ba": "0.242",
-      "obp": "0.303",
-      "ops": "0.666"
-    },
-    {
-      "name": "Daniel Robertson",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.234",
+      "obp": "0.298",
+      "ops": "0.649"
     },
     {
       "name": "Danny Jansen",
       "pos": "DH",
-      "ba": "0.236",
-      "obp": "0.315",
-      "ops": "0.773"
+      "ba": "0.235",
+      "obp": "0.312",
+      "ops": "0.760"
     },
     {
       "name": "Dansby Swanson",
       "pos": "SS",
-      "ba": "0.255",
-      "obp": "0.316",
-      "ops": "0.744"
+      "ba": "0.253",
+      "obp": "0.314",
+      "ops": "0.738"
     },
     {
       "name": "Darick Hall",
       "pos": "DH",
-      "ba": "0.234",
-      "obp": "0.292",
-      "ops": "0.755"
+      "ba": "0.227",
+      "obp": "0.288",
+      "ops": "0.717"
     },
     {
       "name": "Darin Ruf",
       "pos": "DH",
-      "ba": "0.232",
-      "obp": "0.324",
-      "ops": "0.727"
+      "ba": "0.219",
+      "obp": "0.315",
+      "ops": "0.678"
     },
     {
       "name": "Daulton Varsho",
       "pos": "OF",
-      "ba": "0.234",
-      "obp": "0.304",
-      "ops": "0.740"
+      "ba": "0.241",
+      "obp": "0.308",
+      "ops": "0.759"
     },
     {
       "name": "David Bote",
       "pos": "1B",
-      "ba": "0.250",
-      "obp": "0.324",
-      "ops": "0.730"
+      "ba": "0.238",
+      "obp": "0.304",
+      "ops": "0.661"
     },
     {
       "name": "David Dahl",
       "pos": "LF",
-      "ba": "0.172",
-      "obp": "0.226",
-      "ops": "0.433"
+      "ba": "0.214",
+      "obp": "0.267",
+      "ops": "0.553"
     },
     {
       "name": "David Fletcher",
-      "pos": "2B",
-      "ba": "0.264",
-      "obp": "0.304",
-      "ops": "0.648"
+      "pos": "SS",
+      "ba": "0.265",
+      "obp": "0.305",
+      "ops": "0.645"
     },
     {
       "name": "David Hensley",
       "pos": "DH",
-      "ba": "0.264",
-      "obp": "0.354",
-      "ops": "0.790"
+      "ba": "0.235",
+      "obp": "0.320",
+      "ops": "0.668"
     },
     {
       "name": "David Peralta",
-      "pos": "LF",
-      "ba": "0.255",
-      "obp": "0.319",
+      "pos": "OF",
+      "ba": "0.251",
+      "obp": "0.313",
       "ops": "0.727"
     },
     {
       "name": "David Villar",
-      "pos": "DH",
-      "ba": "0.230",
-      "obp": "0.321",
-      "ops": "0.742"
+      "pos": "3B",
+      "ba": "0.229",
+      "obp": "0.319",
+      "ops": "0.724"
     },
     {
       "name": "Daz Cameron",
       "pos": "RF",
-      "ba": "0.221",
-      "obp": "0.286",
-      "ops": "0.663"
+      "ba": "0.214",
+      "obp": "0.267",
+      "ops": "0.624"
     },
     {
       "name": "Dee Strange-Gordon",
       "pos": "CF",
-      "ba": "0.253",
+      "ba": "0.254",
       "obp": "0.286",
-      "ops": "0.628"
-    },
-    {
-      "name": "Delino DeShields",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Derek Fisher",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ops": "0.659"
     },
     {
       "name": "Derek Hill",
       "pos": "CF",
-      "ba": "0.237",
-      "obp": "0.280",
-      "ops": "0.662"
+      "ba": "0.222",
+      "obp": "0.276",
+      "ops": "0.591"
     },
     {
       "name": "Dermis Garcia",
       "pos": "1B",
-      "ba": "0.207",
-      "obp": "0.276",
-      "ops": "0.663"
-    },
-    {
-      "name": "Deven Marrero",
-      "pos": "3B",
-      "ba": "0.111",
-      "obp": "0.200",
-      "ops": "0.311"
-    },
-    {
-      "name": "Dexter Fowler",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.205",
+      "obp": "0.271",
+      "ops": "0.657"
     },
     {
       "name": "Didi Gregorius",
       "pos": "SS",
-      "ba": "0.232",
-      "obp": "0.284",
-      "ops": "0.650"
-    },
-    {
-      "name": "Dillon Thomas",
-      "pos": "RF",
-      "ba": "0.100",
-      "obp": "0.250",
-      "ops": "0.350"
+      "ba": "0.221",
+      "obp": "0.279",
+      "ops": "0.626"
     },
     {
       "name": "Dixon Machado",
       "pos": "SS",
-      "ba": "0.222",
-      "obp": "0.364",
-      "ops": "0.586"
+      "ba": "0.300",
+      "obp": "0.417",
+      "ops": "0.817"
     },
     {
       "name": "Dom Nunez",
       "pos": "C",
-      "ba": "0.220",
-      "obp": "0.299",
-      "ops": "0.706"
-    },
-    {
-      "name": "Domingo Leyba",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.200",
+      "obp": "0.273",
+      "ops": "0.673"
     },
     {
       "name": "Dominic Smith",
       "pos": "1B",
-      "ba": "0.247",
-      "obp": "0.310",
-      "ops": "0.705"
+      "ba": "0.250",
+      "obp": "0.313",
+      "ops": "0.717"
     },
     {
       "name": "Donny Sands",
       "pos": "C",
-      "ba": "0.162",
-      "obp": "0.278",
-      "ops": "0.531"
+      "ba": "0.227",
+      "obp": "0.303",
+      "ops": "0.633"
     },
     {
       "name": "Donovan Solano",
       "pos": "1B",
       "ba": "0.276",
-      "obp": "0.330",
-      "ops": "0.726"
-    },
-    {
-      "name": "Donovan Walton",
-      "pos": "SS",
-      "ba": "0.155",
-      "obp": "0.189",
-      "ops": "0.457"
-    },
-    {
-      "name": "Drew Butera",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "obp": "0.329",
+      "ops": "0.716"
     },
     {
       "name": "Drew Ellis",
       "pos": "3B",
-      "ba": "0.121",
-      "obp": "0.237",
-      "ops": "0.389"
-    },
-    {
-      "name": "Drew Jackson",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.174",
+      "obp": "0.269",
+      "ops": "0.617"
     },
     {
       "name": "Drew Waters",
       "pos": "OF",
-      "ba": "0.237",
-      "obp": "0.312",
-      "ops": "0.720"
-    },
-    {
-      "name": "Dustin Fowler",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Dustin Garneau",
-      "pos": "C",
-      "ba": "0.222",
-      "obp": "0.300",
-      "ops": "0.819"
+      "ba": "0.238",
+      "obp": "0.308",
+      "ops": "0.696"
     },
     {
       "name": "Dylan Carlson",
       "pos": "OF",
-      "ba": "0.248",
-      "obp": "0.325",
-      "ops": "0.728"
+      "ba": "0.251",
+      "obp": "0.327",
+      "ops": "0.732"
     },
     {
       "name": "Dylan Moore",
       "pos": "LF",
-      "ba": "0.206",
-      "obp": "0.311",
-      "ops": "0.678"
+      "ba": "0.215",
+      "obp": "0.320",
+      "ops": "0.703"
     },
     {
       "name": "Eddie Rosario",
       "pos": "OF",
-      "ba": "0.243",
+      "ba": "0.244",
       "obp": "0.287",
-      "ops": "0.688"
+      "ops": "0.683"
     },
     {
       "name": "Edmundo Sosa",
       "pos": "SS",
-      "ba": "0.242",
-      "obp": "0.304",
-      "ops": "0.660"
+      "ba": "0.239",
+      "obp": "0.301",
+      "ops": "0.668"
     },
     {
       "name": "Eduardo Escobar",
       "pos": "3B",
-      "ba": "0.236",
-      "obp": "0.293",
-      "ops": "0.706"
+      "ba": "0.237",
+      "obp": "0.294",
+      "ops": "0.705"
     },
     {
       "name": "Edward Olivares",
       "pos": "OF",
-      "ba": "0.261",
-      "obp": "0.315",
-      "ops": "0.722"
+      "ba": "0.263",
+      "obp": "0.318",
+      "ops": "0.727"
     },
     {
       "name": "Edwin Rios",
       "pos": "DH",
-      "ba": "0.216",
-      "obp": "0.283",
-      "ops": "0.698"
+      "ba": "0.224",
+      "obp": "0.290",
+      "ops": "0.714"
     },
     {
       "name": "Ehire Adrianza",
       "pos": "3B",
-      "ba": "0.232",
-      "obp": "0.302",
-      "ops": "0.623"
+      "ba": "0.250",
+      "obp": "0.320",
+      "ops": "0.684"
     },
     {
       "name": "Elehuris Montero",
-      "pos": "DH",
-      "ba": "0.246",
-      "obp": "0.297",
-      "ops": "0.730"
+      "pos": "3B",
+      "ba": "0.252",
+      "obp": "0.308",
+      "ops": "0.744"
     },
     {
       "name": "Elias Diaz",
       "pos": "C",
-      "ba": "0.243",
-      "obp": "0.298",
-      "ops": "0.693"
-    },
-    {
-      "name": "Elier Hernandez",
-      "pos": "LF",
-      "ba": "0.182",
-      "obp": "0.200",
-      "ops": "0.442"
+      "ba": "0.252",
+      "obp": "0.306",
+      "ops": "0.713"
     },
     {
       "name": "Eloy Jimenez",
       "pos": "DH",
-      "ba": "0.272",
-      "obp": "0.329",
-      "ops": "0.812"
+      "ba": "0.268",
+      "obp": "0.324",
+      "ops": "0.801"
     },
     {
       "name": "Elvis Andrus",
-      "pos": "DH",
-      "ba": "0.251",
-      "obp": "0.300",
-      "ops": "0.677"
+      "pos": "2B",
+      "ba": "0.247",
+      "obp": "0.296",
+      "ops": "0.663"
     },
     {
       "name": "Emmanuel Rivera",
       "pos": "3B",
-      "ba": "0.240",
-      "obp": "0.298",
-      "ops": "0.695"
+      "ba": "0.247",
+      "obp": "0.305",
+      "ops": "0.701"
     },
     {
-      "name": "Ender Inciarte",
-      "pos": "LF",
-      "ba": "0.226",
-      "obp": "0.294",
-      "ops": "0.649"
+      "name": "Enmanuel Valdez",
+      "pos": "3B",
+      "ba": "0.233",
+      "obp": "0.281",
+      "ops": "0.681"
     },
     {
       "name": "Enrique Hernandez",
       "pos": "SS",
-      "ba": "0.237",
-      "obp": "0.309",
-      "ops": "0.706"
-    },
-    {
-      "name": "Eric Campbell",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.243",
+      "obp": "0.314",
+      "ops": "0.722"
     },
     {
       "name": "Eric Haase",
       "pos": "C",
-      "ba": "0.231",
-      "obp": "0.286",
+      "ba": "0.228",
+      "obp": "0.285",
       "ops": "0.707"
     },
     {
       "name": "Eric Hosmer",
       "pos": "1B",
-      "ba": "0.268",
+      "ba": "0.270",
       "obp": "0.330",
-      "ops": "0.728"
-    },
-    {
-      "name": "Eric Thames",
-      "pos": "1B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Erick Castillo",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ops": "0.731"
     },
     {
       "name": "Erik Gonzalez",
       "pos": "3B",
-      "ba": "0.236",
-      "obp": "0.266",
-      "ops": "0.581"
+      "ba": "0.225",
+      "obp": "0.253",
+      "ops": "0.563"
     },
     {
       "name": "Esteban Quiroz",
       "pos": "2B",
-      "ba": "0.275",
-      "obp": "0.370",
-      "ops": "0.645"
+      "ba": "0.250",
+      "obp": "0.357",
+      "ops": "0.690"
     },
     {
       "name": "Esteury Ruiz",
       "pos": "OF",
-      "ba": "0.221",
-      "obp": "0.279",
-      "ops": "0.620"
+      "ba": "0.235",
+      "obp": "0.305",
+      "ops": "0.659"
     },
     {
       "name": "Estevan Florial",
       "pos": "CF",
-      "ba": "0.200",
-      "obp": "0.284",
-      "ops": "0.584"
+      "ba": "0.209",
+      "obp": "0.293",
+      "ops": "0.636"
     },
     {
       "name": "Eugenio Suarez",
       "pos": "3B",
-      "ba": "0.218",
-      "obp": "0.311",
-      "ops": "0.741"
+      "ba": "0.212",
+      "obp": "0.304",
+      "ops": "0.716"
     },
     {
       "name": "Evan Longoria",
       "pos": "DH",
-      "ba": "0.244",
-      "obp": "0.311",
-      "ops": "0.741"
+      "ba": "0.243",
+      "obp": "0.307",
+      "ops": "0.727"
     },
     {
       "name": "Evan White",
       "pos": "1B",
-      "ba": "0.223",
-      "obp": "0.285",
-      "ops": "0.696"
+      "ba": "0.220",
+      "obp": "0.281",
+      "ops": "0.671"
     },
     {
       "name": "Ezequiel Duran",
       "pos": "3B",
-      "ba": "0.233",
-      "obp": "0.283",
-      "ops": "0.659"
+      "ba": "0.234",
+      "obp": "0.288",
+      "ops": "0.671"
     },
     {
       "name": "Ezequiel Tovar",
       "pos": "SS",
-      "ba": "0.259",
-      "obp": "0.311",
-      "ops": "0.728"
+      "ba": "0.273",
+      "obp": "0.322",
+      "ops": "0.748"
     },
     {
       "name": "Fernando Tatis Jr.",
       "pos": "SS",
-      "ba": "0.281",
-      "obp": "0.361",
-      "ops": "0.929"
-    },
-    {
-      "name": "Ford Proctor",
-      "pos": "2B",
-      "ba": "0.111",
-      "obp": "0.182",
-      "ops": "0.460"
+      "ba": "0.277",
+      "obp": "0.356",
+      "ops": "0.923"
     },
     {
       "name": "Franchy Cordero",
       "pos": "LF",
-      "ba": "0.239",
-      "obp": "0.309",
-      "ops": "0.718"
+      "ba": "0.227",
+      "obp": "0.292",
+      "ops": "0.633"
     },
     {
       "name": "Francisco Alvarez",
       "pos": "C",
-      "ba": "0.212",
-      "obp": "0.307",
-      "ops": "0.721"
+      "ba": "0.229",
+      "obp": "0.320",
+      "ops": "0.732"
     },
     {
       "name": "Francisco Lindor",
       "pos": "SS",
-      "ba": "0.253",
-      "obp": "0.325",
-      "ops": "0.757"
+      "ba": "0.252",
+      "obp": "0.324",
+      "ops": "0.754"
     },
     {
       "name": "Francisco Mejia",
       "pos": "DH",
-      "ba": "0.234",
-      "obp": "0.277",
-      "ops": "0.649"
-    },
-    {
-      "name": "Frank Schwindel",
-      "pos": "1B",
-      "ba": "0.261",
-      "obp": "0.307",
-      "ops": "0.740"
-    },
-    {
-      "name": "Franklin Barreto",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.238",
+      "obp": "0.282",
+      "ops": "0.658"
     },
     {
       "name": "Franmil Reyes",
       "pos": "DH",
-      "ba": "0.237",
-      "obp": "0.298",
-      "ops": "0.730"
+      "ba": "0.240",
+      "obp": "0.300",
+      "ops": "0.725"
     },
     {
       "name": "Freddie Freeman",
       "pos": "1B",
-      "ba": "0.302",
-      "obp": "0.390",
-      "ops": "0.893"
+      "ba": "0.301",
+      "obp": "0.387",
+      "ops": "0.890"
     },
     {
       "name": "Freddy Fermin",
       "pos": "C",
-      "ba": "0.167",
-      "obp": "0.222",
-      "ops": "0.484"
+      "ba": "0.235",
+      "obp": "0.304",
+      "ops": "0.657"
     },
     {
       "name": "Gabriel Arias",
       "pos": "1B",
-      "ba": "0.229",
-      "obp": "0.309",
-      "ops": "0.676"
+      "ba": "0.243",
+      "obp": "0.298",
+      "ops": "0.683"
     },
     {
       "name": "Gabriel Moreno",
-      "pos": "LF",
-      "ba": "0.289",
-      "obp": "0.341",
-      "ops": "0.746"
+      "pos": "C",
+      "ba": "0.274",
+      "obp": "0.333",
+      "ops": "0.725"
     },
     {
       "name": "Garrett Cooper",
       "pos": "1B",
-      "ba": "0.259",
-      "obp": "0.336",
-      "ops": "0.746"
+      "ba": "0.257",
+      "obp": "0.335",
+      "ops": "0.739"
     },
     {
       "name": "Garrett Hampson",
       "pos": "CF",
-      "ba": "0.235",
-      "obp": "0.288",
-      "ops": "0.631"
+      "ba": "0.238",
+      "obp": "0.301",
+      "ops": "0.646"
     },
     {
       "name": "Garrett Mitchell",
       "pos": "OF",
-      "ba": "0.252",
-      "obp": "0.326",
-      "ops": "0.705"
+      "ba": "0.240",
+      "obp": "0.315",
+      "ops": "0.682"
     },
     {
       "name": "Garrett Stubbs",
       "pos": "C",
-      "ba": "0.227",
-      "obp": "0.312",
-      "ops": "0.693"
-    },
-    {
-      "name": "Gary Sanchez",
-      "pos": "C",
-      "ba": "0.205",
-      "obp": "0.289",
-      "ops": "0.690"
+      "ba": "0.222",
+      "obp": "0.319",
+      "ops": "0.662"
     },
     {
       "name": "Gavin Lux",
       "pos": "SS",
-      "ba": "0.260",
-      "obp": "0.332",
-      "ops": "0.733"
+      "ba": "0.000",
+      "obp": "0.000",
+      "ops": "0.000"
     },
     {
       "name": "Gavin Sheets",
       "pos": "OF",
       "ba": "0.245",
-      "obp": "0.305",
-      "ops": "0.736"
+      "obp": "0.304",
+      "ops": "0.722"
     },
     {
       "name": "George Springer",
       "pos": "OF",
-      "ba": "0.260",
-      "obp": "0.340",
-      "ops": "0.815"
+      "ba": "0.258",
+      "obp": "0.338",
+      "ops": "0.812"
     },
     {
       "name": "Geraldo Perdomo",
       "pos": "SS",
-      "ba": "0.221",
-      "obp": "0.303",
-      "ops": "0.619"
-    },
-    {
-      "name": "Gerardo Parra",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.227",
+      "obp": "0.309",
+      "ops": "0.628"
     },
     {
       "name": "Giancarlo Stanton",
       "pos": "DH",
       "ba": "0.242",
-      "obp": "0.324",
-      "ops": "0.803"
+      "obp": "0.323",
+      "ops": "0.798"
     },
     {
       "name": "Gilberto Celestino",
       "pos": "CF",
-      "ba": "0.240",
-      "obp": "0.308",
-      "ops": "0.643"
+      "ba": "0.248",
+      "obp": "0.313",
+      "ops": "0.660"
     },
     {
       "name": "Giovanny Urshela",
       "pos": "3B",
-      "ba": "0.267",
-      "obp": "0.317",
-      "ops": "0.731"
+      "ba": "0.269",
+      "obp": "0.316",
+      "ops": "0.733"
     },
     {
       "name": "Gleyber Torres",
       "pos": "2B",
-      "ba": "0.261",
-      "obp": "0.323",
-      "ops": "0.764"
-    },
-    {
-      "name": "Gosuke Katoh",
-      "pos": "1B",
-      "ba": "0.143",
-      "obp": "0.400",
-      "ops": "0.686"
-    },
-    {
-      "name": "Grayson Greiner",
-      "pos": "C",
-      "ba": "0.214",
-      "obp": "0.290",
-      "ops": "0.647"
+      "ba": "0.258",
+      "obp": "0.321",
+      "ops": "0.756"
     },
     {
       "name": "Greg Allen",
       "pos": "LF",
-      "ba": "0.227",
-      "obp": "0.314",
-      "ops": "0.661"
-    },
-    {
-      "name": "Greg Bird",
-      "pos": "1B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Greg Deichmann",
-      "pos": "OF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Gregory Polanco",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Guillermo Heredia",
-      "pos": "CF",
-      "ba": "0.204",
-      "obp": "0.284",
+      "ba": "0.236",
+      "obp": "0.306",
       "ops": "0.633"
     },
     {
       "name": "Gunnar Henderson",
-      "pos": "SS",
-      "ba": "0.253",
+      "pos": "3B",
+      "ba": "0.251",
       "obp": "0.342",
-      "ops": "0.772"
+      "ops": "0.766"
     },
     {
       "name": "Ha-seong Kim",
       "pos": "2B",
-      "ba": "0.240",
-      "obp": "0.311",
-      "ops": "0.688"
+      "ba": "0.242",
+      "obp": "0.312",
+      "ops": "0.699"
     },
     {
       "name": "Hanser Alberto",
       "pos": "3B",
-      "ba": "0.254",
-      "obp": "0.282",
-      "ops": "0.637"
+      "ba": "0.253",
+      "obp": "0.275",
+      "ops": "0.643"
     },
     {
       "name": "Harold Castro",
       "pos": "2B",
-      "ba": "0.270",
-      "obp": "0.303",
-      "ops": "0.666"
+      "ba": "0.289",
+      "obp": "0.320",
+      "ops": "0.724"
     },
     {
       "name": "Harold Ramirez",
       "pos": "DH",
-      "ba": "0.278",
-      "obp": "0.320",
-      "ops": "0.725"
+      "ba": "0.275",
+      "obp": "0.319",
+      "ops": "0.719"
     },
     {
       "name": "Harrison Bader",
       "pos": "OF",
-      "ba": "0.243",
-      "obp": "0.303",
-      "ops": "0.698"
+      "ba": "0.246",
+      "obp": "0.308",
+      "ops": "0.711"
     },
     {
       "name": "Heliot Ramos",
       "pos": "RF",
-      "ba": "0.182",
-      "obp": "0.250",
-      "ops": "0.432"
+      "ba": "0.250",
+      "obp": "0.308",
+      "ops": "0.641"
     },
     {
       "name": "Henry Ramos",
       "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Hernan Perez",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.286",
+      "obp": "0.375",
+      "ops": "0.661"
     },
     {
       "name": "Hoy Jun Park",
       "pos": "2B",
-      "ba": "0.244",
-      "obp": "0.347",
-      "ops": "0.762"
-    },
-    {
-      "name": "Humberto Arteaga",
-      "pos": "SS",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.278",
+      "obp": "0.381",
+      "ops": "0.881"
     },
     {
       "name": "Hunter Dozier",
       "pos": "3B",
-      "ba": "0.232",
-      "obp": "0.297",
-      "ops": "0.685"
-    },
-    {
-      "name": "Hunter Owen",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.234",
+      "obp": "0.299",
+      "ops": "0.695"
     },
     {
       "name": "Hunter Renfroe",
       "pos": "OF",
-      "ba": "0.241",
-      "obp": "0.303",
-      "ops": "0.773"
+      "ba": "0.242",
+      "obp": "0.304",
+      "ops": "0.776"
     },
     {
       "name": "Ian Happ",
       "pos": "OF",
       "ba": "0.248",
-      "obp": "0.331",
-      "ops": "0.757"
+      "obp": "0.330",
+      "ops": "0.752"
     },
     {
       "name": "Ildemaro Vargas",
       "pos": "SS",
-      "ba": "0.238",
+      "ba": "0.236",
       "obp": "0.281",
-      "ops": "0.622"
+      "ops": "0.619"
     },
     {
       "name": "Isaac Paredes",
-      "pos": "2B",
-      "ba": "0.234",
-      "obp": "0.322",
+      "pos": "3B",
+      "ba": "0.236",
+      "obp": "0.325",
       "ops": "0.750"
     },
     {
       "name": "Isan Diaz",
       "pos": "SS",
-      "ba": "0.212",
-      "obp": "0.292",
-      "ops": "0.657"
+      "ba": "0.211",
+      "obp": "0.287",
+      "ops": "0.643"
     },
     {
       "name": "Isiah Kiner-Falefa",
       "pos": "SS",
-      "ba": "0.262",
-      "obp": "0.311",
-      "ops": "0.647"
+      "ba": "0.260",
+      "obp": "0.310",
+      "ops": "0.653"
     },
     {
       "name": "Israel Pineda",
       "pos": "C",
-      "ba": "0.178",
-      "obp": "0.245",
-      "ops": "0.512"
+      "ba": "0.204",
+      "obp": "0.264",
+      "ops": "0.570"
     },
     {
       "name": "Ivan Herrera",
       "pos": "C",
-      "ba": "0.212",
-      "obp": "0.282",
-      "ops": "0.615"
+      "ba": "0.222",
+      "obp": "0.286",
+      "ops": "0.619"
     },
     {
       "name": "J.D. Davis",
       "pos": "1B",
-      "ba": "0.251",
-      "obp": "0.341",
+      "ba": "0.250",
+      "obp": "0.340",
       "ops": "0.763"
     },
     {
       "name": "J.D. Martinez",
       "pos": "DH",
-      "ba": "0.264",
-      "obp": "0.332",
-      "ops": "0.792"
+      "ba": "0.258",
+      "obp": "0.327",
+      "ops": "0.775"
     },
     {
       "name": "J.J. Matijevic",
       "pos": "DH",
-      "ba": "0.220",
-      "obp": "0.281",
-      "ops": "0.654"
+      "ba": "0.215",
+      "obp": "0.301",
+      "ops": "0.701"
     },
     {
       "name": "J.P. Crawford",
       "pos": "SS",
       "ba": "0.250",
       "obp": "0.331",
-      "ops": "0.677"
+      "ops": "0.678"
     },
     {
       "name": "J.T. Realmuto",
       "pos": "C",
-      "ba": "0.266",
-      "obp": "0.334",
-      "ops": "0.789"
-    },
-    {
-      "name": "J.T. Riddle",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.261",
+      "obp": "0.330",
+      "ops": "0.770"
     },
     {
       "name": "JJ Bleday",
-      "pos": "CF",
-      "ba": "0.200",
+      "pos": "OF",
+      "ba": "0.205",
       "obp": "0.297",
-      "ops": "0.658"
+      "ops": "0.657"
     },
     {
       "name": "Jace Peterson",
       "pos": "3B",
-      "ba": "0.231",
-      "obp": "0.316",
-      "ops": "0.678"
-    },
-    {
-      "name": "Jack Larsen",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Jack Lopez",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.226",
+      "obp": "0.309",
+      "ops": "0.661"
     },
     {
       "name": "Jack Mayfield",
       "pos": "3B",
-      "ba": "0.188",
-      "obp": "0.225",
-      "ops": "0.531"
+      "ba": "0.242",
+      "obp": "0.286",
+      "ops": "0.680"
     },
     {
       "name": "Jack Suwinski",
       "pos": "OF",
-      "ba": "0.220",
-      "obp": "0.309",
-      "ops": "0.730"
-    },
-    {
-      "name": "Jackie Bradley",
-      "pos": "RF",
-      "ba": "0.215",
-      "obp": "0.280",
-      "ops": "0.628"
-    },
-    {
-      "name": "Jacob Nottingham",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.227",
+      "obp": "0.310",
+      "ops": "0.721"
     },
     {
       "name": "Jacob Stallings",
       "pos": "C",
-      "ba": "0.231",
-      "obp": "0.303",
-      "ops": "0.633"
+      "ba": "0.233",
+      "obp": "0.302",
+      "ops": "0.636"
     },
     {
-      "name": "Jacob Wilson",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Jacoby Jones",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Jahmai Jones",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Jake Bauers",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "name": "Jake Alu",
+      "pos": "DH",
+      "ba": "0.252",
+      "obp": "0.310",
+      "ops": "0.713"
     },
     {
       "name": "Jake Burger",
       "pos": "3B",
-      "ba": "0.248",
-      "obp": "0.305",
-      "ops": "0.745"
+      "ba": "0.236",
+      "obp": "0.295",
+      "ops": "0.703"
     },
     {
       "name": "Jake Cave",
       "pos": "LF",
-      "ba": "0.231",
-      "obp": "0.296",
-      "ops": "0.681"
+      "ba": "0.224",
+      "obp": "0.291",
+      "ops": "0.664"
     },
     {
       "name": "Jake Cronenworth",
       "pos": "1B",
-      "ba": "0.251",
-      "obp": "0.333",
-      "ops": "0.746"
+      "ba": "0.252",
+      "obp": "0.334",
+      "ops": "0.748"
     },
     {
       "name": "Jake Fraley",
-      "pos": "DH",
-      "ba": "0.237",
-      "obp": "0.329",
-      "ops": "0.741"
-    },
-    {
-      "name": "Jake Hager",
-      "pos": "3B",
-      "ba": "0.190",
-      "obp": "0.306",
-      "ops": "0.520"
+      "pos": "OF",
+      "ba": "0.244",
+      "obp": "0.334",
+      "ops": "0.752"
     },
     {
       "name": "Jake Lamb",
       "pos": "RF",
-      "ba": "0.244",
-      "obp": "0.340",
-      "ops": "0.706"
+      "ba": "0.240",
+      "obp": "0.367",
+      "ops": "0.767"
     },
     {
       "name": "Jake McCarthy",
       "pos": "OF",
-      "ba": "0.264",
-      "obp": "0.330",
-      "ops": "0.740"
+      "ba": "0.258",
+      "obp": "0.325",
+      "ops": "0.728"
     },
     {
       "name": "Jake Meyers",
-      "pos": "CF",
-      "ba": "0.235",
-      "obp": "0.298",
-      "ops": "0.665"
-    },
-    {
-      "name": "Jake Robson",
       "pos": "OF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.238",
+      "obp": "0.305",
+      "ops": "0.676"
     },
     {
       "name": "Jake Rogers",
       "pos": "C",
-      "ba": "0.203",
-      "obp": "0.272",
-      "ops": "0.630"
+      "ba": "0.201",
+      "obp": "0.274",
+      "ops": "0.643"
     },
     {
       "name": "James McCann",
       "pos": "1B",
-      "ba": "0.229",
-      "obp": "0.287",
-      "ops": "0.639"
+      "ba": "0.240",
+      "obp": "0.296",
+      "ops": "0.663"
     },
     {
       "name": "James Outman",
       "pos": "OF",
-      "ba": "0.284",
-      "obp": "0.389",
-      "ops": "0.900"
-    },
-    {
-      "name": "Jared Hoying",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Jared Oliva",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.221",
+      "obp": "0.322",
+      "ops": "0.719"
     },
     {
       "name": "Jared Walsh",
       "pos": "1B",
-      "ba": "0.242",
-      "obp": "0.303",
-      "ops": "0.739"
+      "ba": "0.240",
+      "obp": "0.302",
+      "ops": "0.727"
     },
     {
       "name": "Jared Young",
       "pos": "1B",
-      "ba": "0.222",
-      "obp": "0.300",
-      "ops": "0.578"
+      "ba": "0.250",
+      "obp": "0.333",
+      "ops": "0.583"
     },
     {
       "name": "Jarred Kelenic",
       "pos": "OF",
-      "ba": "0.202",
-      "obp": "0.274",
-      "ops": "0.649"
+      "ba": "0.223",
+      "obp": "0.289",
+      "ops": "0.693"
     },
     {
       "name": "Jarren Duran",
       "pos": "OF",
-      "ba": "0.237",
-      "obp": "0.295",
-      "ops": "0.674"
-    },
-    {
-      "name": "Jason Castro",
-      "pos": "C",
-      "ba": "0.198",
-      "obp": "0.302",
+      "ba": "0.236",
+      "obp": "0.293",
       "ops": "0.668"
     },
     {
       "name": "Jason Delay",
       "pos": "C",
-      "ba": "0.213",
-      "obp": "0.265",
-      "ops": "0.536"
+      "ba": "0.211",
+      "obp": "0.263",
+      "ops": "0.559"
     },
     {
       "name": "Jason Heyward",
       "pos": "RF",
-      "ba": "0.231",
-      "obp": "0.308",
-      "ops": "0.670"
-    },
-    {
-      "name": "Jason Krizan",
-      "pos": "LF",
-      "ba": "0.125",
-      "obp": "0.300",
-      "ops": "0.425"
-    },
-    {
-      "name": "Jason Martin",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.229",
+      "obp": "0.305",
+      "ops": "0.668"
     },
     {
       "name": "Jason Vosler",
       "pos": "LF",
-      "ba": "0.247",
-      "obp": "0.320",
-      "ops": "0.781"
+      "ba": "0.208",
+      "obp": "0.283",
+      "ops": "0.658"
     },
     {
       "name": "Javier Baez",
       "pos": "SS",
-      "ba": "0.244",
-      "obp": "0.289",
-      "ops": "0.702"
+      "ba": "0.246",
+      "obp": "0.291",
+      "ops": "0.708"
     },
     {
       "name": "Jaylin Davis",
       "pos": "CF",
-      "ba": "0.263",
-      "obp": "0.333",
-      "ops": "0.649"
+      "ba": "0.200",
+      "obp": "0.259",
+      "ops": "0.619"
     },
     {
       "name": "Jazz Chisholm",
       "pos": "OF",
-      "ba": "0.243",
+      "ba": "0.245",
       "obp": "0.311",
-      "ops": "0.765"
+      "ops": "0.762"
     },
     {
       "name": "Jean Segura",
@@ -2325,3056 +1772,2419 @@
       "ops": "0.728"
     },
     {
-      "name": "Jeff Mathis",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
       "name": "Jeff McNeil",
       "pos": "2B",
-      "ba": "0.289",
-      "obp": "0.351",
-      "ops": "0.766"
+      "ba": "0.287",
+      "obp": "0.349",
+      "ops": "0.761"
     },
     {
       "name": "Jeimer Candelario",
       "pos": "3B",
-      "ba": "0.240",
-      "obp": "0.309",
-      "ops": "0.706"
+      "ba": "0.243",
+      "obp": "0.314",
+      "ops": "0.721"
     },
     {
       "name": "Jerar Encarnacion",
       "pos": "RF",
-      "ba": "0.203",
-      "obp": "0.262",
-      "ops": "0.601"
+      "ba": "0.237",
+      "obp": "0.286",
+      "ops": "0.733"
     },
     {
       "name": "Jeremy Pena",
       "pos": "SS",
-      "ba": "0.251",
-      "obp": "0.292",
+      "ba": "0.250",
+      "obp": "0.295",
       "ops": "0.711"
     },
     {
       "name": "Jermaine Palacios",
       "pos": "SS",
-      "ba": "0.158",
-      "obp": "0.195",
-      "ops": "0.432"
+      "ba": "0.214",
+      "obp": "0.267",
+      "ops": "0.553"
     },
     {
       "name": "Jesse Winker",
       "pos": "DH",
-      "ba": "0.251",
+      "ba": "0.253",
       "obp": "0.360",
-      "ops": "0.792"
+      "ops": "0.790"
     },
     {
       "name": "Jesus Aguilar",
-      "pos": "1B",
-      "ba": "0.239",
-      "obp": "0.298",
-      "ops": "0.703"
+      "pos": "DH",
+      "ba": "0.235",
+      "obp": "0.296",
+      "ops": "0.688"
     },
     {
       "name": "Jesus Sanchez",
       "pos": "OF",
-      "ba": "0.235",
-      "obp": "0.302",
-      "ops": "0.719"
+      "ba": "0.243",
+      "obp": "0.310",
+      "ops": "0.741"
     },
     {
       "name": "Ji-Hwan Bae",
       "pos": "CF",
-      "ba": "0.277",
-      "obp": "0.362",
-      "ops": "0.749"
+      "ba": "0.252",
+      "obp": "0.342",
+      "ops": "0.700"
     },
     {
       "name": "Ji-Man Choi",
       "pos": "1B",
-      "ba": "0.235",
-      "obp": "0.339",
-      "ops": "0.744"
+      "ba": "0.239",
+      "obp": "0.344",
+      "ops": "0.740"
     },
     {
       "name": "Jo Adell",
       "pos": "LF",
-      "ba": "0.231",
-      "obp": "0.283",
-      "ops": "0.702"
+      "ba": "0.225",
+      "obp": "0.275",
+      "ops": "0.687"
     },
     {
       "name": "Joc Pederson",
       "pos": "DH",
-      "ba": "0.243",
-      "obp": "0.323",
-      "ops": "0.777"
-    },
-    {
-      "name": "Joe Dunand",
-      "pos": "2B",
-      "ba": "0.300",
-      "obp": "0.364",
-      "ops": "1.064"
+      "ba": "0.246",
+      "obp": "0.326",
+      "ops": "0.780"
     },
     {
       "name": "Joe Wendle",
       "pos": "SS",
-      "ba": "0.258",
-      "obp": "0.307",
-      "ops": "0.682"
+      "ba": "0.261",
+      "obp": "0.310",
+      "ops": "0.693"
     },
     {
       "name": "Joey Bart",
       "pos": "C",
-      "ba": "0.223",
-      "obp": "0.293",
-      "ops": "0.663"
+      "ba": "0.220",
+      "obp": "0.285",
+      "ops": "0.651"
     },
     {
       "name": "Joey Gallo",
       "pos": "OF",
-      "ba": "0.189",
-      "obp": "0.316",
-      "ops": "0.726"
+      "ba": "0.193",
+      "obp": "0.319",
+      "ops": "0.727"
     },
     {
       "name": "Joey Meneses",
       "pos": "DH",
-      "ba": "0.274",
-      "obp": "0.320",
-      "ops": "0.787"
+      "ba": "0.259",
+      "obp": "0.307",
+      "ops": "0.749"
     },
     {
       "name": "Joey Votto",
-      "pos": "1B",
+      "pos": "DH",
       "ba": "0.234",
-      "obp": "0.337",
-      "ops": "0.763"
+      "obp": "0.335",
+      "ops": "0.753"
     },
     {
       "name": "Johan Camargo",
       "pos": "SS",
-      "ba": "0.237",
-      "obp": "0.301",
-      "ops": "0.656"
+      "ba": "0.250",
+      "obp": "0.302",
+      "ops": "0.677"
     },
     {
       "name": "John Hicks",
       "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "John Nogowski",
-      "pos": "1B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Johneshwy Fargas",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Jon Jay",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.188",
+      "obp": "0.235",
+      "ops": "0.673"
     },
     {
       "name": "Jonah Bride",
       "pos": "DH",
-      "ba": "0.236",
-      "obp": "0.326",
-      "ops": "0.659"
+      "ba": "0.235",
+      "obp": "0.330",
+      "ops": "0.648"
     },
     {
       "name": "Jonah Heim",
       "pos": "C",
-      "ba": "0.231",
-      "obp": "0.295",
-      "ops": "0.700"
+      "ba": "0.237",
+      "obp": "0.299",
+      "ops": "0.705"
     },
     {
       "name": "Jonathan Aranda",
       "pos": "1B",
-      "ba": "0.235",
-      "obp": "0.306",
-      "ops": "0.679"
-    },
-    {
-      "name": "Jonathan Arauz",
-      "pos": "SS",
-      "ba": "0.170",
-      "obp": "0.235",
-      "ops": "0.490"
+      "ba": "0.243",
+      "obp": "0.308",
+      "ops": "0.685"
     },
     {
       "name": "Jonathan Davis",
       "pos": "CF",
-      "ba": "0.204",
-      "obp": "0.290",
-      "ops": "0.586"
+      "ba": "0.192",
+      "obp": "0.300",
+      "ops": "0.531"
     },
     {
       "name": "Jonathan India",
       "pos": "2B",
-      "ba": "0.254",
-      "obp": "0.343",
-      "ops": "0.756"
-    },
-    {
-      "name": "Jonathan Lucroy",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.253",
+      "obp": "0.342",
+      "ops": "0.748"
     },
     {
       "name": "Jonathan Schoop",
       "pos": "2B",
-      "ba": "0.241",
-      "obp": "0.283",
-      "ops": "0.665"
-    },
-    {
-      "name": "Jonathan Villar",
-      "pos": "3B",
-      "ba": "0.239",
-      "obp": "0.298",
-      "ops": "0.666"
+      "ba": "0.248",
+      "obp": "0.290",
+      "ops": "0.688"
     },
     {
       "name": "Jonathon Berti",
       "pos": "OF",
       "ba": "0.241",
-      "obp": "0.327",
-      "ops": "0.667"
+      "obp": "0.324",
+      "ops": "0.673"
     },
     {
       "name": "Jordan Diaz",
       "pos": "2B",
-      "ba": "0.256",
-      "obp": "0.292",
-      "ops": "0.636"
+      "ba": "0.261",
+      "obp": "0.306",
+      "ops": "0.676"
     },
     {
       "name": "Jordan Groshans",
       "pos": "3B",
-      "ba": "0.257",
-      "obp": "0.321",
-      "ops": "0.657"
+      "ba": "0.247",
+      "obp": "0.323",
+      "ops": "0.659"
     },
     {
       "name": "Jordan Luplow",
       "pos": "LF",
-      "ba": "0.215",
-      "obp": "0.310",
-      "ops": "0.722"
+      "ba": "0.220",
+      "obp": "0.313",
+      "ops": "0.742"
     },
     {
       "name": "Jorge Alfaro",
       "pos": "C",
-      "ba": "0.244",
-      "obp": "0.290",
-      "ops": "0.678"
-    },
-    {
-      "name": "Jorge Bonifacio",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.241",
+      "obp": "0.289",
+      "ops": "0.673"
     },
     {
       "name": "Jorge Mateo",
       "pos": "SS",
-      "ba": "0.226",
-      "obp": "0.273",
-      "ops": "0.643"
-    },
-    {
-      "name": "Jorge Ona",
-      "pos": "OF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.228",
+      "obp": "0.274",
+      "ops": "0.640"
     },
     {
       "name": "Jorge Polanco",
       "pos": "2B",
-      "ba": "0.256",
-      "obp": "0.333",
-      "ops": "0.771"
+      "ba": "0.258",
+      "obp": "0.332",
+      "ops": "0.778"
     },
     {
       "name": "Jorge Soler",
       "pos": "DH",
-      "ba": "0.230",
-      "obp": "0.317",
-      "ops": "0.758"
+      "ba": "0.229",
+      "obp": "0.316",
+      "ops": "0.752"
     },
     {
       "name": "Jose Abreu",
       "pos": "1B",
-      "ba": "0.275",
-      "obp": "0.347",
-      "ops": "0.795"
+      "ba": "0.272",
+      "obp": "0.343",
+      "ops": "0.786"
     },
     {
       "name": "Jose Altuve",
       "pos": "2B",
       "ba": "0.274",
-      "obp": "0.351",
-      "ops": "0.817"
+      "obp": "0.350",
+      "ops": "0.814"
     },
     {
       "name": "Jose Azocar",
       "pos": "OF",
-      "ba": "0.247",
-      "obp": "0.297",
-      "ops": "0.637"
+      "ba": "0.244",
+      "obp": "0.300",
+      "ops": "0.653"
     },
     {
       "name": "Jose Barrero",
       "pos": "SS",
-      "ba": "0.197",
-      "obp": "0.243",
-      "ops": "0.560"
-    },
-    {
-      "name": "Jose Devers",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Jose Godoy",
-      "pos": "C",
-      "ba": "0.080",
-      "obp": "0.148",
-      "ops": "0.228"
+      "ba": "0.215",
+      "obp": "0.262",
+      "ops": "0.610"
     },
     {
       "name": "Jose Herrera",
       "pos": "C",
-      "ba": "0.197",
-      "obp": "0.279",
-      "ops": "0.558"
-    },
-    {
-      "name": "Jose Iglesias",
-      "pos": "SS",
-      "ba": "0.274",
-      "obp": "0.310",
-      "ops": "0.683"
+      "ba": "0.227",
+      "obp": "0.306",
+      "ops": "0.647"
     },
     {
       "name": "Jose Miranda",
       "pos": "3B",
-      "ba": "0.263",
-      "obp": "0.321",
-      "ops": "0.746"
-    },
-    {
-      "name": "Jose Peraza",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.269",
+      "obp": "0.327",
+      "ops": "0.756"
     },
     {
       "name": "Jose Ramirez",
       "pos": "3B",
-      "ba": "0.267",
-      "obp": "0.348",
-      "ops": "0.850"
-    },
-    {
-      "name": "Jose Rojas",
-      "pos": "3B",
-      "ba": "0.172",
-      "obp": "0.222",
-      "ops": "0.523"
+      "ba": "0.271",
+      "obp": "0.351",
+      "ops": "0.857"
     },
     {
       "name": "Jose Siri",
       "pos": "OF",
-      "ba": "0.226",
-      "obp": "0.283",
-      "ops": "0.669"
+      "ba": "0.225",
+      "obp": "0.279",
+      "ops": "0.659"
     },
     {
       "name": "Jose Trevino",
       "pos": "C",
-      "ba": "0.241",
-      "obp": "0.277",
-      "ops": "0.652"
+      "ba": "0.235",
+      "obp": "0.268",
+      "ops": "0.634"
     },
     {
       "name": "Josh Bell",
       "pos": "DH",
-      "ba": "0.263",
-      "obp": "0.351",
-      "ops": "0.792"
+      "ba": "0.260",
+      "obp": "0.347",
+      "ops": "0.775"
     },
     {
       "name": "Josh Donaldson",
       "pos": "3B",
-      "ba": "0.227",
-      "obp": "0.320",
-      "ops": "0.722"
+      "ba": "0.224",
+      "obp": "0.317",
+      "ops": "0.715"
     },
     {
       "name": "Josh Harrison",
       "pos": "2B",
-      "ba": "0.257",
-      "obp": "0.316",
-      "ops": "0.692"
+      "ba": "0.252",
+      "obp": "0.313",
+      "ops": "0.687"
     },
     {
       "name": "Josh Jung",
       "pos": "3B",
-      "ba": "0.231",
-      "obp": "0.284",
-      "ops": "0.702"
+      "ba": "0.240",
+      "obp": "0.297",
+      "ops": "0.716"
     },
     {
       "name": "Josh Lester",
       "pos": "DH",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.214",
+      "obp": "0.267",
+      "ops": "0.553"
     },
     {
       "name": "Josh Lowe",
       "pos": "RF",
-      "ba": "0.218",
-      "obp": "0.291",
-      "ops": "0.641"
+      "ba": "0.224",
+      "obp": "0.297",
+      "ops": "0.662"
     },
     {
       "name": "Josh Naylor",
       "pos": "1B",
-      "ba": "0.262",
-      "obp": "0.325",
-      "ops": "0.777"
+      "ba": "0.265",
+      "obp": "0.330",
+      "ops": "0.781"
     },
     {
       "name": "Josh Rojas",
       "pos": "3B",
-      "ba": "0.255",
-      "obp": "0.333",
-      "ops": "0.717"
+      "ba": "0.254",
+      "obp": "0.332",
+      "ops": "0.716"
     },
     {
-      "name": "Josh VanMeter",
-      "pos": "1B",
-      "ba": "0.200",
-      "obp": "0.286",
-      "ops": "0.613"
-    },
-    {
-      "name": "Joshua Palacios",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Juan Lagares",
-      "pos": "CF",
-      "ba": "0.217",
-      "obp": "0.248",
-      "ops": "0.577"
+      "name": "Josh Smith",
+      "pos": "SS",
+      "ba": "0.234",
+      "obp": "0.321",
+      "ops": "0.669"
     },
     {
       "name": "Juan Soto",
       "pos": "OF",
-      "ba": "0.280",
+      "ba": "0.279",
       "obp": "0.427",
-      "ops": "0.945"
+      "ops": "0.935"
     },
     {
       "name": "Juan Yepez",
       "pos": "DH",
-      "ba": "0.246",
-      "obp": "0.297",
-      "ops": "0.737"
+      "ba": "0.249",
+      "obp": "0.298",
+      "ops": "0.746"
     },
     {
       "name": "Julio Rodriguez",
       "pos": "OF",
-      "ba": "0.278",
-      "obp": "0.344",
-      "ops": "0.841"
+      "ba": "0.274",
+      "obp": "0.341",
+      "ops": "0.826"
     },
     {
       "name": "Jurickson Profar",
       "pos": "LF",
       "ba": "0.240",
-      "obp": "0.327",
-      "ops": "0.710"
+      "obp": "0.324",
+      "ops": "0.700"
     },
     {
       "name": "Justin Turner",
       "pos": "DH",
-      "ba": "0.268",
-      "obp": "0.342",
-      "ops": "0.771"
+      "ba": "0.273",
+      "obp": "0.348",
+      "ops": "0.780"
     },
     {
       "name": "Justin Upton",
       "pos": "DH",
-      "ba": "0.201",
-      "obp": "0.287",
-      "ops": "0.654"
-    },
-    {
-      "name": "Justin Williams",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Ka'Ai Tom",
-      "pos": "LF",
-      "ba": "0.139",
-      "obp": "0.273",
-      "ops": "0.523"
+      "ba": "0.198",
+      "obp": "0.283",
+      "ops": "0.632"
     },
     {
       "name": "Ke'Bryan Hayes",
       "pos": "3B",
-      "ba": "0.257",
-      "obp": "0.324",
-      "ops": "0.706"
-    },
-    {
-      "name": "Kean Wong",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.254",
+      "obp": "0.321",
+      "ops": "0.698"
     },
     {
       "name": "Keibert Ruiz",
       "pos": "C",
-      "ba": "0.259",
-      "obp": "0.321",
-      "ops": "0.727"
-    },
-    {
-      "name": "Kelvin Gutierrez",
-      "pos": "3B",
-      "ba": "0.220",
-      "obp": "0.292",
-      "ops": "0.586"
+      "ba": "0.262",
+      "obp": "0.322",
+      "ops": "0.739"
     },
     {
       "name": "Kerry Carpenter",
       "pos": "DH",
-      "ba": "0.247",
-      "obp": "0.310",
-      "ops": "0.752"
+      "ba": "0.248",
+      "obp": "0.312",
+      "ops": "0.751"
     },
     {
       "name": "Keston Hiura",
       "pos": "LF",
-      "ba": "0.222",
-      "obp": "0.307",
-      "ops": "0.730"
+      "ba": "0.219",
+      "obp": "0.306",
+      "ops": "0.723"
     },
     {
       "name": "Ketel Marte",
       "pos": "2B",
-      "ba": "0.268",
-      "obp": "0.338",
-      "ops": "0.779"
-    },
-    {
-      "name": "Kevan Smith",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.273",
+      "obp": "0.341",
+      "ops": "0.786"
     },
     {
       "name": "Kevin Kiermaier",
       "pos": "OF",
-      "ba": "0.236",
-      "obp": "0.297",
-      "ops": "0.668"
+      "ba": "0.233",
+      "obp": "0.293",
+      "ops": "0.657"
     },
     {
       "name": "Kevin Newman",
       "pos": "SS",
-      "ba": "0.260",
-      "obp": "0.303",
-      "ops": "0.666"
-    },
-    {
-      "name": "Kevin Padlo",
-      "pos": "3B",
-      "ba": "0.115",
-      "obp": "0.148",
-      "ops": "0.302"
+      "ba": "0.265",
+      "obp": "0.306",
+      "ops": "0.672"
     },
     {
       "name": "Kevin Pillar",
       "pos": "LF",
-      "ba": "0.241",
-      "obp": "0.289",
-      "ops": "0.700"
+      "ba": "0.231",
+      "obp": "0.275",
+      "ops": "0.644"
     },
     {
       "name": "Kevin Plawecki",
       "pos": "C",
-      "ba": "0.247",
-      "obp": "0.305",
-      "ops": "0.657"
+      "ba": "0.257",
+      "obp": "0.322",
+      "ops": "0.684"
     },
     {
       "name": "Kevin Smith",
       "pos": "3B",
-      "ba": "0.201",
-      "obp": "0.253",
-      "ops": "0.589"
+      "ba": "0.210",
+      "obp": "0.267",
+      "ops": "0.614"
     },
     {
       "name": "Khalil Lee",
       "pos": "OF",
-      "ba": "0.250",
-      "obp": "0.333",
-      "ops": "0.958"
+      "ba": "0.167",
+      "obp": "0.231",
+      "ops": "0.481"
     },
     {
       "name": "Kody Clemens",
       "pos": "3B",
-      "ba": "0.198",
-      "obp": "0.260",
-      "ops": "0.623"
-    },
-    {
-      "name": "Kole Calhoun",
-      "pos": "RF",
-      "ba": "0.206",
-      "obp": "0.281",
-      "ops": "0.645"
+      "ba": "0.217",
+      "obp": "0.288",
+      "ops": "0.679"
     },
     {
       "name": "Kolten Wong",
       "pos": "2B",
-      "ba": "0.249",
-      "obp": "0.326",
-      "ops": "0.716"
+      "ba": "0.248",
+      "obp": "0.322",
+      "ops": "0.708"
     },
     {
       "name": "Korey Lee",
       "pos": "C",
-      "ba": "0.200",
-      "obp": "0.254",
-      "ops": "0.579"
+      "ba": "0.219",
+      "obp": "0.279",
+      "ops": "0.650"
     },
     {
       "name": "Kris Bryant",
       "pos": "OF",
-      "ba": "0.270",
-      "obp": "0.352",
-      "ops": "0.813"
-    },
-    {
-      "name": "Kurt Suzuki",
-      "pos": "C",
-      "ba": "0.218",
-      "obp": "0.296",
-      "ops": "0.641"
+      "ba": "0.276",
+      "obp": "0.357",
+      "ops": "0.829"
     },
     {
       "name": "Kyle Farmer",
       "pos": "SS",
-      "ba": "0.253",
-      "obp": "0.311",
-      "ops": "0.694"
+      "ba": "0.245",
+      "obp": "0.302",
+      "ops": "0.665"
     },
     {
       "name": "Kyle Garlick",
       "pos": "DH",
-      "ba": "0.230",
-      "obp": "0.286",
-      "ops": "0.712"
+      "ba": "0.231",
+      "obp": "0.283",
+      "ops": "0.690"
     },
     {
       "name": "Kyle Higashioka",
       "pos": "C",
-      "ba": "0.215",
-      "obp": "0.262",
-      "ops": "0.647"
+      "ba": "0.223",
+      "obp": "0.272",
+      "ops": "0.681"
     },
     {
       "name": "Kyle Isbel",
       "pos": "OF",
-      "ba": "0.233",
-      "obp": "0.289",
-      "ops": "0.663"
+      "ba": "0.237",
+      "obp": "0.293",
+      "ops": "0.671"
     },
     {
       "name": "Kyle Lewis",
       "pos": "LF",
-      "ba": "0.237",
+      "ba": "0.240",
       "obp": "0.317",
-      "ops": "0.720"
+      "ops": "0.722"
     },
     {
       "name": "Kyle Schwarber",
       "pos": "OF",
-      "ba": "0.232",
-      "obp": "0.336",
-      "ops": "0.841"
+      "ba": "0.237",
+      "obp": "0.340",
+      "ops": "0.846"
     },
     {
       "name": "Kyle Stowers",
       "pos": "DH",
-      "ba": "0.237",
-      "obp": "0.309",
-      "ops": "0.718"
+      "ba": "0.229",
+      "obp": "0.305",
+      "ops": "0.698"
     },
     {
       "name": "Kyle Tucker",
       "pos": "OF",
-      "ba": "0.273",
-      "obp": "0.341",
-      "ops": "0.853"
+      "ba": "0.277",
+      "obp": "0.344",
+      "ops": "0.859"
     },
     {
       "name": "LaMonte Wade",
       "pos": "1B",
-      "ba": "0.228",
-      "obp": "0.322",
-      "ops": "0.725"
+      "ba": "0.236",
+      "obp": "0.329",
+      "ops": "0.737"
     },
     {
       "name": "Lane Thomas",
       "pos": "OF",
-      "ba": "0.237",
-      "obp": "0.306",
-      "ops": "0.715"
+      "ba": "0.236",
+      "obp": "0.305",
+      "ops": "0.705"
     },
     {
       "name": "Lars Nootbaar",
       "pos": "OF",
-      "ba": "0.240",
-      "obp": "0.334",
-      "ops": "0.761"
+      "ba": "0.239",
+      "obp": "0.331",
+      "ops": "0.759"
     },
     {
       "name": "Lenyn Sosa",
       "pos": "SS",
-      "ba": "0.219",
-      "obp": "0.263",
-      "ops": "0.612"
+      "ba": "0.250",
+      "obp": "0.301",
+      "ops": "0.686"
     },
     {
       "name": "Leody Taveras",
       "pos": "OF",
-      "ba": "0.235",
-      "obp": "0.291",
-      "ops": "0.658"
+      "ba": "0.236",
+      "obp": "0.293",
+      "ops": "0.659"
     },
     {
       "name": "Leury Garcia",
       "pos": "3B",
-      "ba": "0.243",
-      "obp": "0.286",
-      "ops": "0.619"
+      "ba": "0.250",
+      "obp": "0.294",
+      "ops": "0.635"
     },
     {
       "name": "Lewin Diaz",
       "pos": "1B",
-      "ba": "0.188",
-      "obp": "0.247",
-      "ops": "0.576"
+      "ba": "0.213",
+      "obp": "0.260",
+      "ops": "0.643"
     },
     {
       "name": "Lewis Brinson",
       "pos": "CF",
-      "ba": "0.217",
-      "obp": "0.265",
-      "ops": "0.614"
+      "ba": "0.250",
+      "obp": "0.333",
+      "ops": "0.583"
     },
     {
       "name": "Liover Peguero",
       "pos": "SS",
-      "ba": "0.250",
-      "obp": "0.351",
-      "ops": "0.726"
+      "ba": "0.259",
+      "obp": "0.333",
+      "ops": "0.629"
     },
     {
       "name": "Livan Soto",
       "pos": "SS",
-      "ba": "0.333",
-      "obp": "0.378",
-      "ops": "0.923"
+      "ba": "0.240",
+      "obp": "0.321",
+      "ops": "0.601"
     },
     {
       "name": "Logan O'Hoppe",
       "pos": "C",
-      "ba": "0.251",
-      "obp": "0.336",
-      "ops": "0.718"
-    },
-    {
-      "name": "Lorenzo Cain",
-      "pos": "CF",
-      "ba": "0.231",
-      "obp": "0.291",
-      "ops": "0.615"
+      "ba": "0.237",
+      "obp": "0.320",
+      "ops": "0.714"
     },
     {
       "name": "Lourdes Gurriel Jr.",
-      "pos": "OF",
-      "ba": "0.278",
-      "obp": "0.325",
-      "ops": "0.750"
+      "pos": "DH",
+      "ba": "0.281",
+      "obp": "0.329",
+      "ops": "0.753"
     },
     {
       "name": "Lucas Williams",
       "pos": "LF",
-      "ba": "0.248",
-      "obp": "0.302",
-      "ops": "0.635"
+      "ba": "0.222",
+      "obp": "0.263",
+      "ops": "0.541"
     },
     {
       "name": "Luis Arraez",
       "pos": "2B",
-      "ba": "0.302",
+      "ba": "0.301",
       "obp": "0.362",
-      "ops": "0.764"
+      "ops": "0.762"
     },
     {
       "name": "Luis Barrera",
       "pos": "LF",
-      "ba": "0.241",
-      "obp": "0.300",
-      "ops": "0.652"
+      "ba": "0.200",
+      "obp": "0.250",
+      "ops": "0.517"
     },
     {
       "name": "Luis Campusano",
       "pos": "C",
-      "ba": "0.230",
-      "obp": "0.279",
-      "ops": "0.635"
+      "ba": "0.243",
+      "obp": "0.294",
+      "ops": "0.677"
     },
     {
       "name": "Luis Garcia",
       "pos": "2B",
-      "ba": "0.265",
-      "obp": "0.298",
-      "ops": "0.709"
+      "ba": "0.260",
+      "obp": "0.296",
+      "ops": "0.701"
     },
     {
       "name": "Luis Gonzalez",
       "pos": "LF",
-      "ba": "0.236",
-      "obp": "0.313",
-      "ops": "0.664"
+      "ba": "0.234",
+      "obp": "0.310",
+      "ops": "0.677"
     },
     {
       "name": "Luis Guillorme",
       "pos": "2B",
-      "ba": "0.265",
-      "obp": "0.346",
-      "ops": "0.688"
-    },
-    {
-      "name": "Luis Liberato",
-      "pos": "OF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Luis Marte",
-      "pos": "SS",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.257",
+      "obp": "0.340",
+      "ops": "0.670"
     },
     {
       "name": "Luis Rengifo",
       "pos": "SS",
-      "ba": "0.251",
-      "obp": "0.296",
-      "ops": "0.696"
+      "ba": "0.253",
+      "obp": "0.302",
+      "ops": "0.699"
     },
     {
       "name": "Luis Robert",
       "pos": "OF",
-      "ba": "0.283",
-      "obp": "0.327",
-      "ops": "0.794"
+      "ba": "0.279",
+      "obp": "0.324",
+      "ops": "0.792"
     },
     {
       "name": "Luis Torrens",
       "pos": "2B",
-      "ba": "0.236",
-      "obp": "0.295",
-      "ops": "0.681"
+      "ba": "0.233",
+      "obp": "0.288",
+      "ops": "0.644"
     },
     {
       "name": "Luis Urias",
       "pos": "3B",
-      "ba": "0.240",
+      "ba": "0.242",
       "obp": "0.330",
-      "ops": "0.735"
+      "ops": "0.742"
     },
     {
       "name": "Luke Maile",
       "pos": "C",
-      "ba": "0.219",
-      "obp": "0.294",
-      "ops": "0.625"
+      "ba": "0.225",
+      "obp": "0.300",
+      "ops": "0.650"
     },
     {
       "name": "Luke Raley",
       "pos": "RF",
-      "ba": "0.237",
-      "obp": "0.318",
-      "ops": "0.660"
-    },
-    {
-      "name": "Luke Voit",
-      "pos": "DH",
-      "ba": "0.231",
-      "obp": "0.313",
-      "ops": "0.736"
+      "ba": "0.216",
+      "obp": "0.300",
+      "ops": "0.652"
     },
     {
       "name": "MJ Melendez",
       "pos": "DH",
-      "ba": "0.229",
-      "obp": "0.317",
-      "ops": "0.738"
+      "ba": "0.237",
+      "obp": "0.318",
+      "ops": "0.752"
     },
     {
       "name": "Magneuris Sierra",
       "pos": "CF",
-      "ba": "0.214",
-      "obp": "0.258",
-      "ops": "0.520"
+      "ba": "0.233",
+      "obp": "0.267",
+      "ops": "0.546"
     },
     {
       "name": "Maikel Garcia",
       "pos": "SS",
-      "ba": "0.304",
-      "obp": "0.360",
-      "ops": "0.708"
+      "ba": "0.267",
+      "obp": "0.333",
+      "ops": "0.666"
     },
     {
       "name": "Manny Machado",
       "pos": "3B",
-      "ba": "0.273",
-      "obp": "0.343",
-      "ops": "0.829"
+      "ba": "0.268",
+      "obp": "0.339",
+      "ops": "0.813"
     },
     {
       "name": "Manny Pina",
       "pos": "C",
-      "ba": "0.211",
-      "obp": "0.291",
-      "ops": "0.659"
+      "ba": "0.221",
+      "obp": "0.299",
+      "ops": "0.681"
     },
     {
       "name": "Manuel Margot",
       "pos": "OF",
-      "ba": "0.256",
-      "obp": "0.313",
+      "ba": "0.254",
+      "obp": "0.312",
       "ops": "0.696"
     },
     {
       "name": "Marcell Ozuna",
       "pos": "DH",
-      "ba": "0.245",
-      "obp": "0.307",
-      "ops": "0.748"
+      "ba": "0.247",
+      "obp": "0.310",
+      "ops": "0.751"
     },
     {
       "name": "Marcus Semien",
       "pos": "2B",
-      "ba": "0.250",
-      "obp": "0.315",
-      "ops": "0.757"
-    },
-    {
-      "name": "Marcus Wilson",
-      "pos": "RF",
-      "ba": "0.200",
-      "obp": "0.333",
-      "ops": "0.533"
+      "ba": "0.254",
+      "obp": "0.320",
+      "ops": "0.766"
     },
     {
       "name": "Mark Canha",
       "pos": "OF",
-      "ba": "0.244",
+      "ba": "0.243",
       "obp": "0.350",
-      "ops": "0.733"
-    },
-    {
-      "name": "Mark Kolozsvary",
-      "pos": "C",
-      "ba": "0.200",
-      "obp": "0.238",
-      "ops": "0.688"
+      "ops": "0.735"
     },
     {
       "name": "Mark Mathias",
       "pos": "RF",
-      "ba": "0.230",
-      "obp": "0.313",
+      "ba": "0.233",
+      "obp": "0.309",
       "ops": "0.692"
-    },
-    {
-      "name": "Mark Payton",
-      "pos": "LF",
-      "ba": "0.143",
-      "obp": "0.250",
-      "ops": "0.393"
     },
     {
       "name": "Mark Vientos",
       "pos": "3B",
-      "ba": "0.240",
-      "obp": "0.345",
-      "ops": "0.745"
+      "ba": "0.219",
+      "obp": "0.324",
+      "ops": "0.668"
     },
     {
       "name": "Martin Maldonado",
       "pos": "C",
-      "ba": "0.193",
+      "ba": "0.194",
       "obp": "0.269",
-      "ops": "0.611"
+      "ops": "0.607"
     },
     {
-      "name": "Marwin Gonzalez",
-      "pos": "RF",
-      "ba": "0.210",
-      "obp": "0.278",
-      "ops": "0.614"
-    },
-    {
-      "name": "Mason Williams",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "name": "Masataka Yoshida",
+      "pos": "OF",
+      "ba": "0.290",
+      "obp": "0.374",
+      "ops": "0.838"
     },
     {
       "name": "Mat Batten",
       "pos": "3B",
       "ba": "0.200",
-      "obp": "0.314",
-      "ops": "0.547"
+      "obp": "0.333",
+      "ops": "0.583"
     },
     {
       "name": "Matt Beaty",
       "pos": "DH",
-      "ba": "0.263",
-      "obp": "0.333",
-      "ops": "0.772"
+      "ba": "0.269",
+      "obp": "0.345",
+      "ops": "0.807"
     },
     {
       "name": "Matt Carpenter",
       "pos": "OF",
-      "ba": "0.224",
+      "ba": "0.223",
       "obp": "0.332",
-      "ops": "0.757"
+      "ops": "0.744"
     },
     {
       "name": "Matt Chapman",
       "pos": "3B",
-      "ba": "0.224",
-      "obp": "0.315",
-      "ops": "0.750"
-    },
-    {
-      "name": "Matt Davidson",
-      "pos": "3B",
-      "ba": "0.147",
-      "obp": "0.216",
-      "ops": "0.540"
+      "ba": "0.229",
+      "obp": "0.319",
+      "ops": "0.766"
     },
     {
       "name": "Matt Mervis",
       "pos": "DH",
-      "ba": "0.249",
-      "obp": "0.315",
-      "ops": "0.754"
+      "ba": "0.239",
+      "obp": "0.304",
+      "ops": "0.710"
     },
     {
       "name": "Matt Olson",
       "pos": "1B",
-      "ba": "0.249",
-      "obp": "0.340",
-      "ops": "0.827"
+      "ba": "0.255",
+      "obp": "0.343",
+      "ops": "0.838"
     },
     {
       "name": "Matt Thaiss",
       "pos": "1B",
-      "ba": "0.240",
-      "obp": "0.321",
-      "ops": "0.721"
+      "ba": "0.189",
+      "obp": "0.286",
+      "ops": "0.583"
     },
     {
       "name": "Matt Vierling",
       "pos": "CF",
-      "ba": "0.253",
-      "obp": "0.306",
-      "ops": "0.689"
+      "ba": "0.252",
+      "obp": "0.304",
+      "ops": "0.681"
     },
     {
       "name": "Matt Wallner",
       "pos": "RF",
-      "ba": "0.206",
-      "obp": "0.308",
-      "ops": "0.646"
+      "ba": "0.246",
+      "obp": "0.328",
+      "ops": "0.767"
     },
     {
       "name": "Matthew Duffy",
       "pos": "1B",
-      "ba": "0.267",
-      "obp": "0.329",
-      "ops": "0.693"
+      "ba": "0.268",
+      "obp": "0.333",
+      "ops": "0.690"
     },
     {
       "name": "Matthew Reynolds",
       "pos": "LF",
-      "ba": "0.252",
-      "obp": "0.320",
-      "ops": "0.690"
+      "ba": "0.234",
+      "obp": "0.298",
+      "ops": "0.623"
     },
     {
       "name": "Mauricio Dubon",
       "pos": "SS",
-      "ba": "0.243",
-      "obp": "0.284",
-      "ops": "0.657"
+      "ba": "0.252",
+      "obp": "0.293",
+      "ops": "0.678"
     },
     {
       "name": "Max Kepler",
       "pos": "OF",
-      "ba": "0.234",
-      "obp": "0.322",
-      "ops": "0.733"
-    },
-    {
-      "name": "Max Moroff",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.238",
+      "obp": "0.323",
+      "ops": "0.736"
     },
     {
       "name": "Max Muncy",
       "pos": "3B",
-      "ba": "0.227",
-      "obp": "0.347",
-      "ops": "0.795"
+      "ba": "0.233",
+      "obp": "0.350",
+      "ops": "0.802"
     },
     {
       "name": "Max Schrock",
       "pos": "2B",
-      "ba": "0.262",
-      "obp": "0.318",
-      "ops": "0.711"
+      "ba": "0.238",
+      "obp": "0.273",
+      "ops": "0.559"
     },
     {
       "name": "Max Stassi",
       "pos": "C",
-      "ba": "0.210",
-      "obp": "0.291",
-      "ops": "0.651"
+      "ba": "0.214",
+      "obp": "0.294",
+      "ops": "0.657"
     },
     {
       "name": "Meibrys Viloria",
       "pos": "C",
-      "ba": "0.175",
-      "obp": "0.274",
-      "ops": "0.528"
+      "ba": "0.200",
+      "obp": "0.294",
+      "ops": "0.627"
     },
     {
       "name": "Michael Brantley",
       "pos": "DH",
-      "ba": "0.285",
-      "obp": "0.350",
-      "ops": "0.775"
+      "ba": "0.286",
+      "obp": "0.351",
+      "ops": "0.770"
     },
     {
       "name": "Michael Brosseau",
       "pos": "3B",
-      "ba": "0.235",
-      "obp": "0.315",
-      "ops": "0.718"
+      "ba": "0.226",
+      "obp": "0.305",
+      "ops": "0.677"
     },
     {
       "name": "Michael Chavis",
       "pos": "1B",
       "ba": "0.222",
-      "obp": "0.264",
-      "ops": "0.678"
+      "obp": "0.255",
+      "ops": "0.655"
     },
     {
       "name": "Michael Conforto",
       "pos": "OF",
-      "ba": "0.247",
-      "obp": "0.346",
-      "ops": "0.756"
-    },
-    {
-      "name": "Michael Freeman",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.251",
+      "obp": "0.347",
+      "ops": "0.763"
     },
     {
       "name": "Michael Harris",
       "pos": "OF",
-      "ba": "0.280",
-      "obp": "0.329",
-      "ops": "0.801"
+      "ba": "0.273",
+      "obp": "0.322",
+      "ops": "0.773"
     },
     {
       "name": "Michael Massey",
       "pos": "2B",
-      "ba": "0.244",
-      "obp": "0.310",
-      "ops": "0.696"
+      "ba": "0.248",
+      "obp": "0.315",
+      "ops": "0.701"
     },
     {
       "name": "Michael Papierski",
       "pos": "C",
-      "ba": "0.143",
-      "obp": "0.228",
-      "ops": "0.415"
-    },
-    {
-      "name": "Michael Perez",
-      "pos": "C",
-      "ba": "0.153",
-      "obp": "0.226",
-      "ops": "0.526"
+      "ba": "0.190",
+      "obp": "0.261",
+      "ops": "0.499"
     },
     {
       "name": "Michael Stefanic",
       "pos": "2B",
-      "ba": "0.240",
-      "obp": "0.345",
-      "ops": "0.625"
+      "ba": "0.278",
+      "obp": "0.381",
+      "ops": "0.714"
     },
     {
       "name": "Michael Taylor",
       "pos": "OF",
-      "ba": "0.240",
-      "obp": "0.297",
-      "ops": "0.662"
+      "ba": "0.234",
+      "obp": "0.293",
+      "ops": "0.654"
     },
     {
       "name": "Michael Toglia",
       "pos": "1B",
-      "ba": "0.226",
-      "obp": "0.299",
-      "ops": "0.694"
-    },
-    {
-      "name": "Mickey McDonald",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.333",
-      "ops": "0.333"
+      "ba": "0.228",
+      "obp": "0.306",
+      "ops": "0.708"
     },
     {
       "name": "Mickey Moniak",
       "pos": "LF",
-      "ba": "0.198",
-      "obp": "0.248",
-      "ops": "0.588"
+      "ba": "0.231",
+      "obp": "0.275",
+      "ops": "0.675"
     },
     {
       "name": "Miguel Andujar",
       "pos": "LF",
-      "ba": "0.255",
-      "obp": "0.298",
-      "ops": "0.698"
+      "ba": "0.258",
+      "obp": "0.309",
+      "ops": "0.680"
     },
     {
       "name": "Miguel Cabrera",
       "pos": "DH",
       "ba": "0.245",
-      "obp": "0.299",
-      "ops": "0.647"
+      "obp": "0.298",
+      "ops": "0.642"
     },
     {
       "name": "Miguel Hermosillo",
       "pos": "CF",
-      "ba": "0.185",
-      "obp": "0.290",
-      "ops": "0.623"
+      "ba": "0.235",
+      "obp": "0.350",
+      "ops": "0.821"
     },
     {
       "name": "Miguel Rojas",
       "pos": "SS",
-      "ba": "0.258",
-      "obp": "0.309",
-      "ops": "0.671"
-    },
-    {
-      "name": "Miguel Sano",
-      "pos": "DH",
-      "ba": "0.211",
-      "obp": "0.299",
-      "ops": "0.729"
+      "ba": "0.260",
+      "obp": "0.311",
+      "ops": "0.684"
     },
     {
       "name": "Miguel Vargas",
-      "pos": "DH",
-      "ba": "0.244",
-      "obp": "0.303",
-      "ops": "0.694"
+      "pos": "2B",
+      "ba": "0.263",
+      "obp": "0.330",
+      "ops": "0.751"
     },
     {
       "name": "Mike Ford",
       "pos": "1B",
-      "ba": "0.178",
-      "obp": "0.277",
-      "ops": "0.578"
+      "ba": "0.182",
+      "obp": "0.250",
+      "ops": "0.553"
+    },
+    {
+      "name": "Mike Moustakas",
+      "pos": "DH",
+      "ba": "0.237",
+      "obp": "0.308",
+      "ops": "0.716"
     },
     {
       "name": "Mike Siani",
       "pos": "CF",
-      "ba": "0.218",
-      "obp": "0.273",
-      "ops": "0.600"
+      "ba": "0.226",
+      "obp": "0.301",
+      "ops": "0.658"
     },
     {
       "name": "Mike Trout",
       "pos": "OF",
-      "ba": "0.270",
-      "obp": "0.374",
-      "ops": "0.946"
+      "ba": "0.265",
+      "obp": "0.371",
+      "ops": "0.929"
     },
     {
       "name": "Mike Yastrzemski",
       "pos": "OF",
-      "ba": "0.229",
+      "ba": "0.232",
       "obp": "0.316",
-      "ops": "0.740"
+      "ops": "0.734"
     },
     {
       "name": "Mike Zunino",
       "pos": "C",
-      "ba": "0.196",
-      "obp": "0.266",
-      "ops": "0.679"
+      "ba": "0.198",
+      "obp": "0.269",
+      "ops": "0.688"
     },
     {
       "name": "Miles Mastrobuoni",
       "pos": "RF",
-      "ba": "0.259",
-      "obp": "0.333",
-      "ops": "0.740"
+      "ba": "0.238",
+      "obp": "0.304",
+      "ops": "0.590"
     },
     {
       "name": "Mitch Garver",
       "pos": "DH",
-      "ba": "0.229",
+      "ba": "0.228",
       "obp": "0.315",
-      "ops": "0.753"
+      "ops": "0.741"
     },
     {
       "name": "Mitch Haniger",
       "pos": "OF",
       "ba": "0.252",
-      "obp": "0.321",
-      "ops": "0.775"
+      "obp": "0.323",
+      "ops": "0.771"
     },
     {
       "name": "Monte Harrison",
       "pos": "LF",
-      "ba": "0.100",
-      "obp": "0.182",
-      "ops": "0.282"
+      "ba": "0.217",
+      "obp": "0.308",
+      "ops": "0.699"
     },
     {
       "name": "Mookie Betts",
       "pos": "OF",
-      "ba": "0.273",
-      "obp": "0.354",
-      "ops": "0.859"
+      "ba": "0.271",
+      "obp": "0.355",
+      "ops": "0.857"
     },
     {
       "name": "Myles Straw",
       "pos": "OF",
-      "ba": "0.252",
-      "obp": "0.323",
+      "ba": "0.253",
+      "obp": "0.322",
       "ops": "0.644"
-    },
-    {
-      "name": "Narciso Crook",
-      "pos": "RF",
-      "ba": "0.250",
-      "obp": "0.222",
-      "ops": "0.597"
     },
     {
       "name": "Nate Lowe",
       "pos": "1B",
-      "ba": "0.271",
-      "obp": "0.345",
-      "ops": "0.794"
-    },
-    {
-      "name": "Nate Mondou",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.333",
-      "ops": "0.333"
+      "ba": "0.270",
+      "obp": "0.346",
+      "ops": "0.791"
     },
     {
       "name": "Nathan Eaton",
-      "pos": "3B",
-      "ba": "0.245",
-      "obp": "0.304",
-      "ops": "0.669"
+      "pos": "OF",
+      "ba": "0.239",
+      "obp": "0.294",
+      "ops": "0.654"
+    },
+    {
+      "name": "Nathan Lukes",
+      "pos": "OF",
+      "ba": "0.239",
+      "obp": "0.300",
+      "ops": "0.648"
     },
     {
       "name": "Nelson Cruz",
       "pos": "DH",
-      "ba": "0.246",
-      "obp": "0.315",
-      "ops": "0.730"
+      "ba": "0.242",
+      "obp": "0.311",
+      "ops": "0.717"
     },
     {
       "name": "Nelson Velazquez",
       "pos": "CF",
-      "ba": "0.215",
-      "obp": "0.285",
-      "ops": "0.665"
-    },
-    {
-      "name": "Nicholas Martini",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.216",
+      "obp": "0.276",
+      "ops": "0.657"
     },
     {
       "name": "Nick Ahmed",
       "pos": "SS",
-      "ba": "0.231",
-      "obp": "0.284",
-      "ops": "0.648"
+      "ba": "0.234",
+      "obp": "0.288",
+      "ops": "0.650"
     },
     {
       "name": "Nick Allen",
       "pos": "SS",
-      "ba": "0.221",
-      "obp": "0.274",
-      "ops": "0.584"
+      "ba": "0.230",
+      "obp": "0.284",
+      "ops": "0.610"
     },
     {
       "name": "Nick Castellanos",
       "pos": "OF",
-      "ba": "0.266",
-      "obp": "0.316",
-      "ops": "0.763"
-    },
-    {
-      "name": "Nick Ciuffo",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.262",
+      "obp": "0.313",
+      "ops": "0.757"
     },
     {
       "name": "Nick Fortes",
       "pos": "C",
-      "ba": "0.238",
-      "obp": "0.306",
-      "ops": "0.706"
+      "ba": "0.243",
+      "obp": "0.311",
+      "ops": "0.704"
     },
     {
       "name": "Nick Gordon",
       "pos": "DH",
-      "ba": "0.252",
+      "ba": "0.254",
       "obp": "0.303",
-      "ops": "0.696"
-    },
-    {
-      "name": "Nick Heath",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ops": "0.701"
     },
     {
       "name": "Nick Madrigal",
       "pos": "2B",
-      "ba": "0.282",
-      "obp": "0.331",
-      "ops": "0.702"
+      "ba": "0.290",
+      "obp": "0.345",
+      "ops": "0.728"
     },
     {
       "name": "Nick Maton",
       "pos": "3B",
-      "ba": "0.234",
-      "obp": "0.315",
-      "ops": "0.714"
-    },
-    {
-      "name": "Nick Plummer",
-      "pos": "DH",
-      "ba": "0.138",
-      "obp": "0.194",
-      "ops": "0.573"
+      "ba": "0.222",
+      "obp": "0.301",
+      "ops": "0.661"
     },
     {
       "name": "Nick Pratto",
       "pos": "1B",
-      "ba": "0.206",
-      "obp": "0.293",
-      "ops": "0.686"
+      "ba": "0.207",
+      "obp": "0.290",
+      "ops": "0.663"
     },
     {
       "name": "Nick Senzel",
       "pos": "OF",
-      "ba": "0.250",
-      "obp": "0.313",
-      "ops": "0.682"
+      "ba": "0.253",
+      "obp": "0.315",
+      "ops": "0.691"
     },
     {
       "name": "Nick Solak",
       "pos": "LF",
-      "ba": "0.258",
-      "obp": "0.335",
-      "ops": "0.752"
-    },
-    {
-      "name": "Nick Williams",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Nicky Delmonico",
-      "pos": "1B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.262",
+      "obp": "0.338",
+      "ops": "0.767"
     },
     {
       "name": "Nicky Lopez",
       "pos": "2B",
-      "ba": "0.250",
-      "obp": "0.310",
-      "ops": "0.624"
+      "ba": "0.257",
+      "obp": "0.315",
+      "ops": "0.647"
     },
     {
       "name": "Nico Hoerner",
       "pos": "2B",
-      "ba": "0.278",
-      "obp": "0.331",
-      "ops": "0.723"
+      "ba": "0.277",
+      "obp": "0.329",
+      "ops": "0.721"
     },
     {
       "name": "Nolan Arenado",
       "pos": "3B",
-      "ba": "0.267",
-      "obp": "0.330",
-      "ops": "0.808"
+      "ba": "0.265",
+      "obp": "0.328",
+      "ops": "0.795"
     },
     {
       "name": "Nolan Gorman",
-      "pos": "2B",
-      "ba": "0.233",
-      "obp": "0.296",
-      "ops": "0.721"
+      "pos": "DH",
+      "ba": "0.232",
+      "obp": "0.294",
+      "ops": "0.724"
     },
     {
       "name": "Nolan Jones",
-      "pos": "DH",
-      "ba": "0.250",
-      "obp": "0.331",
-      "ops": "0.740"
+      "pos": "3B",
+      "ba": "0.251",
+      "obp": "0.339",
+      "ops": "0.750"
+    },
+    {
+      "name": "Nomar Mazara",
+      "pos": "RF",
+      "ba": "0.231",
+      "obp": "0.293",
+      "ops": "0.634"
     },
     {
       "name": "Omar Narvaez",
       "pos": "C",
-      "ba": "0.226",
-      "obp": "0.307",
-      "ops": "0.639"
+      "ba": "0.236",
+      "obp": "0.317",
+      "ops": "0.664"
     },
     {
       "name": "Oneil Cruz",
       "pos": "SS",
-      "ba": "0.244",
-      "obp": "0.307",
-      "ops": "0.765"
+      "ba": "0.247",
+      "obp": "0.310",
+      "ops": "0.757"
     },
     {
       "name": "Orlando Arcia",
       "pos": "2B",
-      "ba": "0.246",
+      "ba": "0.247",
       "obp": "0.307",
-      "ops": "0.712"
+      "ops": "0.708"
+    },
+    {
+      "name": "Oscar Colas",
+      "pos": "OF",
+      "ba": "0.242",
+      "obp": "0.298",
+      "ops": "0.704"
     },
     {
       "name": "Oscar Gonzalez",
       "pos": "OF",
-      "ba": "0.279",
-      "obp": "0.313",
-      "ops": "0.759"
+      "ba": "0.268",
+      "obp": "0.302",
+      "ops": "0.731"
     },
     {
       "name": "Oscar Mercado",
       "pos": "CF",
-      "ba": "0.224",
-      "obp": "0.274",
-      "ops": "0.656"
+      "ba": "0.333",
+      "obp": "0.333",
+      "ops": "0.666"
     },
     {
       "name": "Oswald Peraza",
       "pos": "SS",
-      "ba": "0.262",
-      "obp": "0.339",
-      "ops": "0.744"
+      "ba": "0.247",
+      "obp": "0.316",
+      "ops": "0.701"
     },
     {
       "name": "Oswaldo Cabrera",
       "pos": "OF",
-      "ba": "0.238",
-      "obp": "0.305",
-      "ops": "0.716"
+      "ba": "0.232",
+      "obp": "0.298",
+      "ops": "0.695"
     },
     {
       "name": "Otto Lopez",
       "pos": "2B",
-      "ba": "0.357",
-      "obp": "0.400",
-      "ops": "0.829"
+      "ba": "0.235",
+      "obp": "0.278",
+      "ops": "0.572"
     },
     {
       "name": "Owen Miller",
       "pos": "DH",
-      "ba": "0.234",
+      "ba": "0.236",
       "obp": "0.286",
-      "ops": "0.641"
+      "ops": "0.668"
     },
     {
       "name": "Ozzie Albies",
       "pos": "2B",
-      "ba": "0.259",
-      "obp": "0.310",
-      "ops": "0.764"
-    },
-    {
-      "name": "Pablo Reyes",
-      "pos": "3B",
-      "ba": "0.222",
-      "obp": "0.282",
-      "ops": "0.560"
-    },
-    {
-      "name": "Pat Valaika",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Patrick Kivlehan",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.267",
+      "obp": "0.316",
+      "ops": "0.781"
     },
     {
       "name": "Patrick Mazeika",
       "pos": "C",
-      "ba": "0.259",
-      "obp": "0.286",
-      "ops": "0.619"
+      "ba": "0.300",
+      "obp": "0.364",
+      "ops": "0.764"
     },
     {
       "name": "Patrick Wisdom",
-      "pos": "1B",
-      "ba": "0.210",
-      "obp": "0.294",
-      "ops": "0.720"
+      "pos": "3B",
+      "ba": "0.213",
+      "obp": "0.297",
+      "ops": "0.728"
     },
     {
       "name": "Paul DeJong",
       "pos": "2B",
-      "ba": "0.207",
+      "ba": "0.215",
       "obp": "0.288",
-      "ops": "0.657"
+      "ops": "0.686"
     },
     {
       "name": "Paul Goldschmidt",
       "pos": "1B",
-      "ba": "0.282",
-      "obp": "0.367",
-      "ops": "0.870"
+      "ba": "0.275",
+      "obp": "0.359",
+      "ops": "0.842"
     },
     {
       "name": "Pavin Smith",
       "pos": "DH",
-      "ba": "0.246",
-      "obp": "0.315",
-      "ops": "0.719"
+      "ba": "0.260",
+      "obp": "0.328",
+      "ops": "0.751"
     },
     {
       "name": "Payton Henry",
       "pos": "C",
-      "ba": "0.208",
-      "obp": "0.321",
-      "ops": "0.696"
+      "ba": "0.200",
+      "obp": "0.304",
+      "ops": "0.554"
     },
     {
       "name": "Pedro Severino",
       "pos": "C",
-      "ba": "0.228",
-      "obp": "0.294",
-      "ops": "0.631"
+      "ba": "0.234",
+      "obp": "0.286",
+      "ops": "0.661"
     },
     {
       "name": "Pete Alonso",
       "pos": "1B",
-      "ba": "0.262",
+      "ba": "0.260",
       "obp": "0.346",
-      "ops": "0.859"
-    },
-    {
-      "name": "Pete Kozma",
-      "pos": "SS",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ops": "0.849"
     },
     {
       "name": "Peyton Burdick",
       "pos": "RF",
-      "ba": "0.238",
-      "obp": "0.319",
-      "ops": "0.748"
-    },
-    {
-      "name": "Phil Gosselin",
-      "pos": "1B",
-      "ba": "0.238",
-      "obp": "0.286",
-      "ops": "0.615"
-    },
-    {
-      "name": "Phillip Ervin",
-      "pos": "OF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Phillip Evans",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.211",
+      "obp": "0.291",
+      "ops": "0.657"
     },
     {
       "name": "Rafael Devers",
       "pos": "3B",
-      "ba": "0.280",
-      "obp": "0.346",
-      "ops": "0.861"
+      "ba": "0.282",
+      "obp": "0.348",
+      "ops": "0.863"
     },
     {
       "name": "Rafael Marchan",
       "pos": "C",
-      "ba": "0.211",
-      "obp": "0.286",
-      "ops": "0.549"
+      "ba": "0.250",
+      "obp": "0.323",
+      "ops": "0.609"
     },
     {
       "name": "Rafael Ortega",
       "pos": "CF",
-      "ba": "0.233",
-      "obp": "0.316",
-      "ops": "0.669"
+      "ba": "0.237",
+      "obp": "0.313",
+      "ops": "0.703"
     },
     {
       "name": "Raimel Tapia",
       "pos": "LF",
-      "ba": "0.270",
-      "obp": "0.313",
+      "ba": "0.273",
+      "obp": "0.309",
       "ops": "0.695"
     },
     {
       "name": "Ramon Laureano",
       "pos": "OF",
-      "ba": "0.231",
-      "obp": "0.309",
-      "ops": "0.717"
+      "ba": "0.232",
+      "obp": "0.308",
+      "ops": "0.710"
     },
     {
       "name": "Ramon Urias",
       "pos": "3B",
       "ba": "0.248",
-      "obp": "0.312",
-      "ops": "0.710"
+      "obp": "0.314",
+      "ops": "0.716"
     },
     {
       "name": "Randal Grichuk",
       "pos": "OF",
-      "ba": "0.254",
-      "obp": "0.297",
-      "ops": "0.738"
+      "ba": "0.263",
+      "obp": "0.304",
+      "ops": "0.762"
     },
     {
       "name": "Randy Arozarena",
       "pos": "OF",
-      "ba": "0.257",
-      "obp": "0.329",
-      "ops": "0.761"
+      "ba": "0.259",
+      "obp": "0.331",
+      "ops": "0.770"
     },
     {
       "name": "Reese McGuire",
       "pos": "C",
-      "ba": "0.242",
-      "obp": "0.293",
-      "ops": "0.642"
-    },
-    {
-      "name": "Renato Nunez",
-      "pos": "1B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.245",
+      "obp": "0.296",
+      "ops": "0.645"
     },
     {
       "name": "Rene Pinto",
       "pos": "C",
-      "ba": "0.222",
-      "obp": "0.276",
-      "ops": "0.646"
+      "ba": "0.220",
+      "obp": "0.273",
+      "ops": "0.614"
     },
     {
       "name": "Rhys Hoskins",
       "pos": "1B",
-      "ba": "0.238",
-      "obp": "0.333",
-      "ops": "0.794"
-    },
-    {
-      "name": "Richie Martin",
-      "pos": "SS",
-      "ba": "0.212",
-      "obp": "0.268",
-      "ops": "0.595"
+      "ba": "0.233",
+      "obp": "0.330",
+      "ops": "0.777"
     },
     {
       "name": "Richie Palacios",
       "pos": "LF",
-      "ba": "0.250",
-      "obp": "0.319",
-      "ops": "0.663"
+      "ba": "0.261",
+      "obp": "0.320",
+      "ops": "0.711"
     },
     {
       "name": "Riley Adams",
       "pos": "C",
-      "ba": "0.199",
-      "obp": "0.280",
-      "ops": "0.620"
+      "ba": "0.211",
+      "obp": "0.294",
+      "ops": "0.655"
     },
     {
       "name": "Riley Greene",
       "pos": "OF",
       "ba": "0.253",
       "obp": "0.323",
-      "ops": "0.712"
-    },
-    {
-      "name": "Rio Ruiz",
-      "pos": "1B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ops": "0.722"
     },
     {
       "name": "Rob Brantly",
       "pos": "C",
-      "ba": "0.250",
-      "obp": "0.250",
-      "ops": "0.625"
+      "ba": "0.286",
+      "obp": "0.375",
+      "ops": "0.732"
     },
     {
       "name": "Rob Refsnyder",
       "pos": "CF",
-      "ba": "0.259",
-      "obp": "0.336",
-      "ops": "0.747"
+      "ba": "0.255",
+      "obp": "0.337",
+      "ops": "0.736"
     },
     {
       "name": "Robbie Grossman",
-      "pos": "LF",
-      "ba": "0.222",
-      "obp": "0.323",
-      "ops": "0.677"
-    },
-    {
-      "name": "Robel Garcia",
-      "pos": "SS",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "pos": "OF",
+      "ba": "0.224",
+      "obp": "0.325",
+      "ops": "0.684"
     },
     {
       "name": "Roberto Perez",
       "pos": "C",
-      "ba": "0.199",
-      "obp": "0.281",
-      "ops": "0.618"
+      "ba": "0.214",
+      "obp": "0.297",
+      "ops": "0.655"
     },
     {
       "name": "Robinson Cano",
       "pos": "2B",
-      "ba": "0.246",
-      "obp": "0.289",
-      "ops": "0.666"
-    },
-    {
-      "name": "Robinson Chirinos",
-      "pos": "C",
-      "ba": "0.197",
-      "obp": "0.281",
-      "ops": "0.605"
+      "ba": "0.253",
+      "obp": "0.300",
+      "ops": "0.687"
     },
     {
       "name": "Rodolfo Castro",
       "pos": "2B",
-      "ba": "0.231",
-      "obp": "0.293",
-      "ops": "0.708"
+      "ba": "0.229",
+      "obp": "0.288",
+      "ops": "0.681"
     },
     {
       "name": "Roman Quinn",
       "pos": "CF",
-      "ba": "0.276",
-      "obp": "0.364",
-      "ops": "0.847"
+      "ba": "0.241",
+      "obp": "0.333",
+      "ops": "0.712"
     },
     {
       "name": "Romy Gonzalez",
       "pos": "2B",
-      "ba": "0.229",
-      "obp": "0.277",
-      "ops": "0.644"
+      "ba": "0.225",
+      "obp": "0.279",
+      "ops": "0.643"
     },
     {
       "name": "Ronald Acuna",
       "pos": "OF",
-      "ba": "0.271",
-      "obp": "0.367",
-      "ops": "0.856"
+      "ba": "0.270",
+      "obp": "0.366",
+      "ops": "0.858"
     },
     {
       "name": "Ronald Guzman",
       "pos": "1B",
-      "ba": "0.111",
-      "obp": "0.200",
-      "ops": "0.311"
-    },
-    {
-      "name": "Ronald Torreyes",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Ronnie Dawson",
-      "pos": "DH",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Rougned Odor",
-      "pos": "2B",
-      "ba": "0.210",
-      "obp": "0.280",
-      "ops": "0.662"
+      "ba": "0.250",
+      "obp": "0.308",
+      "ops": "0.641"
     },
     {
       "name": "Rowdy Tellez",
       "pos": "1B",
-      "ba": "0.242",
-      "obp": "0.320",
-      "ops": "0.796"
+      "ba": "0.247",
+      "obp": "0.325",
+      "ops": "0.801"
     },
     {
       "name": "Royce Lewis",
-      "pos": "CF",
-      "ba": "0.271",
-      "obp": "0.323",
-      "ops": "0.791"
+      "pos": "SS",
+      "ba": "0.259",
+      "obp": "0.320",
+      "ops": "0.754"
     },
     {
       "name": "Ryan Aguilar",
       "pos": "CF",
-      "ba": "0.136",
-      "obp": "0.231",
-      "ops": "0.413"
-    },
-    {
-      "name": "Ryan Dorow",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.176",
+      "obp": "0.286",
+      "ops": "0.521"
     },
     {
       "name": "Ryan Jeffers",
       "pos": "C",
-      "ba": "0.212",
-      "obp": "0.287",
-      "ops": "0.668"
+      "ba": "0.219",
+      "obp": "0.290",
+      "ops": "0.678"
     },
     {
       "name": "Ryan Kreidler",
       "pos": "3B",
-      "ba": "0.208",
-      "obp": "0.279",
-      "ops": "0.603"
-    },
-    {
-      "name": "Ryan LaMarre",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Ryan Lavarnway",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.212",
+      "obp": "0.280",
+      "ops": "0.619"
     },
     {
       "name": "Ryan McKenna",
       "pos": "CF",
-      "ba": "0.208",
-      "obp": "0.280",
-      "ops": "0.593"
+      "ba": "0.224",
+      "obp": "0.298",
+      "ops": "0.639"
     },
     {
       "name": "Ryan McMahon",
-      "pos": "3B",
-      "ba": "0.246",
-      "obp": "0.325",
-      "ops": "0.749"
+      "pos": "2B",
+      "ba": "0.251",
+      "obp": "0.329",
+      "ops": "0.760"
     },
     {
       "name": "Ryan Mountcastle",
       "pos": "1B",
-      "ba": "0.255",
-      "obp": "0.311",
-      "ops": "0.755"
+      "ba": "0.260",
+      "obp": "0.314",
+      "ops": "0.768"
+    },
+    {
+      "name": "Ryan Noda",
+      "pos": "OF",
+      "ba": "0.205",
+      "obp": "0.306",
+      "ops": "0.659"
     },
     {
       "name": "Ryan O'Hearn",
       "pos": "RF",
-      "ba": "0.227",
-      "obp": "0.295",
-      "ops": "0.659"
+      "ba": "0.239",
+      "obp": "0.300",
+      "ops": "0.713"
     },
     {
       "name": "Ryan Vilade",
       "pos": "OF",
-      "ba": "0.241",
-      "obp": "0.311",
-      "ops": "0.663"
+      "ba": "0.261",
+      "obp": "0.333",
+      "ops": "0.746"
     },
     {
       "name": "Rylan Bannon",
       "pos": "3B",
-      "ba": "0.214",
-      "obp": "0.313",
-      "ops": "0.599"
+      "ba": "0.267",
+      "obp": "0.353",
+      "ops": "0.686"
     },
     {
       "name": "Salvador Perez",
       "pos": "C",
-      "ba": "0.257",
-      "obp": "0.300",
-      "ops": "0.777"
+      "ba": "0.258",
+      "obp": "0.301",
+      "ops": "0.779"
     },
     {
       "name": "Sam Haggerty",
       "pos": "LF",
-      "ba": "0.226",
-      "obp": "0.300",
-      "ops": "0.649"
+      "ba": "0.221",
+      "obp": "0.297",
+      "ops": "0.628"
     },
     {
       "name": "Sam Hilliard",
       "pos": "LF",
-      "ba": "0.207",
-      "obp": "0.288",
-      "ops": "0.657"
+      "ba": "0.214",
+      "obp": "0.291",
+      "ops": "0.689"
     },
     {
       "name": "Sam Huff",
       "pos": "C",
-      "ba": "0.226",
-      "obp": "0.287",
-      "ops": "0.685"
+      "ba": "0.211",
+      "obp": "0.282",
+      "ops": "0.648"
+    },
+    {
+      "name": "Samad Taylor",
+      "pos": "2B",
+      "ba": "0.234",
+      "obp": "0.311",
+      "ops": "0.666"
     },
     {
       "name": "Sandy Leon",
       "pos": "C",
-      "ba": "0.194",
-      "obp": "0.280",
-      "ops": "0.544"
+      "ba": "0.222",
+      "obp": "0.282",
+      "ops": "0.615"
     },
     {
       "name": "Santiago Espinal",
       "pos": "2B",
-      "ba": "0.265",
-      "obp": "0.321",
-      "ops": "0.695"
-    },
-    {
-      "name": "Scott Heineman",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.262",
+      "obp": "0.317",
+      "ops": "0.684"
     },
     {
       "name": "Scott Kingery",
       "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Scott Schebler",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.250",
+      "obp": "0.308",
+      "ops": "0.641"
     },
     {
       "name": "Sean Bouchard",
-      "pos": "LF",
-      "ba": "0.258",
-      "obp": "0.361",
-      "ops": "0.813"
+      "pos": "DH",
+      "ba": "0.254",
+      "obp": "0.327",
+      "ops": "0.767"
     },
     {
       "name": "Sean Murphy",
       "pos": "C",
-      "ba": "0.245",
-      "obp": "0.329",
-      "ops": "0.766"
-    },
-    {
-      "name": "Sebastian Rivero",
-      "pos": "C",
-      "ba": "0.167",
-      "obp": "0.219",
-      "ops": "0.419"
+      "ba": "0.247",
+      "obp": "0.330",
+      "ops": "0.769"
     },
     {
       "name": "Seby Zavala",
       "pos": "C",
-      "ba": "0.212",
-      "obp": "0.286",
-      "ops": "0.632"
+      "ba": "0.202",
+      "obp": "0.277",
+      "ops": "0.631"
     },
     {
       "name": "Seiya Suzuki",
       "pos": "OF",
-      "ba": "0.259",
-      "obp": "0.343",
-      "ops": "0.784"
+      "ba": "0.262",
+      "obp": "0.347",
+      "ops": "0.807"
     },
     {
       "name": "Sergio Alcantara",
       "pos": "3B",
-      "ba": "0.228",
-      "obp": "0.301",
-      "ops": "0.649"
+      "ba": "0.227",
+      "obp": "0.288",
+      "ops": "0.606"
     },
     {
       "name": "Seth Beer",
       "pos": "DH",
-      "ba": "0.217",
-      "obp": "0.302",
-      "ops": "0.628"
+      "ba": "0.243",
+      "obp": "0.317",
+      "ops": "0.695"
     },
     {
       "name": "Seth Brown",
-      "pos": "OF",
-      "ba": "0.227",
-      "obp": "0.295",
-      "ops": "0.729"
+      "pos": "1B",
+      "ba": "0.233",
+      "obp": "0.298",
+      "ops": "0.741"
     },
     {
       "name": "Shea Langeliers",
       "pos": "C",
-      "ba": "0.225",
-      "obp": "0.285",
-      "ops": "0.692"
-    },
-    {
-      "name": "Shed Long",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.224",
+      "obp": "0.290",
+      "ops": "0.683"
     },
     {
       "name": "Sheldon Neuse",
       "pos": "3B",
-      "ba": "0.208",
-      "obp": "0.263",
-      "ops": "0.555"
-    },
-    {
-      "name": "Shogo Akiyama",
-      "pos": "CF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.250",
+      "obp": "0.294",
+      "ops": "0.607"
     },
     {
       "name": "Shohei Ohtani",
       "pos": "DH",
-      "ba": "0.262",
-      "obp": "0.354",
-      "ops": "0.879"
+      "ba": "0.268",
+      "obp": "0.358",
+      "ops": "0.890"
     },
     {
       "name": "Simon Muzziotti",
       "pos": "CF",
-      "ba": "0.200",
-      "obp": "0.273",
-      "ops": "0.473"
+      "ba": "0.238",
+      "obp": "0.360",
+      "ops": "0.646"
     },
     {
       "name": "Skye Bolt",
       "pos": "CF",
-      "ba": "0.208",
-      "obp": "0.291",
-      "ops": "0.645"
+      "ba": "0.214",
+      "obp": "0.267",
+      "ops": "0.553"
+    },
+    {
+      "name": "Spencer Horwitz",
+      "pos": "1B",
+      "ba": "0.286",
+      "obp": "0.375",
+      "ops": "0.732"
     },
     {
       "name": "Spencer Steer",
       "pos": "3B",
-      "ba": "0.231",
-      "obp": "0.312",
-      "ops": "0.696"
+      "ba": "0.237",
+      "obp": "0.311",
+      "ops": "0.712"
     },
     {
       "name": "Spencer Torkelson",
       "pos": "1B",
-      "ba": "0.225",
-      "obp": "0.308",
-      "ops": "0.693"
+      "ba": "0.232",
+      "obp": "0.317",
+      "ops": "0.722"
     },
     {
       "name": "Starling Marte",
       "pos": "OF",
-      "ba": "0.278",
-      "obp": "0.338",
-      "ops": "0.769"
-    },
-    {
-      "name": "Steele Walker",
-      "pos": "RF",
-      "ba": "0.125",
-      "obp": "0.222",
-      "ops": "0.535"
+      "ba": "0.267",
+      "obp": "0.328",
+      "ops": "0.738"
     },
     {
       "name": "Stephen Piscotty",
       "pos": "DH",
-      "ba": "0.205",
-      "obp": "0.272",
-      "ops": "0.601"
+      "ba": "0.231",
+      "obp": "0.296",
+      "ops": "0.665"
     },
     {
       "name": "Stephen Vogt",
       "pos": "C",
-      "ba": "0.192",
-      "obp": "0.270",
-      "ops": "0.627"
-    },
-    {
-      "name": "Stephen Wilkerson",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.227",
+      "obp": "0.292",
+      "ops": "0.701"
     },
     {
       "name": "Steven Duggar",
       "pos": "LF",
-      "ba": "0.226",
-      "obp": "0.291",
-      "ops": "0.641"
+      "ba": "0.200",
+      "obp": "0.250",
+      "ops": "0.517"
     },
     {
       "name": "Steven Kwan",
       "pos": "OF",
-      "ba": "0.284",
-      "obp": "0.358",
-      "ops": "0.751"
+      "ba": "0.278",
+      "obp": "0.352",
+      "ops": "0.734"
     },
     {
       "name": "Stone Garrett",
       "pos": "DH",
-      "ba": "0.244",
-      "obp": "0.285",
-      "ops": "0.741"
+      "ba": "0.226",
+      "obp": "0.271",
+      "ops": "0.681"
     },
     {
       "name": "Stuart Fairchild",
       "pos": "OF",
-      "ba": "0.232",
-      "obp": "0.323",
-      "ops": "0.739"
+      "ba": "0.230",
+      "obp": "0.319",
+      "ops": "0.721"
     },
     {
       "name": "TJ Friedl",
       "pos": "OF",
-      "ba": "0.244",
-      "obp": "0.318",
+      "ba": "0.248",
+      "obp": "0.322",
       "ops": "0.732"
-    },
-    {
-      "name": "Taylor Davis",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Taylor Jones",
-      "pos": "LF",
-      "ba": "0.235",
-      "obp": "0.250",
-      "ops": "0.662"
-    },
-    {
-      "name": "Taylor Motter",
-      "pos": "3B",
-      "ba": "0.167",
-      "obp": "0.231",
-      "ops": "0.398"
     },
     {
       "name": "Taylor Trammell",
       "pos": "LF",
-      "ba": "0.203",
-      "obp": "0.287",
-      "ops": "0.655"
+      "ba": "0.219",
+      "obp": "0.296",
+      "ops": "0.681"
     },
     {
       "name": "Taylor Walls",
       "pos": "2B",
-      "ba": "0.198",
-      "obp": "0.289",
-      "ops": "0.605"
+      "ba": "0.204",
+      "obp": "0.295",
+      "ops": "0.621"
     },
     {
       "name": "Taylor Ward",
       "pos": "OF",
-      "ba": "0.266",
-      "obp": "0.347",
-      "ops": "0.804"
+      "ba": "0.263",
+      "obp": "0.345",
+      "ops": "0.797"
     },
     {
       "name": "Teoscar Hernandez",
       "pos": "OF",
-      "ba": "0.260",
-      "obp": "0.316",
-      "ops": "0.794"
+      "ba": "0.254",
+      "obp": "0.310",
+      "ops": "0.775"
     },
     {
       "name": "Terrance Gore",
       "pos": "CF",
-      "ba": "0.143",
-      "obp": "0.143",
-      "ops": "0.286"
+      "ba": "0.211",
+      "obp": "0.250",
+      "ops": "0.513"
     },
     {
       "name": "Terrin Vavra",
       "pos": "LF",
-      "ba": "0.254",
-      "obp": "0.341",
-      "ops": "0.707"
+      "ba": "0.247",
+      "obp": "0.337",
+      "ops": "0.695"
     },
     {
       "name": "Thairo Estrada",
       "pos": "2B",
-      "ba": "0.258",
-      "obp": "0.318",
-      "ops": "0.712"
+      "ba": "0.263",
+      "obp": "0.322",
+      "ops": "0.724"
     },
     {
       "name": "Tim Anderson",
       "pos": "SS",
-      "ba": "0.292",
-      "obp": "0.328",
-      "ops": "0.744"
-    },
-    {
-      "name": "Tim Beckham",
-      "pos": "LF",
-      "ba": "0.200",
-      "obp": "0.231",
-      "ops": "0.591"
+      "ba": "0.288",
+      "obp": "0.323",
+      "ops": "0.739"
     },
     {
       "name": "Tim Locastro",
       "pos": "RF",
-      "ba": "0.208",
-      "obp": "0.296",
-      "ops": "0.609"
+      "ba": "0.237",
+      "obp": "0.310",
+      "ops": "0.678"
     },
     {
       "name": "Timothy Lopes",
       "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Todd Frazier",
-      "pos": "1B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.205",
+      "obp": "0.279",
+      "ops": "0.587"
     },
     {
       "name": "Tom Murphy",
       "pos": "DH",
-      "ba": "0.218",
-      "obp": "0.301",
-      "ops": "0.687"
+      "ba": "0.225",
+      "obp": "0.302",
+      "ops": "0.701"
     },
     {
       "name": "Tomas Nido",
       "pos": "C",
-      "ba": "0.232",
-      "obp": "0.270",
-      "ops": "0.609"
+      "ba": "0.225",
+      "obp": "0.265",
+      "ops": "0.589"
     },
     {
       "name": "Tommy Edman",
       "pos": "SS",
-      "ba": "0.259",
-      "obp": "0.314",
-      "ops": "0.698"
+      "ba": "0.264",
+      "obp": "0.318",
+      "ops": "0.714"
     },
     {
       "name": "Tommy La Stella",
       "pos": "DH",
-      "ba": "0.254",
-      "obp": "0.313",
-      "ops": "0.701"
+      "ba": "0.246",
+      "obp": "0.306",
+      "ops": "0.665"
     },
     {
       "name": "Tommy Pham",
       "pos": "LF",
-      "ba": "0.235",
-      "obp": "0.321",
-      "ops": "0.701"
+      "ba": "0.233",
+      "obp": "0.320",
+      "ops": "0.693"
     },
     {
       "name": "Tony Wolters",
       "pos": "C",
-      "ba": "0.143",
+      "ba": "0.200",
       "obp": "0.250",
-      "ops": "0.393"
-    },
-    {
-      "name": "Travis Blankenhorn",
-      "pos": "DH",
-      "ba": "0.111",
-      "obp": "0.111",
-      "ops": "0.333"
-    },
-    {
-      "name": "Travis Demeritte",
-      "pos": "RF",
-      "ba": "0.213",
-      "obp": "0.268",
-      "ops": "0.583"
+      "ops": "0.517"
     },
     {
       "name": "Travis Jankowski",
       "pos": "RF",
-      "ba": "0.234",
-      "obp": "0.328",
-      "ops": "0.646"
-    },
-    {
-      "name": "Travis Shaw",
-      "pos": "DH",
-      "ba": "0.186",
-      "obp": "0.271",
-      "ops": "0.608"
+      "ba": "0.276",
+      "obp": "0.364",
+      "ops": "0.674"
     },
     {
       "name": "Travis Swaggerty",
       "pos": "LF",
-      "ba": "0.195",
-      "obp": "0.267",
-      "ops": "0.560"
+      "ba": "0.233",
+      "obp": "0.313",
+      "ops": "0.685"
     },
     {
       "name": "Travis dArnaud",
       "pos": "C",
-      "ba": "0.255",
-      "obp": "0.313",
-      "ops": "0.742"
+      "ba": "0.256",
+      "obp": "0.314",
+      "ops": "0.744"
     },
     {
       "name": "Trayce Thompson",
       "pos": "OF",
-      "ba": "0.227",
-      "obp": "0.309",
-      "ops": "0.763"
+      "ba": "0.213",
+      "obp": "0.290",
+      "ops": "0.704"
     },
     {
       "name": "Trea Turner",
       "pos": "SS",
-      "ba": "0.291",
-      "obp": "0.342",
-      "ops": "0.809"
-    },
-    {
-      "name": "Trent Giambrone",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.292",
+      "obp": "0.343",
+      "ops": "0.813"
     },
     {
       "name": "Trent Grisham",
       "pos": "OF",
-      "ba": "0.219",
-      "obp": "0.312",
-      "ops": "0.704"
+      "ba": "0.222",
+      "obp": "0.315",
+      "ops": "0.705"
     },
     {
       "name": "Tres Barrera",
       "pos": "C",
-      "ba": "0.222",
-      "obp": "0.290",
-      "ops": "0.592"
+      "ba": "0.250",
+      "obp": "0.333",
+      "ops": "0.750"
     },
     {
       "name": "Trevor Larnach",
       "pos": "LF",
-      "ba": "0.223",
-      "obp": "0.304",
-      "ops": "0.669"
+      "ba": "0.230",
+      "obp": "0.308",
+      "ops": "0.682"
     },
     {
       "name": "Trevor Story",
       "pos": "SS",
-      "ba": "0.246",
-      "obp": "0.316",
-      "ops": "0.767"
-    },
-    {
-      "name": "Trey Amburgey",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.240",
+      "obp": "0.311",
+      "ops": "0.751"
     },
     {
       "name": "Trey Mancini",
-      "pos": "DH",
+      "pos": "OF",
       "ba": "0.248",
       "obp": "0.324",
-      "ops": "0.735"
+      "ops": "0.731"
     },
     {
       "name": "Triston Casas",
       "pos": "1B",
-      "ba": "0.242",
-      "obp": "0.343",
-      "ops": "0.766"
-    },
-    {
-      "name": "Troy Stokes",
-      "pos": "RF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.243",
+      "obp": "0.348",
+      "ops": "0.770"
     },
     {
       "name": "Tucker Barnhart",
       "pos": "C",
       "ba": "0.222",
-      "obp": "0.293",
-      "ops": "0.607"
+      "obp": "0.292",
+      "ops": "0.598"
     },
     {
       "name": "Tucupita Marcano",
       "pos": "2B",
-      "ba": "0.232",
-      "obp": "0.297",
-      "ops": "0.633"
+      "ba": "0.248",
+      "obp": "0.320",
+      "ops": "0.687"
     },
     {
       "name": "Ty France",
       "pos": "1B",
-      "ba": "0.269",
-      "obp": "0.338",
-      "ops": "0.764"
+      "ba": "0.268",
+      "obp": "0.337",
+      "ops": "0.760"
     },
     {
       "name": "Tyler Freeman",
       "pos": "SS",
-      "ba": "0.261",
-      "obp": "0.328",
-      "ops": "0.664"
+      "ba": "0.269",
+      "obp": "0.331",
+      "ops": "0.689"
     },
     {
       "name": "Tyler Heineman",
       "pos": "C",
-      "ba": "0.225",
-      "obp": "0.295",
-      "ops": "0.599"
-    },
-    {
-      "name": "Tyler Naquin",
-      "pos": "RF",
-      "ba": "0.241",
-      "obp": "0.297",
-      "ops": "0.708"
+      "ba": "0.263",
+      "obp": "0.317",
+      "ops": "0.712"
     },
     {
       "name": "Tyler Nevin",
       "pos": "3B",
-      "ba": "0.224",
-      "obp": "0.307",
-      "ops": "0.643"
+      "ba": "0.223",
+      "obp": "0.299",
+      "ops": "0.647"
     },
     {
       "name": "Tyler O'Neill",
       "pos": "OF",
-      "ba": "0.245",
+      "ba": "0.247",
       "obp": "0.319",
-      "ops": "0.771"
-    },
-    {
-      "name": "Tyler Payne",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ops": "0.778"
     },
     {
       "name": "Tyler Stephenson",
       "pos": "C",
-      "ba": "0.273",
-      "obp": "0.342",
-      "ops": "0.764"
+      "ba": "0.265",
+      "obp": "0.333",
+      "ops": "0.746"
     },
     {
       "name": "Tyrone Taylor",
       "pos": "OF",
-      "ba": "0.234",
-      "obp": "0.295",
-      "ops": "0.721"
-    },
-    {
-      "name": "Tzu-Wei Lin",
-      "pos": "3B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.235",
+      "obp": "0.298",
+      "ops": "0.722"
     },
     {
       "name": "Vaughn Grissom",
       "pos": "SS",
-      "ba": "0.277",
-      "obp": "0.338",
-      "ops": "0.759"
+      "ba": "0.269",
+      "obp": "0.327",
+      "ops": "0.730"
     },
     {
       "name": "Victor Caratini",
       "pos": "C",
-      "ba": "0.230",
-      "obp": "0.314",
-      "ops": "0.683"
+      "ba": "0.225",
+      "obp": "0.315",
+      "ops": "0.664"
     },
     {
       "name": "Victor Reyes",
       "pos": "LF",
-      "ba": "0.257",
+      "ba": "0.256",
       "obp": "0.296",
       "ops": "0.679"
     },
     {
       "name": "Victor Robles",
       "pos": "OF",
-      "ba": "0.225",
-      "obp": "0.294",
-      "ops": "0.642"
+      "ba": "0.228",
+      "obp": "0.295",
+      "ops": "0.646"
     },
     {
       "name": "Vidal Brujan",
       "pos": "RF",
-      "ba": "0.220",
-      "obp": "0.283",
-      "ops": "0.631"
+      "ba": "0.255",
+      "obp": "0.321",
+      "ops": "0.709"
     },
     {
       "name": "Vimael Machin",
       "pos": "3B",
-      "ba": "0.225",
-      "obp": "0.307",
-      "ops": "0.622"
+      "ba": "0.244",
+      "obp": "0.311",
+      "ops": "0.677"
     },
     {
       "name": "Vinnie Pasquantino",
       "pos": "1B",
-      "ba": "0.280",
-      "obp": "0.363",
-      "ops": "0.827"
+      "ba": "0.276",
+      "obp": "0.355",
+      "ops": "0.818"
     },
     {
       "name": "Vinny Capra",
       "pos": "RF",
-      "ba": "0.167",
-      "obp": "0.375",
-      "ops": "0.542"
+      "ba": "0.222",
+      "obp": "0.300",
+      "ops": "0.522"
     },
     {
       "name": "Vladimir Guerrero Jr.",
       "pos": "1B",
-      "ba": "0.290",
-      "obp": "0.364",
-      "ops": "0.897"
+      "ba": "0.291",
+      "obp": "0.367",
+      "ops": "0.904"
     },
     {
       "name": "Wander Franco",
       "pos": "SS",
-      "ba": "0.285",
-      "obp": "0.340",
-      "ops": "0.782"
-    },
-    {
-      "name": "Webster Rivas",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.284",
+      "obp": "0.339",
+      "ops": "0.781"
     },
     {
       "name": "Whit Merrifield",
       "pos": "2B",
-      "ba": "0.261",
-      "obp": "0.307",
-      "ops": "0.692"
+      "ba": "0.260",
+      "obp": "0.305",
+      "ops": "0.691"
     },
     {
       "name": "Wil Myers",
-      "pos": "OF",
-      "ba": "0.245",
-      "obp": "0.312",
-      "ops": "0.726"
-    },
-    {
-      "name": "Wilfredo Tovar",
-      "pos": "2B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "pos": "1B",
+      "ba": "0.252",
+      "obp": "0.318",
+      "ops": "0.746"
     },
     {
       "name": "Will Benson",
       "pos": "CF",
-      "ba": "0.192",
-      "obp": "0.300",
-      "ops": "0.608"
+      "ba": "0.209",
+      "obp": "0.322",
+      "ops": "0.687"
     },
     {
       "name": "Will Brennan",
       "pos": "DH",
-      "ba": "0.290",
-      "obp": "0.348",
-      "ops": "0.763"
-    },
-    {
-      "name": "Will Craig",
-      "pos": "1B",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.265",
+      "obp": "0.329",
+      "ops": "0.707"
     },
     {
       "name": "Will Smith",
       "pos": "C",
-      "ba": "0.259",
-      "obp": "0.347",
-      "ops": "0.827"
+      "ba": "0.260",
+      "obp": "0.349",
+      "ops": "0.833"
     },
     {
       "name": "Willi Castro",
       "pos": "RF",
-      "ba": "0.262",
-      "obp": "0.316",
-      "ops": "0.718"
+      "ba": "0.258",
+      "obp": "0.299",
+      "ops": "0.654"
     },
     {
       "name": "William Contreras",
       "pos": "C",
-      "ba": "0.254",
-      "obp": "0.326",
-      "ops": "0.782"
-    },
-    {
-      "name": "Willians Astudillo",
-      "pos": "2B",
-      "ba": "0.238",
-      "obp": "0.264",
-      "ops": "0.616"
+      "ba": "0.245",
+      "obp": "0.314",
+      "ops": "0.745"
     },
     {
       "name": "Willie Calhoun",
       "pos": "DH",
-      "ba": "0.256",
-      "obp": "0.333",
-      "ops": "0.728"
+      "ba": "0.242",
+      "obp": "0.306",
+      "ops": "0.700"
     },
     {
       "name": "Willson Contreras",
       "pos": "C",
-      "ba": "0.248",
-      "obp": "0.346",
-      "ops": "0.797"
+      "ba": "0.247",
+      "obp": "0.345",
+      "ops": "0.786"
     },
     {
       "name": "Willy Adames",
       "pos": "SS",
       "ba": "0.247",
-      "obp": "0.315",
+      "obp": "0.317",
       "ops": "0.769"
-    },
-    {
-      "name": "Wilmer Difo",
-      "pos": "2B",
-      "ba": "0.247",
-      "obp": "0.310",
-      "ops": "0.648"
     },
     {
       "name": "Wilmer Flores",
       "pos": "3B",
-      "ba": "0.247",
-      "obp": "0.320",
-      "ops": "0.727"
-    },
-    {
-      "name": "Wyatt Mathisen",
-      "pos": "LF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
-    },
-    {
-      "name": "Wynton Bernard",
-      "pos": "LF",
-      "ba": "0.286",
-      "obp": "0.286",
-      "ops": "0.596"
+      "ba": "0.250",
+      "obp": "0.328",
+      "ops": "0.740"
     },
     {
       "name": "Xander Bogaerts",
       "pos": "SS",
-      "ba": "0.277",
-      "obp": "0.349",
-      "ops": "0.789"
+      "ba": "0.270",
+      "obp": "0.345",
+      "ops": "0.777"
     },
     {
       "name": "Yadiel Hernandez",
       "pos": "LF",
-      "ba": "0.252",
-      "obp": "0.304",
-      "ops": "0.698"
-    },
-    {
-      "name": "Yadier Molina",
-      "pos": "C",
-      "ba": "0.240",
-      "obp": "0.272",
-      "ops": "0.615"
+      "ba": "0.247",
+      "obp": "0.301",
+      "ops": "0.668"
     },
     {
       "name": "Yainer Diaz",
       "pos": "DH",
-      "ba": "0.226",
-      "obp": "0.284",
-      "ops": "0.671"
+      "ba": "0.263",
+      "obp": "0.308",
+      "ops": "0.712"
     },
     {
       "name": "Yairo Munoz",
       "pos": "3B",
-      "ba": "0.244",
-      "obp": "0.279",
-      "ops": "0.645"
+      "ba": "0.296",
+      "obp": "0.321",
+      "ops": "0.802"
     },
     {
       "name": "Yan Gomes",
       "pos": "C",
-      "ba": "0.243",
+      "ba": "0.244",
       "obp": "0.286",
-      "ops": "0.670"
+      "ops": "0.671"
     },
     {
       "name": "Yandy Diaz",
-      "pos": "3B",
-      "ba": "0.279",
-      "obp": "0.377",
-      "ops": "0.793"
+      "pos": "1B",
+      "ba": "0.277",
+      "obp": "0.373",
+      "ops": "0.789"
     },
     {
       "name": "Yasmani Grandal",
       "pos": "C",
-      "ba": "0.223",
-      "obp": "0.340",
-      "ops": "0.719"
-    },
-    {
-      "name": "Yermin Mercedes",
-      "pos": "1B",
-      "ba": "0.258",
-      "obp": "0.331",
-      "ops": "0.706"
+      "ba": "0.228",
+      "obp": "0.344",
+      "ops": "0.738"
     },
     {
       "name": "Yoan Moncada",
       "pos": "3B",
-      "ba": "0.244",
+      "ba": "0.246",
       "obp": "0.325",
-      "ops": "0.734"
-    },
-    {
-      "name": "Yohel Pozo",
-      "pos": "C",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ops": "0.732"
     },
     {
       "name": "Yolmer Sanchez",
       "pos": "2B",
-      "ba": "0.189",
-      "obp": "0.268",
-      "ops": "0.484"
+      "ba": "0.227",
+      "obp": "0.292",
+      "ops": "0.565"
     },
     {
       "name": "Yonathan Daza",
       "pos": "OF",
-      "ba": "0.285",
+      "ba": "0.288",
       "obp": "0.333",
-      "ops": "0.706"
+      "ops": "0.714"
     },
     {
       "name": "Yonny Hernandez",
       "pos": "2B",
-      "ba": "0.209",
-      "obp": "0.306",
-      "ops": "0.562"
+      "ba": "0.237",
+      "obp": "0.326",
+      "ops": "0.668"
     },
     {
       "name": "Yordan Alvarez",
-      "pos": "OF",
-      "ba": "0.289",
-      "obp": "0.380",
+      "pos": "DH",
+      "ba": "0.293",
+      "obp": "0.382",
       "ops": "0.955"
     },
     {
       "name": "Yoshitomo Tsutsugo",
       "pos": "1B",
-      "ba": "0.219",
-      "obp": "0.303",
-      "ops": "0.690"
+      "ba": "0.208",
+      "obp": "0.293",
+      "ops": "0.668"
     },
     {
       "name": "Yu-Cheng Chang",
       "pos": "SS",
-      "ba": "0.222",
-      "obp": "0.288",
-      "ops": "0.669"
-    },
-    {
-      "name": "Yuli Gurriel",
-      "pos": "1B",
-      "ba": "0.262",
-      "obp": "0.310",
-      "ops": "0.701"
-    },
-    {
-      "name": "Yusniel Diaz",
-      "pos": "OF",
-      "ba": "0.000",
-      "obp": "0.000",
-      "ops": "0.000"
+      "ba": "0.241",
+      "obp": "0.302",
+      "ops": "0.716"
     },
     {
       "name": "Zach McKinstry",
       "pos": "2B",
-      "ba": "0.229",
-      "obp": "0.292",
-      "ops": "0.665"
+      "ba": "0.233",
+      "obp": "0.298",
+      "ops": "0.657"
     },
     {
       "name": "Zack Collins",
       "pos": "1B",
-      "ba": "0.186",
-      "obp": "0.295",
-      "ops": "0.625"
+      "ba": "0.217",
+      "obp": "0.308",
+      "ops": "0.699"
     },
     {
       "name": "Zack Short",
       "pos": "2B",
-      "ba": "0.186",
-      "obp": "0.286",
-      "ops": "0.600"
+      "ba": "0.190",
+      "obp": "0.275",
+      "ops": "0.568"
     }
   ]
 }
