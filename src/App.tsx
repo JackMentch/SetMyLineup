@@ -41,8 +41,6 @@ function App() {
     setColorScheme(current_color)
   }, [team])
 
-
-
   const onDragEnd = (result: DropResult) => {
     const { source, destination } = result
     if (!destination) return
