@@ -57,7 +57,7 @@ function App() {
 
 
   return (
-    <div className="App" style={{ backgroundColor: colorScheme[0], height: '100%' }}>
+    <div className="App" style={{ backgroundColor: colorScheme[0], height: showStats ? '130vh' : '100vh' }}>
       <h1>Set My Lineup</h1>
       {/* <p className="title">Set My Lineup</p> */}
 
