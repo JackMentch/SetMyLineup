@@ -1,4 +1,4 @@
-import data from "./teamStats.json"
+import data from "./databaseFiles/teamStats.json"
 
 const teamOPSs: number[] = data['teamOPSs']
 const teamBAs: number[] = data['teamBAs']
