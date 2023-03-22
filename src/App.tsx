@@ -3,7 +3,7 @@ import { DragDropContext, Draggable, Droppable, DropResult } from "react-beautif
 import "./App.css"
 import { DropdownComponent } from "./pickTeam"
 import { ListItem } from "./rosterSpot"
-import data from "./database.json"
+import data from "./teamDatabase.json"
 import { ordinal_suffix_of } from "./ordinalSuffix"
 import { changePlayer } from "./changePlayer"
 import { DropdownComponentBench } from "./pickBench"
