@@ -14,7 +14,6 @@ import { changeOtherPlayer } from "./changeOtherPlayer"
 import { Analytics } from '@vercel/analytics/react'
 import { colorSchemes } from "./colorSchemes"
 
-
 const teams_list = Object.keys(data);
 
 function App() {
@@ -41,8 +40,6 @@ function App() {
     const current_color = colorSchemes[team.replace(/\s/g, "") as keyof typeof colorSchemes]
     setColorScheme(current_color)
   }, [team])
-
-
 
   const onDragEnd = (result: DropResult) => {
     const { source, destination } = result
