@@ -14,7 +14,6 @@ import { changeOtherPlayer } from "./changeOtherPlayer"
 import { Analytics } from '@vercel/analytics/react'
 import { colorSchemes } from "./colorSchemes"
 
-
 const teams_list = Object.keys(data);
 
 function App() {
