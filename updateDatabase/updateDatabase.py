@@ -106,7 +106,7 @@ with open("playerDatabase.json", "w") as outfile:
 
 with open("teamDatabase.json") as outfile:
     league = json.load(outfile)
-
+    
     ba = []
     obp = []
     ops = []
