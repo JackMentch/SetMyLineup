@@ -103,16 +103,16 @@ for key, value in league.items():
 totalPlayers.sort(key=lambda x: x['name'], reverse=False)
 
 
-with open("teamDatabase.json", "w") as outfile:
+with open("updateDatabase/teamDatabase.json", "w") as outfile:
     json.dump(league, outfile)
 
 
-with open("playerDatabase.json", "w") as outfile:
+with open("updateDatabase/playerDatabase.json", "w") as outfile:
     outfile.write('{ \n "players": ')
     json.dump(totalPlayers, outfile)
     outfile.write('\n }')
 
-with open("teamDatabase.json") as outfile:
+with open("updateDatabase/teamDatabase.json") as outfile:
     league = json.load(outfile)
 
     ba = []
@@ -129,7 +129,7 @@ with open("teamDatabase.json") as outfile:
 
     ba.sort(reverse=True), obp.sort(reverse=True), ops.sort(reverse=True)
 
-    with open("teamStats.json", "w") as outfile:
+    with open("updateDatabase/teamStats.json", "w") as outfile:
         outfile.write('{')
 
         outfile.write(' \n "teamOPSs": ')
