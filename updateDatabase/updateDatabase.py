@@ -62,13 +62,12 @@ def parsePlayers(players, type):
                 "obp": attributeList[8],
                 "ops": attributeList[10]
             })
-        print(playersList)
 
     return playersList
 
 totalPlayers = []
 
-with open('teamDatabase.json') as json_file:
+with open('updateDatabase/teamDatabase.json') as json_file:
     league = json.load(json_file)
 
 for abbr, team in teams.items():
@@ -96,7 +95,6 @@ for abbr, team in teams.items():
         print("LINK BROKEN, SKIPPING")
         continue
 
-print(league)
 
 for key, value in league.items():
     totalPlayers += league[team]["bench"] + league[team]["starters"]
