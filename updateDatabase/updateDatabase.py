@@ -2,7 +2,6 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import json
 
-
 teams = {
         'LAA': 'Angels',
         'OAK': 'Athletics',
@@ -36,7 +35,6 @@ teams = {
         'NYY': 'Yankees'
          }
 
-
 def parsePlayers(players, type):
 
     playersList = []
@@ -64,32 +62,43 @@ def parsePlayers(players, type):
                 "obp": attributeList[8],
                 "ops": attributeList[10]
             })
+        print(playersList)
 
     return playersList
 
 totalPlayers = []
-league = {}
+
+with open('teamDatabase.json') as json_file:
+    league = json.load(json_file)
+
 for abbr, team in teams.items():
     print(team)
-    league[team] = {"starters": None, "bench": None}
+    try:
+        html = urlopen(f"https://rotochamp.com/Baseball/TeamPage.aspx?TeamID={abbr}")
+        bsObj = BeautifulSoup(html.read(),"lxml")
 
-    html = urlopen(f"https://rotochamp.com/Baseball/TeamPage.aspx?TeamID={abbr}")
-    bsObj = BeautifulSoup(html.read(),"lxml")
+        startingPlayersTable = bsObj.find("table", {"id": "MainContent_gridProjectedLineup"})
+        startingPlayers = startingPlayersTable.findAll("tr")
 
-    startingPlayersTable = bsObj.find("table", {"id": "MainContent_gridProjectedLineup"})
-    startingPlayers = startingPlayersTable.findAll("tr")
-    league[team]["starters"] = parsePlayers(players=startingPlayers, type="starters")
+        league[team]["starters"] = parsePlayers(players=startingPlayers, type="starters")
 
-    html = urlopen(f"https://rotochamp.com/Baseball/TeamPageBench.aspx?TeamID={abbr}")
-    bsObj = BeautifulSoup(html.read(), "lxml")
+        html = urlopen(f"https://rotochamp.com/Baseball/TeamPageBench.aspx?TeamID={abbr}")
+        bsObj = BeautifulSoup(html.read(), "lxml")
 
-    benchPlayersTable = bsObj.find("table", {"id": "MainContent_gridBench"})
-    benchPlayers = benchPlayersTable.findAll("tr")
-    league[team]["bench"] = parsePlayers(players=benchPlayers, type="bench")
+        benchPlayersTable = bsObj.find("table", {"id": "MainContent_gridBench"})
+        benchPlayers = benchPlayersTable.findAll("tr")
+        league[team]["bench"] = parsePlayers(players=benchPlayers, type="bench")
 
-    while len(league[team]["starters"]) < 9:
-        league[team]["starters"].append(league[team]["bench"].pop())
+        while len(league[team]["starters"]) < 9:
+            league[team]["starters"].append(league[team]["bench"].pop())
 
+    except:
+        print("LINK BROKEN, SKIPPING")
+        continue
+
+print(league)
+
+for key, value in league.items():
     totalPlayers += league[team]["bench"] + league[team]["starters"]
 
 
@@ -135,6 +144,5 @@ with open("teamDatabase.json") as outfile:
         json.dump(obp, outfile)
 
         outfile.write('\n }')
-
 
 
