@@ -89,7 +89,7 @@ for abbr, team in teams.items():
         league[team]["bench"] = parsePlayers(players=benchPlayers, type="bench")
 
         while len(league[team]["starters"]) < 9:
-            league[team]["starters"].append(league[team]["bench"].pop())
+            league[team]["starters"].append(league[team]["bench"].pop(0))
 
     except:
         print("LINK BROKEN, SKIPPING")
