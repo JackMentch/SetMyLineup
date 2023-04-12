@@ -95,10 +95,8 @@ for abbr, team in teams.items():
         print("LINK BROKEN, SKIPPING")
         continue
 
-
-for key, value in league.items():
-    totalPlayers += league[team]["bench"] + league[team]["starters"]
-
+for key in league.keys():
+    totalPlayers += league[key]["bench"] + league[key]["starters"]
 
 totalPlayers.sort(key=lambda x: x['name'], reverse=False)
 
