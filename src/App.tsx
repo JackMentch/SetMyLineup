@@ -55,7 +55,7 @@ function App() {
 
   return (
     <div className="App" style={{ backgroundColor: colorScheme[0], height: showStats ? '130vh' : '100vh' }}>
-      <h1>Set My Lineup</h1>
+      <h1>3up3down.app</h1>
       {/* <p className="title">Set My Lineup</p> */}
 
       <button className="btn btn-blue view-stats" onClick={() => setShowStats((!showStats))}>
@@ -157,7 +157,7 @@ function App() {
       )}
       </div>
 
-      {/* <p className="muse">Developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p> */}
+      <p className="muse">"your poverty team sucks" -<a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
 
 
 

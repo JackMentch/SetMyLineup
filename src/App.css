@@ -34,9 +34,9 @@ p {
 }
 
 .muse {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  @apply tracking-tight text-xs text-gray-700;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  @apply tracking-tight text-xs text-gray-100;
 }
 .title {
   padding-top: 5px;

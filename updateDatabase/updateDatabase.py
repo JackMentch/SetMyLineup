@@ -54,6 +54,11 @@ def parsePlayers(players, type):
         if type == "starters":
             attributeList = attributeList[1:]
 
+        if attributeList[0] in corrections:
+            attributeList[7] = corrections[attributeList[0]]["ba"]
+            attributeList[8] = corrections[attributeList[0]]["obp"]
+            attributeList[10] = corrections[attributeList[0]]["ops"]
+
         playersList.append(
             {
                 "name": attributeList[0],
@@ -69,6 +74,9 @@ totalPlayers = []
 
 with open('updateDatabase/teamDatabase.json') as json_file:
     league = json.load(json_file)
+
+with open('updateDatabase/playerCorrections.json') as json_file:
+    corrections = json.load(json_file)
 
 for abbr, team in teams.items():
     print(team)
