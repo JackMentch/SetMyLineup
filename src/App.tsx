@@ -157,7 +157,7 @@ function App() {
       )}
       </div>
 
-      <p className="muse">"your poverty team sucks" -<a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
+      <p className="muse">"developed by " -<a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
 
 
 
