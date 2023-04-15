@@ -66,7 +66,7 @@ function App() {
       <DropdownComponent teams={teams_list} getTeam={(teamName) => { setTeam(teamName) }} />
       <br></br>
       <div> {team === "Mets" ? (
-   
+
         <p style={{ color: colorScheme[1], marginTop: "100px" }}><b>poverty franchises not supported</b></p>
       ) : (
 
@@ -89,8 +89,10 @@ function App() {
                               {...provided.draggableProps}
                               {...provided.dragHandleProps}
 
-                              style={{ background: snapshot.isDragging ? "#596475" : colorScheme[1], 
-                                      ...provided.draggableProps.style }}
+                              style={{
+                                background: snapshot.isDragging ? "#596475" : colorScheme[1],
+                                ...provided.draggableProps.style
+                              }}
                             >
                               <div onClick={() => {
                                 if (switchPlayerBench) {
@@ -138,7 +140,9 @@ function App() {
                 <h6>({ordinal_suffix_of(rankings[2])})</h6>
               </div>
             </div>
-          </div><div className="switch-players">
+          </div>
+
+          <div className="switch-players">
 
             <DropdownComponentBench benchPlayers={benchPlayers} btnName="bench" getPlayer={(player) => {
               setSwitchPlayerBench(true)
@@ -157,8 +161,11 @@ function App() {
       )}
       </div>
 
-      <p className="muse">developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
+      <div> {rankings[0] > 15 && rankings[1] > 15 && rankings[2] > 15 ? (
+        <p className="muse">"Poverty Detector Measuring High Reading" -<a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
+      ) : (<p className="muse">developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
 
+      )}</div>
 
 
       <Analytics />
