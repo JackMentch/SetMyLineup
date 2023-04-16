@@ -54,7 +54,7 @@ function App() {
 
 
   return (
-    <div className="App" style={{ backgroundColor: colorScheme[0], height: showStats ? '130vh' : '100vh' }}>
+    <div className="App" style={{ backgroundColor: colorScheme[0], height: showStats ? '135vh' : '100vh' }}>
       <h1>3up3down.app</h1>
       {/* <p className="title">Set My Lineup</p> */}
 
