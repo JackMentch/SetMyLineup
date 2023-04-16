@@ -161,11 +161,11 @@ function App() {
       )}
       </div>
 
-      <div> {rankings[0] > 15 && rankings[1] > 15 && rankings[2] > 15 ? (
+            
+      {/* <div> {rankings[0] > 15 && rankings[1] > 15 && rankings[2] > 15 ? (
         <p className="muse">Poverty Detector Measuring High Reading</p>
       ) : (<p className="muse">developed by <a href="https://twitter.com/Phillies_Muse">@Phillies_Muse</a></p>
-
-      )}</div>
+      )}</div> */}
 
 
       <Analytics />
