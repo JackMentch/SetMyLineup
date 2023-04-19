@@ -106,7 +106,7 @@ for abbr, team in teams.items():
 for key in league.keys():
     totalPlayers += league[key]["bench"] + league[key]["starters"]
 
-totalPlayers += {'name': 'Phillies_Muse', 'pos': 'SS', 'ba': '0.855', 'obp': '0.965', 'ops': '2.744'}
+totalPlayers.append({'name': 'Phillies_Muse', 'pos': 'SS', 'ba': '0.855', 'obp': '0.965', 'ops': '2.744'})
 
 totalPlayers.sort(key=lambda x: x['name'], reverse=False)
 
