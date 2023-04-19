@@ -55,7 +55,7 @@ function App() {
 
   return (
     <div className="App" style={{ backgroundColor: colorScheme[0], height: showStats ? '135vh' : '100vh' }}>
-      <h1>lolMets.com</h1>
+      <h1>lolmets.com</h1>
       {/* <p className="title">Set My Lineup</p> */}
 
       <button className="btn btn-blue view-stats" onClick={() => setShowStats((!showStats))}>
