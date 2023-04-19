@@ -59,7 +59,7 @@ function App() {
       {/* <p className="title">Set My Lineup</p> */}
 
       <button className="btn btn-blue view-stats" onClick={() => setShowStats((!showStats))}>
-        view stats
+        {!showStats ? "view stats" : "hide stats"}
       </button>
 
 
