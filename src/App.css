@@ -120,6 +120,13 @@ h6 {
   display: flex;
 }
 
+.right {
+  position: absolute;
+  right: 5px;
+  margin-top: -40px;
+}
+
+
 .dropdown-up-item{
   position: absolute;
   justify-content: center;

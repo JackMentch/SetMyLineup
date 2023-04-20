@@ -13,6 +13,7 @@ import allPlayers from "./databaseFiles/playerDatabase.json"
 import { changeOtherPlayer } from "./changeOtherPlayer"
 import { Analytics } from '@vercel/analytics/react'
 import { colorSchemes } from "./colorSchemes"
+import { ReactComponent as HelpSvg } from "./help_small.svg"
 
 const teams_list = Object.keys(data);
 
@@ -55,7 +56,13 @@ function App() {
 
   return (
     <div className="App" style={{ backgroundColor: colorScheme[0], height: showStats ? '135vh' : '100vh' }}>
-      <h1>lolmets.com</h1>
+      <h1>3up3down.app</h1>
+      
+      <div className="right">
+        <a href="https://www.w3schools.com">< HelpSvg/></a>
+      </div>
+
+
       {/* <p className="title">Set My Lineup</p> */}
 
       <button className="btn btn-blue view-stats" onClick={() => setShowStats((!showStats))}>
