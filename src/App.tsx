@@ -19,7 +19,7 @@ const teams_list = Object.keys(data);
 
 function App() {
   const [showStats, setShowStats] = useState(false)
-  const [team, setTeam] = useState("Phillies")
+  const [team, setTeam] = useState("Orioles")
   const [players, setPlayers] = useState(data.Phillies.starters)
   const [benchPlayers, setBenchPlayers] = useState(data.Phillies.bench)
   const [benchPlayer, setBenchPlayer] = useState(benchPlayers[0])
